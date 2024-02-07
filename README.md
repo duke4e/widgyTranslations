@@ -8,4 +8,5 @@
   - [Loca Studio](https://apps.apple.com/us/app/loca-studio/id1465684707?mt=12)
   - [XLIFF Editor](https://www.l10nsoftware.com/xliff-editor/)
   - [Swordfish](https://www.maxprograms.com/products/swordfish.html)
+- Test the translations by opening Widgys Settings tab, choose App Language, and then tap on Import from top right corner
 - When done, send a pull request (take your time and [read a tutorial on how to do this](https://docs.github.com/en/desktop/working-with-your-remote-repository-on-github-or-github-enterprise/creating-an-issue-or-pull-request-from-github-desktop))
