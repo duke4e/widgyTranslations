@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Home Widget/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-TW" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C65"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -79,7 +79,7 @@
   </file>
   <file original="Home Widget/en.lproj/Localizable.strings" source-language="en" target-language="zh-TW" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C65"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
     </header>
     <body>
       <trans-unit id="%@" xml:space="preserve">
@@ -93,11 +93,6 @@
       </trans-unit>
       <trans-unit id="%@@%@x%@" xml:space="preserve">
         <source>%1$@@%2$@x%3$@</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@x%@" xml:space="preserve">
-        <source>%1$@x%2$@</source>
-        <target>%1$@x%2$@</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="+1d" xml:space="preserve">
@@ -876,6 +871,10 @@
         <note>Widget Size
    Widget Size Name</note>
       </trans-unit>
+      <trans-unit id="Reloading Thumbnails" xml:space="preserve">
+        <source>Reloading Thumbnails</source>
+        <note>System Message</note>
+      </trans-unit>
       <trans-unit id="Reloading Widgets" xml:space="preserve">
         <source>Reloading Widgets</source>
         <target>正在重載小工具</target>
@@ -1127,7 +1126,7 @@
   </file>
   <file original="Watchy WatchKit Extension/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-TW" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C65"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1208,14 +1207,9 @@
   </file>
   <file original="Watchy WatchKit Extension/en.lproj/Localizable.strings" source-language="en" target-language="zh-TW" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C65"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
     </header>
     <body>
-      <trans-unit id="%lld" xml:space="preserve">
-        <source>%lld</source>
-        <target>%lld</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
       <trans-unit id="+1d" xml:space="preserve">
         <source>+1d</source>
         <target>+1d</target>
@@ -2210,7 +2204,7 @@
   </file>
   <file original="WatchyComplications/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-TW" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C65"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2294,7 +2288,7 @@
   </file>
   <file original="WatchyComplications/en.lproj/Localizable.strings" source-language="en" target-language="zh-TW" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C65"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
     </header>
     <body>
       <trans-unit id="%lld" xml:space="preserve">
@@ -3275,7 +3269,7 @@
   </file>
   <file original="Widgy/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-TW" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C65"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -3361,7 +3355,7 @@
   </file>
   <file original="Widgy/en.lproj/Localizable.strings" source-language="en" target-language="zh-TW" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.1" build-num="15C65"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
     </header>
     <body>
       <trans-unit id="%@" xml:space="preserve">
@@ -3622,18 +3616,15 @@
       </trans-unit>
       <trans-unit id="3D Rotation Perspective" xml:space="preserve">
         <source>3D Rotation Perspective</source>
-        <note>Effects Drawer
-   Layer Properties</note>
+        <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="3D Rotation X-Axis" xml:space="preserve">
         <source>3D Rotation X-Axis</source>
-        <note>Effects Drawer
-   Layer Properties</note>
+        <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="3D Rotation Y-Axis" xml:space="preserve">
         <source>3D Rotation Y-Axis</source>
-        <note>Effects Drawer
-   Layer Properties</note>
+        <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="3G" xml:space="preserve">
         <source>3G</source>
@@ -3870,7 +3861,8 @@
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
         <target>增加</target>
-        <note>Edit Date Option</note>
+        <note>Button Title
+   Edit Date Option</note>
       </trans-unit>
       <trans-unit id="Add New Color" xml:space="preserve">
         <source>Add New Color</source>
@@ -3933,12 +3925,12 @@
       <trans-unit id="Agenda All-Day End" xml:space="preserve">
         <source>Agenda All-Day End</source>
         <target>Agenda All-Day End</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda All-Day Start" xml:space="preserve">
         <source>Agenda All-Day Start</source>
         <target>Agenda All-Day Start</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Chronological" xml:space="preserve">
         <source>Agenda Chronological</source>
@@ -3953,7 +3945,7 @@
       <trans-unit id="Agenda Now" xml:space="preserve">
         <source>Agenda Now</source>
         <target>Agenda Now</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Reminders" xml:space="preserve">
         <source>Agenda Reminders</source>
@@ -4000,14 +3992,14 @@
       <trans-unit id="Agenda Today" xml:space="preserve">
         <source>Agenda Today</source>
         <target>Agenda Today</target>
-        <note>Data Sources
-   Messages Drawer</note>
+        <note>Customize Drawer
+   Data Sources</note>
       </trans-unit>
       <trans-unit id="Agenda Tomorrow" xml:space="preserve">
         <source>Agenda Tomorrow</source>
         <target>Agenda Tomorrow</target>
-        <note>Data Sources
-   Messages Drawer</note>
+        <note>Customize Drawer
+   Data Sources</note>
       </trans-unit>
       <trans-unit id="Air Pressure" xml:space="preserve">
         <source>Air Pressure</source>
@@ -4828,6 +4820,14 @@
         <source>CSV From Web URL (No Caching)</source>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="CSV Picker" xml:space="preserve">
+        <source>CSV Picker</source>
+        <note>Window Title</note>
+      </trans-unit>
+      <trans-unit id="CSV has no consistent number data in any columns." xml:space="preserve">
+        <source>CSV has no consistent number data in any columns.</source>
+        <note>CSV Picker Drawer</note>
+      </trans-unit>
       <trans-unit id="Calendar" xml:space="preserve">
         <source>Calendar</source>
         <target>行事曆</target>
@@ -4861,7 +4861,7 @@
       <trans-unit id="Calendar No Data" xml:space="preserve">
         <source>Calendar No Data</source>
         <target>Calendar No Data</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Calendar Today" xml:space="preserve">
         <source>Calendar Today</source>
@@ -5118,6 +5118,10 @@
         <target>Clear Cache?</target>
         <note>Button Title</note>
       </trans-unit>
+      <trans-unit id="Clear Image" xml:space="preserve">
+        <source>Clear Image</source>
+        <note>Button Title</note>
+      </trans-unit>
       <trans-unit id="Clear Sky" xml:space="preserve">
         <source>Clear Sky</source>
         <target>晴天</target>
@@ -5251,6 +5255,10 @@
         <target>社群與 QR 碼</target>
         <note>Create Tab Top Actions</note>
       </trans-unit>
+      <trans-unit id="Compact" xml:space="preserve">
+        <source>Compact</source>
+        <note>Apple Gauge Drawer</note>
+      </trans-unit>
       <trans-unit id="Compact Leading" xml:space="preserve">
         <source>Compact Leading</source>
         <note>Widget Size Name</note>
@@ -5291,27 +5299,27 @@
       <trans-unit id="Connection Type 2G" xml:space="preserve">
         <source>Connection Type 2G</source>
         <target>連線類型 2G</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Connection Type 3G" xml:space="preserve">
         <source>Connection Type 3G</source>
         <target>連線類型 3G</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Connection Type 4G" xml:space="preserve">
         <source>Connection Type 4G</source>
         <target>連線類型 4G</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Connection Type 5G" xml:space="preserve">
         <source>Connection Type 5G</source>
         <target>連線類型 5G</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Connection Type WiFi" xml:space="preserve">
         <source>Connection Type WiFi</source>
         <target>連線類型 WiFi</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Connectivity" xml:space="preserve">
         <source>Connectivity</source>
@@ -5477,23 +5485,19 @@
       </trans-unit>
       <trans-unit id="Crop Center X" xml:space="preserve">
         <source>Crop Center X</source>
-        <note>Effects Drawer
-   Layer Properties</note>
+        <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="Crop Center Y" xml:space="preserve">
         <source>Crop Center Y</source>
-        <note>Effects Drawer
-   Layer Properties</note>
+        <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="Crop Height" xml:space="preserve">
         <source>Crop Height</source>
-        <note>Effects Drawer
-   Layer Properties</note>
+        <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="Crop Width" xml:space="preserve">
         <source>Crop Width</source>
-        <note>Effects Drawer
-   Layer Properties</note>
+        <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="Cryptocurrency" xml:space="preserve">
         <source>Cryptocurrency</source>
@@ -5618,6 +5622,22 @@
         <source>Current Zodiac Sign</source>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Currently Using Image From Files" xml:space="preserve">
+        <source>Currently Using Image From Files</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="Currently Using Image From Photos" xml:space="preserve">
+        <source>Currently Using Image From Photos</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="Currently Using Image From Stash" xml:space="preserve">
+        <source>Currently Using Image From Stash</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="Currently Using Image From Web URL" xml:space="preserve">
+        <source>Currently Using Image From Web URL</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
       <trans-unit id="Currently, you can only get Now Playing from Apple Music, because it's a native system call without the integration of any third-party components. There is no point in getting Now Playing from Spotify since it requires jumping from a bunch more hoops, and the widget doesn't refresh enough for it to be worth it." xml:space="preserve">
         <source>Currently, you can only get Now Playing from Apple Music, because it's a native system call without the integration of any third-party components. There is no point in getting Now Playing from Spotify since it requires jumping from a bunch more hoops, and the widget doesn't refresh enough for it to be worth it.</source>
         <target>當前，你只能從 Apple Music 取得 “正在播放” 資訊，因為它是原生系統調用，沒有集成任何第三方組件。從 Spotify 取得 “正在播放” 資訊是沒有意義的，因為它需要更多的跳轉，而且小工具的狀態沒辦法做到實時更新。</target>
@@ -5688,6 +5708,10 @@
         <source>Custom Values For Min/Max</source>
         <note>Bar Chart Drawer</note>
       </trans-unit>
+      <trans-unit id="Customize" xml:space="preserve">
+        <source>Customize</source>
+        <note>Editor Tab Names</note>
+      </trans-unit>
       <trans-unit id="Cyan" xml:space="preserve">
         <source>Cyan</source>
         <target>青色</target>
@@ -5756,6 +5780,10 @@
         <target>每日溫度 (色彩符號)</target>
         <note>Symbol List</note>
       </trans-unit>
+      <trans-unit id="Daily Temperature (Custom Image)" xml:space="preserve">
+        <source>Daily Temperature (Custom Image)</source>
+        <note>Symbol List</note>
+      </trans-unit>
       <trans-unit id="Daily Temperature (Filled Symbols)" xml:space="preserve">
         <source>Daily Temperature (Filled Symbols)</source>
         <target>每日溫度 (填充型符號)</target>
@@ -5766,9 +5794,17 @@
         <target>每日溫度 (圖片)</target>
         <note>Symbol List</note>
       </trans-unit>
+      <trans-unit id="Daily Temperature (Outline Image)" xml:space="preserve">
+        <source>Daily Temperature (Outline Image)</source>
+        <note>Symbol List</note>
+      </trans-unit>
       <trans-unit id="Daily Temperature (Outline Symbols)" xml:space="preserve">
         <source>Daily Temperature (Outline Symbols)</source>
         <target>每日溫度 (外框符號)</target>
+        <note>Symbol List</note>
+      </trans-unit>
+      <trans-unit id="Daily Temperature (White Image)" xml:space="preserve">
+        <source>Daily Temperature (White Image)</source>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Temperature (White Symbols)" xml:space="preserve">
@@ -5932,11 +5968,11 @@
       </trans-unit>
       <trans-unit id="Daylight/Night Remaining - Until Sunrise" xml:space="preserve">
         <source>Daylight/Night Remaining - Until Sunrise</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Daylight/Night Remaining - Until Sunset" xml:space="preserve">
         <source>Daylight/Night Remaining - Until Sunset</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Days" xml:space="preserve">
         <source>Days</source>
@@ -5987,10 +6023,6 @@
         <source>Decimals</source>
         <target>小數</target>
         <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Curved Text Drawer
-   Gauge Drawer
-   Line Chart Drawer
    Text Drawer</note>
       </trans-unit>
       <trans-unit id="Decreased" xml:space="preserve">
@@ -6289,11 +6321,6 @@
         <target>Disable UI Animations</target>
         <note>Editor</note>
       </trans-unit>
-      <trans-unit id="Disabled" xml:space="preserve">
-        <source>Disabled</source>
-        <target>已停用</target>
-        <note>Widget Settings View</note>
-      </trans-unit>
       <trans-unit id="Disk Space" xml:space="preserve">
         <source>Disk Space</source>
         <target>磁碟空間</target>
@@ -6384,6 +6411,10 @@
         <source>Don't Forget!</source>
         <target>別忘了！</target>
         <note>Onboarding</note>
+      </trans-unit>
+      <trans-unit id="Don't Hide" xml:space="preserve">
+        <source>Don't Hide</source>
+        <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
         <source>Done</source>
@@ -6542,6 +6573,10 @@
         <target>編輯漸變色</target>
         <note>Gradient Drawer</note>
       </trans-unit>
+      <trans-unit id="Edit Transparency Layer" xml:space="preserve">
+        <source>Edit Transparency Layer</source>
+        <note>Document Drawer</note>
+      </trans-unit>
       <trans-unit id="Edit Widget" xml:space="preserve">
         <source>Edit Widget</source>
         <note>Widget Preview Button</note>
@@ -6595,16 +6630,6 @@
       <trans-unit id="Emboss Top Color" xml:space="preserve">
         <source>Emboss Top Color</source>
         <note>Effects Drawer</note>
-      </trans-unit>
-      <trans-unit id="Enabled" xml:space="preserve">
-        <source>Enabled</source>
-        <target>已啟用</target>
-        <note>Widget Settings View</note>
-      </trans-unit>
-      <trans-unit id="Enabled (Except Editor)" xml:space="preserve">
-        <source>Enabled (Except Editor)</source>
-        <target>已啟用（編輯器除外）</target>
-        <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Enclosed Symbols" xml:space="preserve">
         <source>Enclosed Symbols</source>
@@ -6793,12 +6818,7 @@
       <trans-unit id="Exclusive Segment Mode" xml:space="preserve">
         <source>Exclusive Segment Mode</source>
         <target>互斥段模式</target>
-        <note>Apple Gauge Drawer
-   Bar Chart Drawer
-   Circle Chart Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Ring Chart Drawer</note>
+        <note>Bar Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Expand All Groups" xml:space="preserve">
         <source>Expand All Groups</source>
@@ -7469,10 +7489,6 @@
         <source>Grouping Separator</source>
         <target>分組分隔符</target>
         <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Curved Text Drawer
-   Gauge Drawer
-   Line Chart Drawer
    Text Drawer</note>
       </trans-unit>
       <trans-unit id="Guided Access" xml:space="preserve">
@@ -7503,12 +7519,12 @@
       <trans-unit id="Has 3D Touch No" xml:space="preserve">
         <source>Has 3D Touch No</source>
         <target>有 3D Touch No</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has 3D Touch Yes" xml:space="preserve">
         <source>Has 3D Touch Yes</source>
         <target>有 3D Touch Yes</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has Biometric Sensor" xml:space="preserve">
         <source>Has Biometric Sensor</source>
@@ -7518,12 +7534,12 @@
       <trans-unit id="Has Biometric Sensor No" xml:space="preserve">
         <source>Has Biometric Sensor No</source>
         <target>有生物傳感器 No</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has Biometric Sensor Yes" xml:space="preserve">
         <source>Has Biometric Sensor Yes</source>
         <target>有生物傳感器 Yes</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has Lidar Sensor" xml:space="preserve">
         <source>Has Lidar Sensor</source>
@@ -7533,12 +7549,12 @@
       <trans-unit id="Has Lidar Sensor No" xml:space="preserve">
         <source>Has Lidar Sensor No</source>
         <target>有光達傳感器 No</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has Lidar Sensor Yes" xml:space="preserve">
         <source>Has Lidar Sensor Yes</source>
         <target>有光達傳感器 Yes</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has Rounded Display Corners" xml:space="preserve">
         <source>Has Rounded Display Corners</source>
@@ -7548,12 +7564,12 @@
       <trans-unit id="Has Rounded Display Corners No" xml:space="preserve">
         <source>Has Rounded Display Corners No</source>
         <target>有圓角螢幕 No</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has Rounded Display Corners Yes" xml:space="preserve">
         <source>Has Rounded Display Corners Yes</source>
         <target>有圓角螢幕 Yes</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has Telephoto Camera" xml:space="preserve">
         <source>Has Telephoto Camera</source>
@@ -7563,12 +7579,12 @@
       <trans-unit id="Has Telephoto Camera No" xml:space="preserve">
         <source>Has Telephoto Camera No</source>
         <target>有長焦攝像頭 No</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has Telephoto Camera Yes" xml:space="preserve">
         <source>Has Telephoto Camera Yes</source>
         <target>有長焦攝像頭 Yes</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has UltraWide Camera" xml:space="preserve">
         <source>Has UltraWide Camera</source>
@@ -7578,12 +7594,12 @@
       <trans-unit id="Has UltraWide Camera No" xml:space="preserve">
         <source>Has UltraWide Camera No</source>
         <target>有超廣角鏡頭 No</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has UltraWide Camera Yes" xml:space="preserve">
         <source>Has UltraWide Camera Yes</source>
         <target>有超廣角鏡頭 Yes</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has Wide Camera" xml:space="preserve">
         <source>Has Wide Camera</source>
@@ -7593,12 +7609,12 @@
       <trans-unit id="Has Wide Camera No" xml:space="preserve">
         <source>Has Wide Camera No</source>
         <target>有廣角鏡頭 No</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Has Wide Camera Yes" xml:space="preserve">
         <source>Has Wide Camera Yes</source>
         <target>有廣角鏡頭 Yes</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Headache" xml:space="preserve">
         <source>Headache</source>
@@ -7734,9 +7750,20 @@
         <target>六邊形</target>
         <note>Gauge Drawer</note>
       </trans-unit>
-      <trans-unit id="Hide Screen On Tap Actions" xml:space="preserve">
-        <source>Hide Screen On Tap Actions</source>
-        <target>隱藏「輕觸螢幕」操作</target>
+      <trans-unit id="Hide If Needed" xml:space="preserve">
+        <source>Hide If Needed</source>
+        <note>Widget Settings View</note>
+      </trans-unit>
+      <trans-unit id="Hide If Needed, But Disable When Editing Widgets" xml:space="preserve">
+        <source>Hide If Needed, But Disable When Editing Widgets</source>
+        <note>Widget Settings View</note>
+      </trans-unit>
+      <trans-unit id="Hide Widgy App Contents On Tap Actions" xml:space="preserve">
+        <source>Hide Widgy App Contents On Tap Actions</source>
+        <note>Widget Settings View</note>
+      </trans-unit>
+      <trans-unit id="Hide Widgy App On Tap Actions" xml:space="preserve">
+        <source>Hide Widgy App On Tap Actions</source>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Hiding the name under your widget is not something that is officially supported." xml:space="preserve">
@@ -7871,6 +7898,10 @@
         <target>每小時溫度 (色彩符號)</target>
         <note>Symbol List</note>
       </trans-unit>
+      <trans-unit id="Hourly Temperature (Custom Image)" xml:space="preserve">
+        <source>Hourly Temperature (Custom Image)</source>
+        <note>Symbol List</note>
+      </trans-unit>
       <trans-unit id="Hourly Temperature (Filled Symbols)" xml:space="preserve">
         <source>Hourly Temperature (Filled Symbols)</source>
         <target>每小時溫度 (填充型符號)</target>
@@ -7881,9 +7912,17 @@
         <target>每小時溫度 (圖片)</target>
         <note>Symbol List</note>
       </trans-unit>
+      <trans-unit id="Hourly Temperature (Outline Image)" xml:space="preserve">
+        <source>Hourly Temperature (Outline Image)</source>
+        <note>Symbol List</note>
+      </trans-unit>
       <trans-unit id="Hourly Temperature (Outline Symbols)" xml:space="preserve">
         <source>Hourly Temperature (Outline Symbols)</source>
         <target>每小時溫度 (外框符號)</target>
+        <note>Symbol List</note>
+      </trans-unit>
+      <trans-unit id="Hourly Temperature (White Image)" xml:space="preserve">
+        <source>Hourly Temperature (White Image)</source>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Hourly Temperature (White Symbols)" xml:space="preserve">
@@ -8155,16 +8194,29 @@
       </trans-unit>
       <trans-unit id="Import From Photos" xml:space="preserve">
         <source>Import From Photos</source>
-        <note>Stash View</note>
+        <note>Button Title
+   Stash View</note>
       </trans-unit>
       <trans-unit id="Import From Photos (With PNG Transparency)" xml:space="preserve">
         <source>Import From Photos (With PNG Transparency)</source>
         <note>Stash View</note>
       </trans-unit>
+      <trans-unit id="Import From Stash" xml:space="preserve">
+        <source>Import From Stash</source>
+        <note>Button Title</note>
+      </trans-unit>
       <trans-unit id="Import From URL Or JSON" xml:space="preserve">
         <source>Import From URL Or JSON</source>
         <target>從 URL 或 JSON 匯入</target>
         <note>Import Screen</note>
+      </trans-unit>
+      <trans-unit id="Import From Web URL" xml:space="preserve">
+        <source>Import From Web URL</source>
+        <note>Button Title</note>
+      </trans-unit>
+      <trans-unit id="Import Options" xml:space="preserve">
+        <source>Import Options</source>
+        <note>Window Title</note>
       </trans-unit>
       <trans-unit id="Import QR Code From Album" xml:space="preserve">
         <source>Import QR Code From Album</source>
@@ -8349,10 +8401,18 @@
         <note>Button Title
    Window Title</note>
       </trans-unit>
+      <trans-unit id="Inset Height" xml:space="preserve">
+        <source>Inset Height</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
       <trans-unit id="Inset Symbols And Text" xml:space="preserve">
         <source>Inset Symbols And Text</source>
         <target>插入符號與文字</target>
         <note>Line Chart Drawer</note>
+      </trans-unit>
+      <trans-unit id="Inset Width" xml:space="preserve">
+        <source>Inset Width</source>
+        <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Install Dark Mode Wallpaper Shortcut (Optional)" xml:space="preserve">
         <source>Install Dark Mode Wallpaper Shortcut (Optional)</source>
@@ -9601,12 +9661,12 @@
       <trans-unit id="Moon First Quarter" xml:space="preserve">
         <source>Moon First Quarter</source>
         <target>Moon First Quarter</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Moon Full Moon" xml:space="preserve">
         <source>Moon Full Moon</source>
         <target>Moon Full Moon</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Moon Illumination" xml:space="preserve">
         <source>Moon Illumination</source>
@@ -9616,7 +9676,7 @@
       <trans-unit id="Moon Last Quarter" xml:space="preserve">
         <source>Moon Last Quarter</source>
         <target>Moon Last Quarter</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Moon Max. Altitude" xml:space="preserve">
         <source>Moon Max. Altitude</source>
@@ -9636,7 +9696,7 @@
       <trans-unit id="Moon New Moon" xml:space="preserve">
         <source>Moon New Moon</source>
         <target>Moon New Moon</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Moon Phase" xml:space="preserve">
         <source>Moon Phase</source>
@@ -9805,6 +9865,18 @@
         <target>NE</target>
         <note>Widget Default Messages</note>
       </trans-unit>
+      <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Lock Screen Slots or Live Activities!" xml:space="preserve">
+        <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Lock Screen Slots or Live Activities!</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Watchy or Apple Watch Slots!" xml:space="preserve">
+        <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Watchy or Apple Watch Slots!</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Lock Screen Slots, Live Activities, Watchy or Apple Watch Slots!" xml:space="preserve">
+        <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Lock Screen Slots, Live Activities, Watchy or Apple Watch Slots!</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
       <trans-unit id="NW" xml:space="preserve">
         <source>NW</source>
         <target>NW</target>
@@ -9820,6 +9892,14 @@
       <trans-unit id="Name + Values" xml:space="preserve">
         <source>Name + Values</source>
         <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Name Column (Optional)" xml:space="preserve">
+        <source>Name Column (Optional)</source>
+        <note>CSV Picker Drawer</note>
+      </trans-unit>
+      <trans-unit id="Name Column Date Format (Optional)" xml:space="preserve">
+        <source>Name Column Date Format (Optional)</source>
+        <note>CSV Picker Drawer</note>
       </trans-unit>
       <trans-unit id="Name Day Country" xml:space="preserve">
         <source>Name Day Country</source>
@@ -10061,6 +10141,10 @@
         <source>Number Of Alcoholic Beverages</source>
         <target>酒精飲料的數量</target>
         <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Number Of Entries" xml:space="preserve">
+        <source>Number Of Entries</source>
+        <note>CSV Picker Drawer</note>
       </trans-unit>
       <trans-unit id="Number Of Times Fallen" xml:space="preserve">
         <source>Number Of Times Fallen</source>
@@ -11005,6 +11089,10 @@
         <source>Reload can also happen when tapping on the home screen widgets that have a reload tap action. So if you're noticing a black screen after tapping on a widget - that's live activities reloading.</source>
         <note>Live Activities Warning</note>
       </trans-unit>
+      <trans-unit id="Reloading Thumbnails" xml:space="preserve">
+        <source>Reloading Thumbnails</source>
+        <note>System Message</note>
+      </trans-unit>
       <trans-unit id="Reloading Widgets" xml:space="preserve">
         <source>Reloading Widgets</source>
         <target>正在重載小工具</target>
@@ -11075,7 +11163,7 @@
       <trans-unit id="Reminders No Data" xml:space="preserve">
         <source>Reminders No Data</source>
         <target>Reminders No Data</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Reminders Today" xml:space="preserve">
         <source>Reminders Today</source>
@@ -11228,6 +11316,10 @@
         <source>Return To Home Screen</source>
         <note>Tap Action Drawer</note>
       </trans-unit>
+      <trans-unit id="Reverse Order" xml:space="preserve">
+        <source>Reverse Order</source>
+        <note>CSV Picker Drawer</note>
+      </trans-unit>
       <trans-unit id="Right" xml:space="preserve">
         <source>Right</source>
         <target>右側</target>
@@ -11322,6 +11414,10 @@
         <source>Sagittarius</source>
         <target>射手座</target>
         <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Saturday Color" xml:space="preserve">
+        <source>Saturday Color</source>
+        <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Save Error" xml:space="preserve">
         <source>Save Error</source>
@@ -11697,10 +11793,6 @@
         <source>Show Unit</source>
         <target>顯示單位</target>
         <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Curved Text Drawer
-   Gauge Drawer
-   Line Chart Drawer
    Text Drawer</note>
       </trans-unit>
       <trans-unit id="Show Values" xml:space="preserve">
@@ -11830,6 +11922,10 @@
       <trans-unit id="Snappy" xml:space="preserve">
         <source>Snappy</source>
         <note>Effects Drawer</note>
+      </trans-unit>
+      <trans-unit id="Snapshot ID" xml:space="preserve">
+        <source>Snapshot ID</source>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Snow" xml:space="preserve">
         <source>Snow</source>
@@ -12223,12 +12319,12 @@
       <trans-unit id="Supports Apple Pencil No" xml:space="preserve">
         <source>Supports Apple Pencil No</source>
         <target>支援 Apple Pencil No</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Supports Apple Pencil Yes" xml:space="preserve">
         <source>Supports Apple Pencil Yes</source>
         <target>支援 Apple Pencil Yes</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Supports FaceID" xml:space="preserve">
         <source>Supports FaceID</source>
@@ -12238,12 +12334,12 @@
       <trans-unit id="Supports FaceID No" xml:space="preserve">
         <source>Supports FaceID No</source>
         <target>支援 FaceID No</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Supports FaceID Yes" xml:space="preserve">
         <source>Supports FaceID Yes</source>
         <target>支援 FaceID Yes</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Supports TouchID" xml:space="preserve">
         <source>Supports TouchID</source>
@@ -12253,12 +12349,12 @@
       <trans-unit id="Supports TouchID No" xml:space="preserve">
         <source>Supports TouchID No</source>
         <target>支援 TouchID No</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Supports TouchID Yes" xml:space="preserve">
         <source>Supports TouchID Yes</source>
         <target>支援 TouchID Yes</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Supports Wireless Charging" xml:space="preserve">
         <source>Supports Wireless Charging</source>
@@ -12268,12 +12364,12 @@
       <trans-unit id="Supports Wireless Charging No" xml:space="preserve">
         <source>Supports Wireless Charging No</source>
         <target>支援無線充電 No</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Supports Wireless Charging Yes" xml:space="preserve">
         <source>Supports Wireless Charging Yes</source>
         <target>支援無線充電 Yes</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Swimming Stroke Count" xml:space="preserve">
         <source>Swimming Stroke Count</source>
@@ -12798,15 +12894,9 @@
         <target>這是由來已久的 iOS bug，但是對此有解決辦法。只需前往 Widgy的「設定」Tab，輕按「App 圖示」並選擇你喜歡的任何圖示。這會強制讓 iOS 重載小工具清單並讓 Widgy 可見。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
-      <trans-unit id="This item is currently in use. To change the size of this item, first go to the Manage tab and unassign it." xml:space="preserve">
-        <source>This item is currently in use. To change the size of this item, first go to the Manage tab and unassign it.</source>
-        <target>這一項目前佔用中。要更改這項的尺寸，先前往「管理」Tab 並取消分配。</target>
-        <note>Document Drawer</note>
-      </trans-unit>
-      <trans-unit id="This item is currently in use. To delete this item, first go to the Manage tab and unassign it." xml:space="preserve">
-        <source>This item is currently in use. To delete this item, first go to the Manage tab and unassign it.</source>
-        <target>這一項目前佔用中。要刪除這項，先前往「管理」Tab 並取消分配。</target>
-        <note>Popup Text</note>
+      <trans-unit id="This item is currently in use." xml:space="preserve">
+        <source>This item is currently in use.</source>
+        <note>Import Screen</note>
       </trans-unit>
       <trans-unit id="This layer uses a live timer. While using the live timer, multiple data sources can't be used." xml:space="preserve">
         <source>This layer uses a live timer. While using the live timer, multiple data sources can't be used.</source>
@@ -12996,6 +13086,10 @@
         <source>Today</source>
         <target>今天</target>
         <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Today Color" xml:space="preserve">
+        <source>Today Color</source>
+        <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Today Symbol" xml:space="preserve">
         <source>Today Symbol</source>
@@ -13253,6 +13347,14 @@
         <target>無法登入。</target>
         <note>Popup Text</note>
       </trans-unit>
+      <trans-unit id="Unassign And Delete" xml:space="preserve">
+        <source>Unassign And Delete</source>
+        <note>Popup Button</note>
+      </trans-unit>
+      <trans-unit id="Unassign And Proceed" xml:space="preserve">
+        <source>Unassign And Proceed</source>
+        <note>Popup Button</note>
+      </trans-unit>
       <trans-unit id="Unchanged" xml:space="preserve">
         <source>Unchanged</source>
         <target>未更改</target>
@@ -13445,6 +13547,10 @@
         <target>值</target>
         <note>Automation View
    Notification Badge Message</note>
+      </trans-unit>
+      <trans-unit id="Value Column" xml:space="preserve">
+        <source>Value Column</source>
+        <note>CSV Picker Drawer</note>
       </trans-unit>
       <trans-unit id="Value can't be assigned as a badge" xml:space="preserve">
         <source>Value can't be assigned as a badge</source>
@@ -13706,9 +13812,8 @@
         <target>盈凸月</target>
         <note>Widget Default Messages</note>
       </trans-unit>
-      <trans-unit id="We've opened the translation process up to the community because you know best how Widgy should be translated into your language. Please participate as much as you like in translating, voting, and discussion with your fellow translators." xml:space="preserve">
-        <source>We've opened the translation process up to the community because you know best how Widgy should be translated into your language. Please participate as much as you like in translating, voting, and discussion with your fellow translators.</source>
-        <target>We've opened the translation process up to the community because you know best how Widgy should be translated into your language. Please participate as much as you like in translating, voting, and discussion with your fellow translators.</target>
+      <trans-unit id="We've opened the translation process up to the community because you know best how Widgy should be translated into your language. Please follow the instructions written on the translation page." xml:space="preserve">
+        <source>We've opened the translation process up to the community because you know best how Widgy should be translated into your language. Please follow the instructions written on the translation page.</source>
         <note>Create Tab</note>
       </trans-unit>
       <trans-unit id="Weather" xml:space="preserve">
@@ -13716,6 +13821,10 @@
         <target>天氣</target>
         <note>Data Sources
    Explore Filters</note>
+      </trans-unit>
+      <trans-unit id="Weather (Custom Images)" xml:space="preserve">
+        <source>Weather (Custom Images)</source>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Weather (Daily)" xml:space="preserve">
         <source>Weather (Daily)</source>
@@ -14226,6 +14335,10 @@
         <target>寬度插圖</target>
         <note>Effects Drawer</note>
       </trans-unit>
+      <trans-unit id="Will use [Day] variant if missing" xml:space="preserve">
+        <source>Will use [Day] variant if missing</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
       <trans-unit id="Wind Direction (Cardinal)" xml:space="preserve">
         <source>Wind Direction (Cardinal)</source>
         <target>風向 (主風向)</target>
@@ -14239,42 +14352,42 @@
       <trans-unit id="Wind Direction E" xml:space="preserve">
         <source>Wind Direction E</source>
         <target>Wind Direction E</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction N" xml:space="preserve">
         <source>Wind Direction N</source>
         <target>Wind Direction N</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction NE" xml:space="preserve">
         <source>Wind Direction NE</source>
         <target>Wind Direction NE</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction NW" xml:space="preserve">
         <source>Wind Direction NW</source>
         <target>Wind Direction NW</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction S" xml:space="preserve">
         <source>Wind Direction S</source>
         <target>Wind Direction S</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction SE" xml:space="preserve">
         <source>Wind Direction SE</source>
         <target>Wind Direction SE</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction SW" xml:space="preserve">
         <source>Wind Direction SW</source>
         <target>Wind Direction SW</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction W" xml:space="preserve">
         <source>Wind Direction W</source>
         <target>Wind Direction W</target>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Speed" xml:space="preserve">
         <source>Wind Speed</source>
@@ -14374,6 +14487,10 @@
         <source>You can test Watchy for free, but after 15 minutes, all your Watchy slots will be unassigned from your Watch.</source>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
+      <trans-unit id="You can use the || delimiter both in source and target to replace multiple strings at the same time." xml:space="preserve">
+        <source>You can use the || delimiter both in source and target to replace multiple strings at the same time.</source>
+        <note>Document Drawer</note>
+      </trans-unit>
       <trans-unit id="Your Device" xml:space="preserve">
         <source>Your Device</source>
         <target>你的裝置</target>
@@ -14418,56 +14535,120 @@
       </trans-unit>
       <trans-unit id="Zodiac Aquarius" xml:space="preserve">
         <source>Zodiac Aquarius</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zodiac Aries" xml:space="preserve">
         <source>Zodiac Aries</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zodiac Cancer" xml:space="preserve">
         <source>Zodiac Cancer</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zodiac Capricon" xml:space="preserve">
         <source>Zodiac Capricon</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zodiac Gemini" xml:space="preserve">
         <source>Zodiac Gemini</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zodiac Leo" xml:space="preserve">
         <source>Zodiac Leo</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zodiac Libra" xml:space="preserve">
         <source>Zodiac Libra</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zodiac Pisces" xml:space="preserve">
         <source>Zodiac Pisces</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zodiac Sagittarius" xml:space="preserve">
         <source>Zodiac Sagittarius</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zodiac Scorpio" xml:space="preserve">
         <source>Zodiac Scorpio</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zodiac Taurus" xml:space="preserve">
         <source>Zodiac Taurus</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zodiac Virgo" xml:space="preserve">
         <source>Zodiac Virgo</source>
-        <note>Messages Drawer</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Zoom" xml:space="preserve">
         <source>Zoom</source>
         <target>縮放</target>
         <note>Effects Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Day] Clear Sky" xml:space="preserve">
+        <source>[Day] Clear Sky</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Day] Cloudy" xml:space="preserve">
+        <source>[Day] Cloudy</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Day] Fair" xml:space="preserve">
+        <source>[Day] Fair</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Day] Fog" xml:space="preserve">
+        <source>[Day] Fog</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Day] Heavy Rain" xml:space="preserve">
+        <source>[Day] Heavy Rain</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Day] Heavy Rain And Thunder" xml:space="preserve">
+        <source>[Day] Heavy Rain And Thunder</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Day] Light Rain" xml:space="preserve">
+        <source>[Day] Light Rain</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Day] Snow" xml:space="preserve">
+        <source>[Day] Snow</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Night] Clear Sky" xml:space="preserve">
+        <source>[Night] Clear Sky</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Night] Cloudy" xml:space="preserve">
+        <source>[Night] Cloudy</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Night] Fair" xml:space="preserve">
+        <source>[Night] Fair</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Night] Fog" xml:space="preserve">
+        <source>[Night] Fog</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Night] Heavy Rain" xml:space="preserve">
+        <source>[Night] Heavy Rain</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Night] Heavy Rain And Thunder" xml:space="preserve">
+        <source>[Night] Heavy Rain And Thunder</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Night] Light Rain" xml:space="preserve">
+        <source>[Night] Light Rain</source>
+        <note>Customize Drawer</note>
+      </trans-unit>
+      <trans-unit id="[Night] Snow" xml:space="preserve">
+        <source>[Night] Snow</source>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="and Gradients" xml:space="preserve">
         <source>and Gradients</source>
