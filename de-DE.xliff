@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Home Widget/en.lproj/InfoPlist.strings" source-language="en" target-language="de-DE" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -79,7 +79,7 @@
   </file>
   <file original="Home Widget/en.lproj/Localizable.strings" source-language="en" target-language="de-DE" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
     <body>
       <trans-unit id="%@" xml:space="preserve">
@@ -1127,7 +1127,7 @@
   </file>
   <file original="Watchy WatchKit Extension/en.lproj/InfoPlist.strings" source-language="en" target-language="de-DE" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1208,7 +1208,7 @@
   </file>
   <file original="Watchy WatchKit Extension/en.lproj/Localizable.strings" source-language="en" target-language="de-DE" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
     <body>
       <trans-unit id="+1d" xml:space="preserve">
@@ -2208,7 +2208,7 @@
   </file>
   <file original="WatchyComplications/en.lproj/InfoPlist.strings" source-language="en" target-language="de-DE" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2294,7 +2294,7 @@
   </file>
   <file original="WatchyComplications/en.lproj/Localizable.strings" source-language="en" target-language="de-DE" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
     <body>
       <trans-unit id="%lld" xml:space="preserve">
@@ -3275,11 +3275,11 @@
   </file>
   <file original="Widgy/en.lproj/InfoPlist.strings" source-language="en" target-language="de-DE" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
-        <source>⠀</source>
+        <source>Widgy</source>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
@@ -3361,7 +3361,7 @@
   </file>
   <file original="Widgy/en.lproj/Localizable.strings" source-language="en" target-language="de-DE" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.3" build-num="15E5202a"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
     </header>
     <body>
       <trans-unit id="%@" xml:space="preserve">
@@ -3928,6 +3928,18 @@
         <note>Calendar Drawer
    Data Sources</note>
       </trans-unit>
+      <trans-unit id="Agenda (Chronological)" xml:space="preserve">
+        <source>Agenda (Chronological)</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Agenda (Today)" xml:space="preserve">
+        <source>Agenda (Today)</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Agenda (Tomorrow)" xml:space="preserve">
+        <source>Agenda (Tomorrow)</source>
+        <note>Data Sources</note>
+      </trans-unit>
       <trans-unit id="Agenda All-Day End" xml:space="preserve">
         <source>Agenda All-Day End</source>
         <target>Kalender ganztägiges Ende</target>
@@ -3937,11 +3949,6 @@
         <source>Agenda All-Day Start</source>
         <target>Kalender ganztägiger Start</target>
         <note>Customize Drawer</note>
-      </trans-unit>
-      <trans-unit id="Agenda Chronological" xml:space="preserve">
-        <source>Agenda Chronological</source>
-        <target>Agenda Chronological</target>
-        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Agenda Events" xml:space="preserve">
         <source>Agenda Events</source>
@@ -3975,11 +3982,6 @@
         <note>Calendar Drawer
    Window Title</note>
       </trans-unit>
-      <trans-unit id="Agenda Symbol Heatmap Minimum Alpha" xml:space="preserve">
-        <source>Agenda Symbol Heatmap Minimum Alpha</source>
-        <target>Agenda Symbol</target>
-        <note>Calendar Drawer</note>
-      </trans-unit>
       <trans-unit id="Agenda Symbol Offset X" xml:space="preserve">
         <source>Agenda Symbol Offset X</source>
         <target>Agenda Symbol Offset Y</target>
@@ -3998,14 +4000,12 @@
       <trans-unit id="Agenda Today" xml:space="preserve">
         <source>Agenda Today</source>
         <target>Kalender Heute</target>
-        <note>Customize Drawer
-   Data Sources</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Tomorrow" xml:space="preserve">
         <source>Agenda Tomorrow</source>
         <target>Kalender Morgen</target>
-        <note>Customize Drawer
-   Data Sources</note>
+        <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Air Pressure" xml:space="preserve">
         <source>Air Pressure</source>
@@ -4038,6 +4038,10 @@
         <target>Alle</target>
         <note>Create Filters
    Gauge Drawer</note>
+      </trans-unit>
+      <trans-unit id="All Events" xml:space="preserve">
+        <source>All Events</source>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="All Events Today" xml:space="preserve">
         <source>All Events Today</source>
@@ -4131,10 +4135,6 @@
         <source>Angular Reversed</source>
         <target>Konisch Umgekehrt</target>
         <note>Gradient Drawer</note>
-      </trans-unit>
-      <trans-unit id="Animation" xml:space="preserve">
-        <source>Animation</source>
-        <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Anime-Chan - Quote" xml:space="preserve">
         <source>Anime-Chan - Quote</source>
@@ -4272,6 +4272,14 @@
         <source>Apps not present on this list need to be opened via the Shortcuts app.</source>
         <target>Apps not present on this list need to be opened via the Shortcuts app.</target>
         <note>Tap Actions</note>
+      </trans-unit>
+      <trans-unit id="Apps without a name are always on top of the list!" xml:space="preserve">
+        <source>Apps without a name are always on top of the list!</source>
+        <note>Onboarding</note>
+      </trans-unit>
+      <trans-unit id="Apps without a name aren't searchable, so when adding Widgy widgets to your device, you'll have to find the app by the icon." xml:space="preserve">
+        <source>Apps without a name aren't searchable, so when adding Widgy widgets to your device, you'll have to find the app by the icon.</source>
+        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Aquarius" xml:space="preserve">
         <source>Aquarius</source>
@@ -4736,10 +4744,6 @@
         <source>Bottom Right Edge Rounding</source>
         <note>Effects Drawer</note>
       </trans-unit>
-      <trans-unit id="Bouncy" xml:space="preserve">
-        <source>Bouncy</source>
-        <note>Effects Drawer</note>
-      </trans-unit>
       <trans-unit id="Bounds" xml:space="preserve">
         <source>Bounds</source>
         <target>Grenzen</target>
@@ -4853,6 +4857,10 @@
         <source>Calendar Chronological</source>
         <target>Calendar Chronological</target>
         <note>Misc</note>
+      </trans-unit>
+      <trans-unit id="Calendar Events" xml:space="preserve">
+        <source>Calendar Events</source>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Calendar Events Today" xml:space="preserve">
         <source>Calendar Events Today</source>
@@ -5053,6 +5061,10 @@
         <target>Diagrammglättung</target>
         <note>Line Chart Drawer</note>
       </trans-unit>
+      <trans-unit id="Charts" xml:space="preserve">
+        <source>Charts</source>
+        <note>Data Sources</note>
+      </trans-unit>
       <trans-unit id="Chest Tightness Or Pain" xml:space="preserve">
         <source>Chest Tightness Or Pain</source>
         <target>Engegefühl oder Schmerzen in der Brust</target>
@@ -5246,6 +5258,10 @@
         <target>Farben</target>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Combining blend modes and transition on the same layer or distributed across the same group will result in broken blend modes." xml:space="preserve">
+        <source>Combining blend modes and transition on the same layer or distributed across the same group will result in broken blend modes.</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
       <trans-unit id="Commerce" xml:space="preserve">
         <source>Commerce</source>
         <target>Handel</target>
@@ -5261,9 +5277,35 @@
         <target>Community und QR-Codes</target>
         <note>Create Tab Top Actions</note>
       </trans-unit>
-      <trans-unit id="Compact" xml:space="preserve">
-        <source>Compact</source>
-        <note>Apple Gauge Drawer</note>
+      <trans-unit id="Compact (Always 1 Decimal)" xml:space="preserve">
+        <source>Compact (Always 1 Decimal)</source>
+        <note>Apple Gauge Drawer
+   Bar Chart Drawer
+   Circle Chart Drawer
+   Curved Text Drawer
+   Gauge Drawer
+   Line Chart Drawer
+   Text Drawer</note>
+      </trans-unit>
+      <trans-unit id="Compact (Max 1 Decimal)" xml:space="preserve">
+        <source>Compact (Max 1 Decimal)</source>
+        <note>Apple Gauge Drawer
+   Bar Chart Drawer
+   Circle Chart Drawer
+   Curved Text Drawer
+   Gauge Drawer
+   Line Chart Drawer
+   Text Drawer</note>
+      </trans-unit>
+      <trans-unit id="Compact (No Decimals)" xml:space="preserve">
+        <source>Compact (No Decimals)</source>
+        <note>Apple Gauge Drawer
+   Bar Chart Drawer
+   Circle Chart Drawer
+   Curved Text Drawer
+   Gauge Drawer
+   Line Chart Drawer
+   Text Drawer</note>
       </trans-unit>
       <trans-unit id="Compact Leading" xml:space="preserve">
         <source>Compact Leading</source>
@@ -5342,6 +5384,14 @@
         <target>Kontaktiere mich</target>
         <note>Popup Title</note>
       </trans-unit>
+      <trans-unit id="Contents Of File" xml:space="preserve">
+        <source>Contents Of File</source>
+        <note>Tap Actions</note>
+      </trans-unit>
+      <trans-unit id="Contents Of Web URL" xml:space="preserve">
+        <source>Contents Of Web URL</source>
+        <note>Tap Actions</note>
+      </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
         <source>Continue</source>
         <target>Weiter</target>
@@ -5351,6 +5401,10 @@
         <source>Continue Syncing</source>
         <target>Synchronisierung fortsetzen</target>
         <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="Continue With This Screenshot Anyway" xml:space="preserve">
+        <source>Continue With This Screenshot Anyway</source>
+        <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="Contraceptive" xml:space="preserve">
         <source>Contraceptive</source>
@@ -5438,6 +5492,10 @@
       <trans-unit id="Countdown (Hourly)" xml:space="preserve">
         <source>Countdown (Hourly)</source>
         <target>Countdown (Stündlich)</target>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Countdown (In Percent)" xml:space="preserve">
+        <source>Countdown (In Percent)</source>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Countdown (Monthly)" xml:space="preserve">
@@ -5699,6 +5757,10 @@
         <source>Custom Min</source>
         <note>Bar Chart Drawer</note>
       </trans-unit>
+      <trans-unit id="Custom Stocks" xml:space="preserve">
+        <source>Custom Stocks</source>
+        <note>Popup Title</note>
+      </trans-unit>
       <trans-unit id="Custom Text" xml:space="preserve">
         <source>Custom Text</source>
         <target>Eigener Text</target>
@@ -5721,6 +5783,22 @@
       <trans-unit id="Cyan" xml:space="preserve">
         <source>Cyan</source>
         <target>Cyan</target>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Cycling Cadence" xml:space="preserve">
+        <source>Cycling Cadence</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Cycling Functional Threshold Power" xml:space="preserve">
+        <source>Cycling Functional Threshold Power</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Cycling Power" xml:space="preserve">
+        <source>Cycling Power</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Cycling Speed" xml:space="preserve">
+        <source>Cycling Speed</source>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Dad Joke" xml:space="preserve">
@@ -5875,6 +5953,30 @@
         <target>Daten</target>
         <note>Drawer Tab Name
    Widget Preview Info</note>
+      </trans-unit>
+      <trans-unit id="Data Source Symbol" xml:space="preserve">
+        <source>Data Source Symbol</source>
+        <note>Calendar Drawer</note>
+      </trans-unit>
+      <trans-unit id="Data Source Symbol Color" xml:space="preserve">
+        <source>Data Source Symbol Color</source>
+        <note>Calendar Drawer</note>
+      </trans-unit>
+      <trans-unit id="Data Source Symbol Heatmap Minimum Alpha" xml:space="preserve">
+        <source>Data Source Symbol Heatmap Minimum Alpha</source>
+        <note>Calendar Drawer</note>
+      </trans-unit>
+      <trans-unit id="Data Source Symbol Offset X" xml:space="preserve">
+        <source>Data Source Symbol Offset X</source>
+        <note>Calendar Drawer</note>
+      </trans-unit>
+      <trans-unit id="Data Source Symbol Offset Y" xml:space="preserve">
+        <source>Data Source Symbol Offset Y</source>
+        <note>Calendar Drawer</note>
+      </trans-unit>
+      <trans-unit id="Data Source Symbol Scale" xml:space="preserve">
+        <source>Data Source Symbol Scale</source>
+        <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Data not available for this widget/device combination." xml:space="preserve">
         <source>Data not available for this widget/device combination.</source>
@@ -7491,6 +7593,10 @@
         <source>Group All Layers</source>
         <note>Editor</note>
       </trans-unit>
+      <trans-unit id="Group rotations combined with group's frame resizing will result in incorrect marching ants outline in the editor. This might improve in the future." xml:space="preserve">
+        <source>Group rotations combined with group's frame resizing will result in incorrect marching ants outline in the editor. This might improve in the future.</source>
+        <note>Frame Drawer</note>
+      </trans-unit>
       <trans-unit id="Grouping Separator" xml:space="preserve">
         <source>Grouping Separator</source>
         <target>Trennzeichen gruppieren</target>
@@ -7671,6 +7777,10 @@
         <target>Gesundheit (monatlich)</target>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Health (Number Of Readings)" xml:space="preserve">
+        <source>Health (Number Of Readings)</source>
+        <note>Data Sources</note>
+      </trans-unit>
       <trans-unit id="Health (Weekly)" xml:space="preserve">
         <source>Health (Weekly)</source>
         <target>Gesundheit (wöchentlich)</target>
@@ -7766,10 +7876,6 @@
       </trans-unit>
       <trans-unit id="Hide Widgy App Contents On Tap Actions" xml:space="preserve">
         <source>Hide Widgy App Contents On Tap Actions</source>
-        <note>Widget Settings View</note>
-      </trans-unit>
-      <trans-unit id="Hide Widgy App On Tap Actions" xml:space="preserve">
-        <source>Hide Widgy App On Tap Actions</source>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Hiding the name under your widget is not something that is officially supported." xml:space="preserve">
@@ -8444,10 +8550,6 @@
         <target>Ganzzahl (Runden)</target>
         <note>Custom JSON View</note>
       </trans-unit>
-      <trans-unit id="Interactive Spring" xml:space="preserve">
-        <source>Interactive Spring</source>
-        <note>Effects Drawer</note>
-      </trans-unit>
       <trans-unit id="Intermenstrual Bleeding" xml:space="preserve">
         <source>Intermenstrual Bleeding</source>
         <target>Intermenstruelle Blutung</target>
@@ -8577,7 +8679,8 @@
       <trans-unit id="Javascript [Async + No main()]" xml:space="preserve">
         <source>Javascript [Async + No main()]</source>
         <target>JavaScript [Async + Kein main()]</target>
-        <note>Data Sources</note>
+        <note>Data Sources
+   Tap Actions</note>
       </trans-unit>
       <trans-unit id="Join Our Reddit" xml:space="preserve">
         <source>Join Our Reddit</source>
@@ -8746,6 +8849,14 @@
         <target>Breitengrad (Sekunden)</target>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Layer Appeared/Disappeared Transition" xml:space="preserve">
+        <source>Layer Appeared/Disappeared Transition</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
+      <trans-unit id="Layer Contents Updated Animation" xml:space="preserve">
+        <source>Layer Contents Updated Animation</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
       <trans-unit id="Layer Name" xml:space="preserve">
         <source>Layer Name</source>
         <target>Ebenenname</target>
@@ -8813,6 +8924,10 @@
         <source>Let's Do This</source>
         <target>Let's Do This</target>
         <note>Popup Title</note>
+      </trans-unit>
+      <trans-unit id="Let's set some things up!" xml:space="preserve">
+        <source>Let's set some things up!</source>
+        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Letter-Like" xml:space="preserve">
         <source>Letter-Like</source>
@@ -8910,6 +9025,10 @@
         <note>Curved Text Drawer
    Text Drawer</note>
       </trans-unit>
+      <trans-unit id="Live" xml:space="preserve">
+        <source>Live</source>
+        <note>Main Tabbar</note>
+      </trans-unit>
       <trans-unit id="Live Activities Are Already Restarting." xml:space="preserve">
         <source>Live Activities Are Already Restarting.</source>
         <note>Live Activities</note>
@@ -9001,6 +9120,10 @@
         <source>Location Picker</source>
         <target>Standortauswahl</target>
         <note>Window Title</note>
+      </trans-unit>
+      <trans-unit id="Lock" xml:space="preserve">
+        <source>Lock</source>
+        <note>Main Tabbar</note>
       </trans-unit>
       <trans-unit id="Lock Screen + Apple Watch" xml:space="preserve">
         <source>Lock Screen + Apple Watch</source>
@@ -9286,6 +9409,14 @@
         <target>Max. Temperatur</target>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Max. Temperature (Always In C°)" xml:space="preserve">
+        <source>Max. Temperature (Always In C°)</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Max. Temperature (Always In F°)" xml:space="preserve">
+        <source>Max. Temperature (Always In F°)</source>
+        <note>Data Sources</note>
+      </trans-unit>
       <trans-unit id="Max. Temperature Today" xml:space="preserve">
         <source>Max. Temperature Today</source>
         <target>max. Temperatur heute</target>
@@ -9491,6 +9622,14 @@
       <trans-unit id="Min. Temperature" xml:space="preserve">
         <source>Min. Temperature</source>
         <target>Min. Temperatur</target>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Min. Temperature (Always In C°)" xml:space="preserve">
+        <source>Min. Temperature (Always In C°)</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Min. Temperature (Always In F°)" xml:space="preserve">
+        <source>Min. Temperature (Always In F°)</source>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Min. Temperature Today" xml:space="preserve">
@@ -10570,6 +10709,10 @@
         <target>Fotozugriff</target>
         <note>Albums Drawer</note>
       </trans-unit>
+      <trans-unit id="Physical Effort" xml:space="preserve">
+        <source>Physical Effort</source>
+        <note>Data Sources</note>
+      </trans-unit>
       <trans-unit id="Pick" xml:space="preserve">
         <source>Pick</source>
         <target>Wählen</target>
@@ -11040,6 +11183,10 @@
         <note>Document Drawer
    Effects Drawer</note>
       </trans-unit>
+      <trans-unit id="Reddit" xml:space="preserve">
+        <source>Reddit</source>
+        <note>Main Tabbar</note>
+      </trans-unit>
       <trans-unit id="Reduce Motion" xml:space="preserve">
         <source>Reduce Motion</source>
         <target>Bewegung reduzieren</target>
@@ -11125,6 +11272,10 @@
         <source>Reminder Completed</source>
         <target>Erinnerung abgeschlossen</target>
         <note>No comment provided by engineer.</note>
+      </trans-unit>
+      <trans-unit id="Reminder Events" xml:space="preserve">
+        <source>Reminder Events</source>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Reminder Events Today" xml:space="preserve">
         <source>Reminder Events Today</source>
@@ -11921,14 +12072,6 @@
         <target>Intelligente Symbole</target>
         <note>Symbol List</note>
       </trans-unit>
-      <trans-unit id="Smooth" xml:space="preserve">
-        <source>Smooth</source>
-        <note>Effects Drawer</note>
-      </trans-unit>
-      <trans-unit id="Snappy" xml:space="preserve">
-        <source>Snappy</source>
-        <note>Effects Drawer</note>
-      </trans-unit>
       <trans-unit id="Snapshot ID" xml:space="preserve">
         <source>Snapshot ID</source>
         <note>Data Sources</note>
@@ -12082,10 +12225,6 @@
    Line Chart Drawer
    Text Drawer</note>
       </trans-unit>
-      <trans-unit id="Spring" xml:space="preserve">
-        <source>Spring</source>
-        <note>Effects Drawer</note>
-      </trans-unit>
       <trans-unit id="Square" xml:space="preserve">
         <source>Square</source>
         <target>Quadrat</target>
@@ -12142,6 +12281,10 @@
       <trans-unit id="Starting from version 3.0 and onward, Watchy Complications slots will be unlocked as well." xml:space="preserve">
         <source>Starting from version 3.0 and onward, Watchy Complications slots will be unlocked as well.</source>
         <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="Starting with v3.2, the transparency layer is locked from editing, to avoid incorrect frame positions and unwanted effects. If you wish to fine-tune the transparency layer, go to the Documents drawer tab and unlock it from there." xml:space="preserve">
+        <source>Starting with v3.2, the transparency layer is locked from editing, to avoid incorrect frame positions and unwanted effects. If you wish to fine-tune the transparency layer, go to the Documents drawer tab and unlock it from there.</source>
+        <note>Transparency Layer</note>
       </trans-unit>
       <trans-unit id="Stash" xml:space="preserve">
         <source>Stash</source>
@@ -12783,14 +12926,14 @@
         <target>Der Live-Timer kann auf dieser Ebene nur verwendet werden, wenn keine anderen Text-Datenquellen vorhanden sind.</target>
         <note>Popup Text</note>
       </trans-unit>
+      <trans-unit id="The most powerful Widget editing app." xml:space="preserve">
+        <source>The most powerful Widget editing app.</source>
+        <note>Onboarding</note>
+      </trans-unit>
       <trans-unit id="The most powerful way to craft your own unique Widgets." xml:space="preserve">
         <source>The most powerful way to craft your own unique Widgets.</source>
         <target>Das leistungsstärkste Tool, um deine eigenen einzigartigen Widgets zu erstellen.</target>
         <note>Onboarding</note>
-      </trans-unit>
-      <trans-unit id="The other important thing regarding the iPad is that the system option for &quot;Large App Icons&quot; MUST BE TURNED OFF." xml:space="preserve">
-        <source>The other important thing regarding the iPad is that the system option for "Large App Icons" MUST BE TURNED OFF.</source>
-        <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="The whole process should last a couple of seconds." xml:space="preserve">
         <source>The whole process should last a couple of seconds.</source>
@@ -12970,6 +13113,10 @@
         <target>Zeit (voll)</target>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Time In Daylight" xml:space="preserve">
+        <source>Time In Daylight</source>
+        <note>Data Sources</note>
+      </trans-unit>
       <trans-unit id="Time Short" xml:space="preserve">
         <source>Time Short</source>
         <target>Zeit (kurz)</target>
@@ -12999,6 +13146,10 @@
         <source>Time Spent Editing</source>
         <target>Zeit für die Bearbeitung</target>
         <note>Widget Preview Info</note>
+      </trans-unit>
+      <trans-unit id="Time Until" xml:space="preserve">
+        <source>Time Until</source>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Time Until Next Sunrise" xml:space="preserve">
         <source>Time Until Next Sunrise</source>
@@ -13185,10 +13336,6 @@
         <target>Trailing</target>
         <note>Bar Chart Drawer</note>
       </trans-unit>
-      <trans-unit id="Transition" xml:space="preserve">
-        <source>Transition</source>
-        <note>Effects Drawer</note>
-      </trans-unit>
       <trans-unit id="Translations" xml:space="preserve">
         <source>Translations</source>
         <target>Übersetzungen</target>
@@ -13259,15 +13406,14 @@
         <target>Dreifache Farbe</target>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Try To Fix By Scaling The Screenshot" xml:space="preserve">
+        <source>Try To Fix By Scaling The Screenshot</source>
+        <note>Popup Button</note>
+      </trans-unit>
       <trans-unit id="Try To Keep In Bounds" xml:space="preserve">
         <source>Try To Keep In Bounds</source>
         <target>Versuchen Sie, in Grenzen zu halten</target>
         <note>Frame Drawer</note>
-      </trans-unit>
-      <trans-unit id="Try With This Image Anyway" xml:space="preserve">
-        <source>Try With This Image Anyway</source>
-        <target>Try With This Image Anyway</target>
-        <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="Try again with a different image. For additional help, please visit Widgys Reddit community." xml:space="preserve">
         <source>Try again with a different image. For additional help, please visit Widgys Reddit community.</source>
@@ -13412,6 +13558,10 @@
         <source>Unlock All Watchy Slots</source>
         <note>Full Version Purchase Screen
    Watchy Manage View</note>
+      </trans-unit>
+      <trans-unit id="Unlock Right Away" xml:space="preserve">
+        <source>Unlock Right Away</source>
+        <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="Unspecified" xml:space="preserve">
         <source>Unspecified</source>
@@ -13992,6 +14142,10 @@
         <target>Kalenderwoche Schriftskalierung</target>
         <note>Calendar Drawer</note>
       </trans-unit>
+      <trans-unit id="Week Offset" xml:space="preserve">
+        <source>Week Offset</source>
+        <note>Calendar Drawer</note>
+      </trans-unit>
       <trans-unit id="Week Symbol" xml:space="preserve">
         <source>Week Symbol</source>
         <target>Woche Symbol</target>
@@ -14291,6 +14445,10 @@
         <target>Widgy Größen</target>
         <note>Create Filters Browser Sections
    Explore Filters Browser Sections</note>
+      </trans-unit>
+      <trans-unit id="Widgy app name is hidden!" xml:space="preserve">
+        <source>Widgy app name is hidden!</source>
+        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Widgy doesn't support any third-party apps and doesn't integrate with their APIs." xml:space="preserve">
         <source>Widgy doesn't support any third-party apps and doesn't integrate with their APIs.</source>
@@ -14600,8 +14758,8 @@
         <source>[Day] Cloudy</source>
         <note>Customize Drawer</note>
       </trans-unit>
-      <trans-unit id="[Day] Fair" xml:space="preserve">
-        <source>[Day] Fair</source>
+      <trans-unit id="[Day] Fair/Partly Cloudy" xml:space="preserve">
+        <source>[Day] Fair/Partly Cloudy</source>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Day] Fog" xml:space="preserve">
@@ -14632,8 +14790,8 @@
         <source>[Night] Cloudy</source>
         <note>Customize Drawer</note>
       </trans-unit>
-      <trans-unit id="[Night] Fair" xml:space="preserve">
-        <source>[Night] Fair</source>
+      <trans-unit id="[Night] Fair/Partly Cloudy" xml:space="preserve">
+        <source>[Night] Fair/Partly Cloudy</source>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Night] Fog" xml:space="preserve">
