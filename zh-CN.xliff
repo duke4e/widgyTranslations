@@ -7,12 +7,12 @@
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
         <source>Home Widget</source>
-        <target>Home Widget</target>
+        <target>主屏幕小组件</target>
         <note>Bundle display name</note>
       </trans-unit>
       <trans-unit id="CFBundleName" xml:space="preserve">
         <source>Home WidgetExtension</source>
-        <target>Home WidgetExtension</target>
+        <target>主屏幕小组件扩展</target>
         <note>Bundle name</note>
       </trans-unit>
       <trans-unit id="NSAppleMusicUsageDescription" xml:space="preserve">
@@ -67,7 +67,7 @@
       </trans-unit>
       <trans-unit id="NSPhotoLibraryUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your gallery to use photos as a data source. As with every other permission in Widgy, this is optional.</source>
-        <target>Widgy正在请求访问您的蓝牙以将其用作数据源。与Widgy中的其他所有权限一样，这是可选的。</target>
+        <target>Widgy正在请求访问您的图库，以将照片作为数据源。与Widgy中的所有其他权限一样，这是可选的。</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
       <trans-unit id="NSRemindersUsageDescription" xml:space="preserve">
@@ -392,7 +392,7 @@
       </trans-unit>
       <trans-unit id="Daily" xml:space="preserve">
         <source>Daily</source>
-        <target>每天</target>
+        <target>每日</target>
         <note>Weather Prefix</note>
       </trans-unit>
       <trans-unit id="Daylight Remaining" xml:space="preserve">
@@ -877,7 +877,7 @@
       </trans-unit>
       <trans-unit id="Reloading Widgets" xml:space="preserve">
         <source>Reloading Widgets</source>
-        <target>重新加载小部件</target>
+        <target>重新加载小组件</target>
         <note>System Message</note>
       </trans-unit>
       <trans-unit id="Reminder" xml:space="preserve">
@@ -1513,7 +1513,7 @@
       </trans-unit>
       <trans-unit id="Daily" xml:space="preserve">
         <source>Daily</source>
-        <target>每天</target>
+        <target>每日</target>
         <note>Weather Prefix</note>
       </trans-unit>
       <trans-unit id="Daylight Remaining" xml:space="preserve">
@@ -2596,7 +2596,7 @@
       </trans-unit>
       <trans-unit id="Daily" xml:space="preserve">
         <source>Daily</source>
-        <target>每天</target>
+        <target>每日</target>
         <note>Weather Prefix</note>
       </trans-unit>
       <trans-unit id="Daylight Remaining" xml:space="preserve">
@@ -3759,7 +3759,7 @@
       </trans-unit>
       <trans-unit id="A Watchy Widget" xml:space="preserve">
         <source>A Watchy Widget</source>
-        <target>一个监视小部件</target>
+        <target>一个监视小组件</target>
         <note>Widget Default Messages</note>
       </trans-unit>
       <trans-unit id="A Widgy Widget" xml:space="preserve">
@@ -4042,16 +4042,17 @@
       </trans-unit>
       <trans-unit id="All Events" xml:space="preserve">
         <source>All Events</source>
+        <target>所有活动</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="All Events Today" xml:space="preserve">
         <source>All Events Today</source>
-        <target>今天的所有活动</target>
+        <target>今日的所有活动</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="All Events Tomorrow" xml:space="preserve">
         <source>All Events Tomorrow</source>
-        <target>All Events Tomorrow</target>
+        <target>明日的所有活动</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="All Off" xml:space="preserve">
@@ -4175,7 +4176,7 @@
       </trans-unit>
       <trans-unit id="App Language" xml:space="preserve">
         <source>App Language</source>
-        <target>App Language</target>
+        <target>应用语言</target>
         <note>Settings View
    Window Title</note>
       </trans-unit>
@@ -4211,6 +4212,7 @@
       </trans-unit>
       <trans-unit id="Apple Gauge" xml:space="preserve">
         <source>Apple Gauge</source>
+        <target>苹果仪表</target>
         <note>Drawer Tab Name
    Layer Component</note>
       </trans-unit>
@@ -4271,15 +4273,17 @@
       </trans-unit>
       <trans-unit id="Apps not present on this list need to be opened via the Shortcuts app." xml:space="preserve">
         <source>Apps not present on this list need to be opened via the Shortcuts app.</source>
-        <target>Apps not present on this list need to be opened via the Shortcuts app.</target>
+        <target>未出现在此列表中的应用程序需要通过快捷方式应用程序打开。</target>
         <note>Tap Actions</note>
       </trans-unit>
       <trans-unit id="Apps without a name are always on top of the list!" xml:space="preserve">
         <source>Apps without a name are always on top of the list!</source>
+        <target>没有名字的应用总是排在列表的最顶端！</target>
         <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Apps without a name aren't searchable, so when adding Widgy widgets to your device, you'll have to find the app by the icon." xml:space="preserve">
         <source>Apps without a name aren't searchable, so when adding Widgy widgets to your device, you'll have to find the app by the icon.</source>
+        <target>没有名字的应用程序不能被搜索，因此在将Widgy小部件添加到设备时，您将需要通过图标查找应用程序。</target>
         <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Aquarius" xml:space="preserve">
@@ -4294,11 +4298,12 @@
       </trans-unit>
       <trans-unit id="Are there any video tutorials?" xml:space="preserve">
         <source>Are there any video tutorials?</source>
+        <target>有视频教程吗？</target>
         <note>Help Title</note>
       </trans-unit>
       <trans-unit id="Areas Of Interest" xml:space="preserve">
         <source>Areas Of Interest</source>
-        <target>涉及领域</target>
+        <target>Areas Of Interest</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Aries" xml:space="preserve">
@@ -4369,6 +4374,7 @@
       </trans-unit>
       <trans-unit id="At least one Live Activity needs to be active for Dynamic Island to work." xml:space="preserve">
         <source>At least one Live Activity needs to be active for Dynamic Island to work.</source>
+        <target>灵动岛功能的实现至少需要一个实时活动处于活跃状态。</target>
         <note>Live Activities</note>
       </trans-unit>
       <trans-unit id="At the moment, this is the best we can get." xml:space="preserve">
@@ -4378,7 +4384,7 @@
       </trans-unit>
       <trans-unit id="Atrial Fibrillation Burden" xml:space="preserve">
         <source>Atrial Fibrillation Burden</source>
-        <target>Atrial Fibrillation Burden</target>
+        <target>心房颤动负担</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Audio Exposure Event" xml:space="preserve">
@@ -4503,6 +4509,7 @@
       </trans-unit>
       <trans-unit id="Batch Reorder" xml:space="preserve">
         <source>Batch Reorder</source>
+        <target>批量重新排序</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Battery" xml:space="preserve">
@@ -4715,34 +4722,42 @@
       </trans-unit>
       <trans-unit id="Bottom Left Bar Edge Rounding" xml:space="preserve">
         <source>Bottom Left Bar Edge Rounding</source>
+        <target>左下条形边缘圆角</target>
         <note>Bar Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Left Corner Deformation X" xml:space="preserve">
         <source>Bottom Left Corner Deformation X</source>
+        <target>左下角变形X</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Left Corner Deformation Y" xml:space="preserve">
         <source>Bottom Left Corner Deformation Y</source>
+        <target>左下角变形Y</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Left Edge Rounding" xml:space="preserve">
         <source>Bottom Left Edge Rounding</source>
+        <target>左下边缘圆角</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Right Bar Edge Rounding" xml:space="preserve">
         <source>Bottom Right Bar Edge Rounding</source>
+        <target>右下条形边缘圆角</target>
         <note>Bar Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Right Corner Deformation X" xml:space="preserve">
         <source>Bottom Right Corner Deformation X</source>
+        <target>右下角变形X</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Right Corner Deformation Y" xml:space="preserve">
         <source>Bottom Right Corner Deformation Y</source>
+        <target>右下角变形Y</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Right Edge Rounding" xml:space="preserve">
         <source>Bottom Right Edge Rounding</source>
+        <target>右下边缘圆角</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Bounds" xml:space="preserve">
@@ -4802,11 +4817,12 @@
       </trans-unit>
       <trans-unit id="By deleting your explore account you will also delete all your widgets uploaded to explore." xml:space="preserve">
         <source>By deleting your explore account you will also delete all your widgets uploaded to explore.</source>
-        <target>By deleting your explore account you will also delete all your widgets uploaded to explore.</target>
+        <target>删除您的探索账户后，您上传至探索平台的所有小组件也将一并删除。</target>
         <note>Delete Explore Account</note>
       </trans-unit>
       <trans-unit id="By proceeding, you will lose button configuration." xml:space="preserve">
         <source>By proceeding, you will lose button configuration.</source>
+        <target>继续操作将导致按钮配置丢失。</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="CLEAR THE OCCUPIED SLOT" xml:space="preserve">
@@ -4821,22 +4837,27 @@
       </trans-unit>
       <trans-unit id="CSV From Files" xml:space="preserve">
         <source>CSV From Files</source>
+        <target>从文件获取 CSV</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="CSV From Web URL" xml:space="preserve">
         <source>CSV From Web URL</source>
+        <target>从 Web URL 获取 CSV</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="CSV From Web URL (No Caching)" xml:space="preserve">
         <source>CSV From Web URL (No Caching)</source>
+        <target>从 Web URL 获取 CSV（无缓存）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="CSV Picker" xml:space="preserve">
         <source>CSV Picker</source>
+        <target>CSV 选择</target>
         <note>Window Title</note>
       </trans-unit>
       <trans-unit id="CSV has no consistent number data in any columns." xml:space="preserve">
         <source>CSV has no consistent number data in any columns.</source>
+        <target>CSV 的任何列中都没有一致的数字数据。</target>
         <note>CSV Picker Drawer</note>
       </trans-unit>
       <trans-unit id="Calendar" xml:space="preserve">
@@ -4856,37 +4877,38 @@
       </trans-unit>
       <trans-unit id="Calendar Chronological" xml:space="preserve">
         <source>Calendar Chronological</source>
-        <target>Calendar Chronological</target>
+        <target>日历 按时间顺序排列</target>
         <note>Misc</note>
       </trans-unit>
       <trans-unit id="Calendar Events" xml:space="preserve">
         <source>Calendar Events</source>
+        <target>日历 事件</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Calendar Events Today" xml:space="preserve">
         <source>Calendar Events Today</source>
-        <target>今天的日历活动</target>
+        <target>日历 今日天文图片的事件</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Calendar Events Tomorrow" xml:space="preserve">
         <source>Calendar Events Tomorrow</source>
-        <target>Calendar Events Tomorrow</target>
+        <target>日历 明日的事件</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Calendar No Data" xml:space="preserve">
         <source>Calendar No Data</source>
-        <target>Calendar No Data</target>
+        <target>日历 无数据</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Calendar Today" xml:space="preserve">
         <source>Calendar Today</source>
-        <target>Calendar Today</target>
+        <target>日历 今日</target>
         <note>Data Sources
    Misc</note>
       </trans-unit>
       <trans-unit id="Calendar Tomorrow" xml:space="preserve">
         <source>Calendar Tomorrow</source>
-        <target>Calendar Tomorrow</target>
+        <target>日历 明日</target>
         <note>Data Sources
    Misc</note>
       </trans-unit>
@@ -4947,7 +4969,7 @@
       </trans-unit>
       <trans-unit id="Cat Facts" xml:space="preserve">
         <source>Cat Facts</source>
-        <target>猫事实</target>
+        <target>猫的趣闻</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Cell" xml:space="preserve">
@@ -5064,6 +5086,7 @@
       </trans-unit>
       <trans-unit id="Charts" xml:space="preserve">
         <source>Charts</source>
+        <target>图表</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Chest Tightness Or Pain" xml:space="preserve">
@@ -5104,6 +5127,7 @@
       </trans-unit>
       <trans-unit id="Circular Watch Slots" xml:space="preserve">
         <source>Circular Watch Slots</source>
+        <target>圆形手表插槽</target>
         <note>Widget Slot Name</note>
       </trans-unit>
       <trans-unit id="Circular Widgy Slots" xml:space="preserve">
@@ -5134,11 +5158,12 @@
       </trans-unit>
       <trans-unit id="Clear Cache?" xml:space="preserve">
         <source>Clear Cache?</source>
-        <target>Clear Cache?</target>
+        <target>清除缓存？</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Clear Image" xml:space="preserve">
         <source>Clear Image</source>
+        <target>清除图片</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Clear Sky" xml:space="preserve">
@@ -5148,6 +5173,7 @@
       </trans-unit>
       <trans-unit id="Click + Sound" xml:space="preserve">
         <source>Click + Sound</source>
+        <target>点击+声音</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="Clip To Frame" xml:space="preserve">
@@ -5203,6 +5229,7 @@
       </trans-unit>
       <trans-unit id="Collapse All Groups" xml:space="preserve">
         <source>Collapse All Groups</source>
+        <target>折叠所有组</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Color" xml:space="preserve">
@@ -5212,6 +5239,7 @@
       </trans-unit>
       <trans-unit id="Color Dodge blend mode isn't working properly on Live Activities. Hopefully, Apple will fix the issue soon." xml:space="preserve">
         <source>Color Dodge blend mode isn't working properly on Live Activities. Hopefully, Apple will fix the issue soon.</source>
+        <target>颜色减淡混合模式在Live Activities中不起作用。希望苹果能尽快修复这个问题。</target>
         <note>Pick View</note>
       </trans-unit>
       <trans-unit id="Color Mode 1" xml:space="preserve">
@@ -5261,6 +5289,7 @@
       </trans-unit>
       <trans-unit id="Combining blend modes and transition on the same layer or distributed across the same group will result in broken blend modes." xml:space="preserve">
         <source>Combining blend modes and transition on the same layer or distributed across the same group will result in broken blend modes.</source>
+        <target>在相同的层或相同的组中混合混合模式和过渡将导致混合模式出现问题。</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Commerce" xml:space="preserve">
@@ -5387,10 +5416,12 @@
       </trans-unit>
       <trans-unit id="Contents Of File" xml:space="preserve">
         <source>Contents Of File</source>
+        <target>文件内容</target>
         <note>Tap Actions</note>
       </trans-unit>
       <trans-unit id="Contents Of Web URL" xml:space="preserve">
         <source>Contents Of Web URL</source>
+        <target>Web URL内容</target>
         <note>Tap Actions</note>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
@@ -5405,6 +5436,7 @@
       </trans-unit>
       <trans-unit id="Continue With This Screenshot Anyway" xml:space="preserve">
         <source>Continue With This Screenshot Anyway</source>
+        <target>继续使用此截图</target>
         <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="Contraceptive" xml:space="preserve">
@@ -5497,6 +5529,7 @@
       </trans-unit>
       <trans-unit id="Countdown (In Percent)" xml:space="preserve">
         <source>Countdown (In Percent)</source>
+        <target>倒计时（百分比）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Countdown (Monthly)" xml:space="preserve">
@@ -5537,10 +5570,12 @@
       </trans-unit>
       <trans-unit id="Create New" xml:space="preserve">
         <source>Create New</source>
+        <target>新建</target>
         <note>Create Tab Top Actions</note>
       </trans-unit>
       <trans-unit id="Create New Widgy" xml:space="preserve">
         <source>Create New Widgy</source>
+        <target>新建小组件</target>
         <note>Window Title</note>
       </trans-unit>
       <trans-unit id="Create Tab" xml:space="preserve">
@@ -5550,18 +5585,22 @@
       </trans-unit>
       <trans-unit id="Crop Center X" xml:space="preserve">
         <source>Crop Center X</source>
+        <target>裁剪中心X</target>
         <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="Crop Center Y" xml:space="preserve">
         <source>Crop Center Y</source>
+        <target>裁剪中心Y</target>
         <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="Crop Height" xml:space="preserve">
         <source>Crop Height</source>
+        <target>裁剪高度</target>
         <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="Crop Width" xml:space="preserve">
         <source>Crop Width</source>
+        <target>裁剪宽度</target>
         <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="Cryptocurrency" xml:space="preserve">
@@ -5596,27 +5635,30 @@
       </trans-unit>
       <trans-unit id="Currency For Cryptocurrency" xml:space="preserve">
         <source>Currency For Cryptocurrency</source>
-        <target>加密货币的货币</target>
+        <target>加密货币的币种</target>
         <note>Widget Settings View
    Window Title</note>
       </trans-unit>
       <trans-unit id="Currency For Exchange Rates" xml:space="preserve">
         <source>Currency For Exchange Rates</source>
-        <target>汇率货币</target>
+        <target>汇率的币种</target>
         <note>Widget Settings View
    Window Title</note>
       </trans-unit>
       <trans-unit id="Currency For Stocks" xml:space="preserve">
         <source>Currency For Stocks</source>
+        <target>股票的币种</target>
         <note>Widget Settings View
    Window Title</note>
       </trans-unit>
       <trans-unit id="Current Earthly Branch" xml:space="preserve">
         <source>Current Earthly Branch</source>
+        <target>当前地支</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Current Heavenly Stem" xml:space="preserve">
         <source>Current Heavenly Stem</source>
+        <target>当前天干</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Current IP Address" xml:space="preserve">
@@ -5680,37 +5722,42 @@
       </trans-unit>
       <trans-unit id="Current Week Edges Rounding" xml:space="preserve">
         <source>Current Week Edges Rounding</source>
-        <target>当前周边舍入</target>
+        <target>当前周边缘圆角</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Current Zodiac Sign" xml:space="preserve">
         <source>Current Zodiac Sign</source>
+        <target>当前星座</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Currently Using Image From Files" xml:space="preserve">
         <source>Currently Using Image From Files</source>
+        <target>当前使用来自文件的图片</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Currently Using Image From Photos" xml:space="preserve">
         <source>Currently Using Image From Photos</source>
+        <target>当前使用来自图库的图片</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Currently Using Image From Stash" xml:space="preserve">
         <source>Currently Using Image From Stash</source>
+        <target>当前使用来自收藏夹的图片</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Currently Using Image From Web URL" xml:space="preserve">
         <source>Currently Using Image From Web URL</source>
+        <target>当前使用来自Web URL的图片</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Currently, you can only get Now Playing from Apple Music, because it's a native system call without the integration of any third-party components. There is no point in getting Now Playing from Spotify since it requires jumping from a bunch more hoops, and the widget doesn't refresh enough for it to be worth it." xml:space="preserve">
         <source>Currently, you can only get Now Playing from Apple Music, because it's a native system call without the integration of any third-party components. There is no point in getting Now Playing from Spotify since it requires jumping from a bunch more hoops, and the widget doesn't refresh enough for it to be worth it.</source>
-        <target>目前，您只能从苹果音乐中玩，因为它是一个本机系统调用而不会有任何第三方组件的集成。 现在没有发现从Spotify玩，因为它需要从一束跳跃跳跃，并且小部件不够刷新，因为它是值得的。</target>
+        <target>目前，你只能从Apple Music获取“正在播放”的信息，因为它是一个原生的系统调用，没有集成任何第三方组件。从Spotify获取“正在播放”则显得多此一举，因为这需要绕过更多环节，而且小组件的刷新频率也不足以使其变得实用。</target>
         <note>Help Message</note>
       </trans-unit>
       <trans-unit id="Curved Text" xml:space="preserve">
         <source>Curved Text</source>
-        <target>弯曲的文本</target>
+        <target>弧形文字</target>
         <note>Layer Component</note>
       </trans-unit>
       <trans-unit id="Custom" xml:space="preserve">
@@ -5788,10 +5835,12 @@
       </trans-unit>
       <trans-unit id="Cycling Cadence" xml:space="preserve">
         <source>Cycling Cadence</source>
+        <target>骑行踏频</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Cycling Functional Threshold Power" xml:space="preserve">
         <source>Cycling Functional Threshold Power</source>
+
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Cycling Power" xml:space="preserve">
@@ -5809,64 +5858,77 @@
       </trans-unit>
       <trans-unit id="Daily" xml:space="preserve">
         <source>Daily</source>
-        <target>每天</target>
+        <target>每日</target>
         <note>Weather Prefix</note>
       </trans-unit>
       <trans-unit id="Daily Feels Like Temperature" xml:space="preserve">
         <source>Daily Feels Like Temperature</source>
+        <target>每日体感温度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Feels Like Temperature (Always In C°)" xml:space="preserve">
         <source>Daily Feels Like Temperature (Always In C°)</source>
+        <target>每日体感温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Feels Like Temperature (Always In F°)" xml:space="preserve">
         <source>Daily Feels Like Temperature (Always In F°)</source>
+        <target>每日体感温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Max. Temperature" xml:space="preserve">
         <source>Daily Max. Temperature</source>
+        <target>每日最高温度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Max. Temperature (Always In C°)" xml:space="preserve">
         <source>Daily Max. Temperature (Always In C°)</source>
+        <target>每日最高温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Max. Temperature (Always In F°)" xml:space="preserve">
         <source>Daily Max. Temperature (Always In F°)</source>
+        <target>每日最高温度（始终以 F° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Min. Temperature" xml:space="preserve">
         <source>Daily Min. Temperature</source>
+        <target>每日最低温度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Min. Temperature (Always In C°)" xml:space="preserve">
         <source>Daily Min. Temperature (Always In C°)</source>
+        <target>每日最低温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Min. Temperature (Always In F°)" xml:space="preserve">
         <source>Daily Min. Temperature (Always In F°)</source>
+        <target>每日最低温度（始终以 F° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Temperature" xml:space="preserve">
         <source>Daily Temperature</source>
+        <target>每日温度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Temperature (Always In C°)" xml:space="preserve">
         <source>Daily Temperature (Always In C°)</source>
+        <target>每日温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Temperature (Always In F°)" xml:space="preserve">
         <source>Daily Temperature (Always In F°)</source>
+        <target>每日温度（始终以 F° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daily Temperature (Color Symbols)" xml:space="preserve">
         <source>Daily Temperature (Color Symbols)</source>
-        <target>日温度（颜色符号）</target>
+        <target>每日温度（颜色符号）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Temperature (Custom Image)" xml:space="preserve">
         <source>Daily Temperature (Custom Image)</source>
+        <target>每日温度（日定义图片）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Temperature (Filled Symbols)" xml:space="preserve">
@@ -5876,50 +5938,52 @@
       </trans-unit>
       <trans-unit id="Daily Temperature (Image)" xml:space="preserve">
         <source>Daily Temperature (Image)</source>
-        <target>日气温（图）</target>
+        <target>每日温度（图片）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Temperature (Outline Image)" xml:space="preserve">
         <source>Daily Temperature (Outline Image)</source>
+        <target>每日温度（轮廓图）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Temperature (Outline Symbols)" xml:space="preserve">
         <source>Daily Temperature (Outline Symbols)</source>
-        <target>日温度（轮廓符号）</target>
+        <target>每日温度（轮廓符号）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Temperature (White Image)" xml:space="preserve">
         <source>Daily Temperature (White Image)</source>
+        <target>每日温度（白底图）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Temperature (White Symbols)" xml:space="preserve">
         <source>Daily Temperature (White Symbols)</source>
-        <target>日温度（白色符号）</target>
+        <target>每日温度（白色符号）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Wind Direction (Arrow Symbols)" xml:space="preserve">
         <source>Daily Wind Direction (Arrow Symbols)</source>
-        <target>日风向（箭头符号）</target>
+        <target>每日风向（箭头符号）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Wind Direction (Circle Outline Symbols)" xml:space="preserve">
         <source>Daily Wind Direction (Circle Outline Symbols)</source>
-        <target>日风向（圆圈轮廓符号）</target>
+        <target>每日风向（圆圈轮廓符号）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Wind Direction (Circle Symbols)" xml:space="preserve">
         <source>Daily Wind Direction (Circle Symbols)</source>
-        <target>日风向（圆圈符号）</target>
+        <target>每日风向（圆圈符号）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Wind Direction (Square Outline Symbols)" xml:space="preserve">
         <source>Daily Wind Direction (Square Outline Symbols)</source>
-        <target>日风向（方形轮廓符号）</target>
+        <target>每日风向（方形轮廓符号）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Daily Wind Direction (Square Symbols)" xml:space="preserve">
         <source>Daily Wind Direction (Square Symbols)</source>
-        <target>日风向（方形符号）</target>
+        <target>每日风向（方形符号）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Dark" xml:space="preserve">
@@ -5981,7 +6045,7 @@
       </trans-unit>
       <trans-unit id="Data not available for this widget/device combination." xml:space="preserve">
         <source>Data not available for this widget/device combination.</source>
-        <target>Data not available for this widget/device combination.</target>
+        <target>该小组件/设备组合的数据目前不可用。</target>
         <note>Incompatible data source</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
@@ -6072,15 +6136,17 @@
       </trans-unit>
       <trans-unit id="Daylight/Night Remaining" xml:space="preserve">
         <source>Daylight/Night Remaining</source>
-        <target>Daylight/Night Remaining</target>
+        <target>白天/夜晚剩余时间</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Daylight/Night Remaining - Until Sunrise" xml:space="preserve">
         <source>Daylight/Night Remaining - Until Sunrise</source>
+        <target>白天/夜晚剩余时间（直到日出）</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Daylight/Night Remaining - Until Sunset" xml:space="preserve">
         <source>Daylight/Night Remaining - Until Sunset</source>
+        <target>白天/夜晚剩余时间（直到日落）</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Days" xml:space="preserve">
@@ -6120,7 +6186,7 @@
       </trans-unit>
       <trans-unit id="Days Since Date" xml:space="preserve">
         <source>Days Since Date</source>
-        <target>自日期以来的日子</target>
+        <target>自日期起已经过的天数</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Dear Influencers" xml:space="preserve">
@@ -6168,12 +6234,13 @@
       </trans-unit>
       <trans-unit id="Delete Your Explore Account" xml:space="preserve">
         <source>Delete Your Explore Account</source>
-        <target>Delete Your Explore Account</target>
+        <target>删除您的探索账户</target>
         <note>Settings View
    Window Title</note>
       </trans-unit>
       <trans-unit id="Desaturate When In 'Always On' Mode" xml:space="preserve">
         <source>Desaturate When In 'Always On' Mode</source>
+        <target>在“始终开启”模式下变暗</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Description" xml:space="preserve">
@@ -6600,6 +6667,7 @@
       </trans-unit>
       <trans-unit id="Dynamic Island" xml:space="preserve">
         <source>Dynamic Island</source>
+        <target>灵动岛</target>
         <note>Widget Destination
    Widget Slot Name</note>
       </trans-unit>
@@ -6648,7 +6716,7 @@
       </trans-unit>
       <trans-unit id="EDIT AS A COPY" xml:space="preserve">
         <source>EDIT AS A COPY</source>
-        <target>作为副本进行编辑</target>
+        <target>作为副本编辑</target>
         <note>Widget Preview Button</note>
       </trans-unit>
       <trans-unit id="Edges Rounding" xml:space="preserve">
@@ -6663,6 +6731,7 @@
       </trans-unit>
       <trans-unit id="Edit As A Copy" xml:space="preserve">
         <source>Edit As A Copy</source>
+        <target>作为副本进行编辑</target>
         <note>Widget Preview Button</note>
       </trans-unit>
       <trans-unit id="Edit Color" xml:space="preserve">
@@ -6684,10 +6753,12 @@
       </trans-unit>
       <trans-unit id="Edit Transparency Layer" xml:space="preserve">
         <source>Edit Transparency Layer</source>
+        <target>编辑透明图层</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Edit Widget" xml:space="preserve">
         <source>Edit Widget</source>
+        <target>编辑小组件</target>
         <note>Widget Preview Button</note>
       </trans-unit>
       <trans-unit id="Editing" xml:space="preserve">
@@ -6722,22 +6793,27 @@
       </trans-unit>
       <trans-unit id="Emboss" xml:space="preserve">
         <source>Emboss</source>
+        <target>浮雕效果</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Emboss Amount" xml:space="preserve">
         <source>Emboss Amount</source>
+        <target>浮雕程度</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Emboss Angle" xml:space="preserve">
         <source>Emboss Angle</source>
+        <target>浮雕角度</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Emboss Bottom Color" xml:space="preserve">
         <source>Emboss Bottom Color</source>
+        <target>浮雕底色</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Emboss Top Color" xml:space="preserve">
         <source>Emboss Top Color</source>
+        <target>浮雕顶色</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Enclosed Symbols" xml:space="preserve">
@@ -6762,12 +6838,12 @@
       </trans-unit>
       <trans-unit id="End Time (Optional, in minutes 0-1439)" xml:space="preserve">
         <source>End Time (Optional, in minutes 0-1439)</source>
-        <target>End Time (Optional, in minutes 0-1439)</target>
+        <target>结束时间（可选，范围为0-1439分钟）</target>
         <note>Automation View</note>
       </trans-unit>
       <trans-unit id="Endpoint" xml:space="preserve">
         <source>Endpoint</source>
-        <target>结束点</target>
+        <target>端点</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Enter Date/Time Format" xml:space="preserve">
@@ -6793,16 +6869,17 @@
       </trans-unit>
       <trans-unit id="Enter URL or URL Scheme" xml:space="preserve">
         <source>Enter URL or URL Scheme</source>
+        <target>输入URL或URL Scheme</target>
         <note>Tap Actions</note>
       </trans-unit>
       <trans-unit id="Enter Widget Name and Author" xml:space="preserve">
         <source>Enter Widget Name and Author</source>
-        <target>Enter Widget Name and Author</target>
+        <target>输入小组件名称及作者</target>
         <note>Create New Widgy Screen</note>
       </trans-unit>
       <trans-unit id="Enter current widget password:" xml:space="preserve">
         <source>Enter current widget password:</source>
-        <target>输入当前的小部件密码：</target>
+        <target>输入当前的小组件密码：</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Enter description" xml:space="preserve">
@@ -6827,7 +6904,7 @@
       </trans-unit>
       <trans-unit id="Enter widget name" xml:space="preserve">
         <source>Enter widget name</source>
-        <target>输入小部件名称</target>
+        <target>输入小组件名称</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Enter your name" xml:space="preserve">
@@ -6875,7 +6952,7 @@
       </trans-unit>
       <trans-unit id="Evil Insult" xml:space="preserve">
         <source>Evil Insult</source>
-        <target>邪恶的侮辱</target>
+        <target>脏话</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Example: Async Fetch" xml:space="preserve">
@@ -6901,12 +6978,12 @@
       </trans-unit>
       <trans-unit id="Exchange Rates (Inverted)" xml:space="preserve">
         <source>Exchange Rates (Inverted)</source>
-        <target>汇率（倒挂）</target>
+        <target>汇率（倒置）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Exclusive Segment Max" xml:space="preserve">
         <source>Exclusive Segment Max</source>
-        <target>最独家段最大</target>
+        <target>独占段最大值</target>
         <note>Apple Gauge Drawer
    Bar Chart Drawer
    Circle Chart Drawer
@@ -6916,7 +6993,7 @@
       </trans-unit>
       <trans-unit id="Exclusive Segment Min" xml:space="preserve">
         <source>Exclusive Segment Min</source>
-        <target>独家段Min</target>
+        <target>独段Min</target>
         <note>Apple Gauge Drawer
    Bar Chart Drawer
    Circle Chart Drawer
@@ -6926,7 +7003,7 @@
       </trans-unit>
       <trans-unit id="Exclusive Segment Mode" xml:space="preserve">
         <source>Exclusive Segment Mode</source>
-        <target>独家段模式</target>
+        <target>独占段模式</target>
         <note>Bar Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Expand All Groups" xml:space="preserve">
@@ -6963,6 +7040,7 @@
       </trans-unit>
       <trans-unit id="External Action" xml:space="preserve">
         <source>External Action</source>
+        <target>外部操作</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="External IP Address" xml:space="preserve">
@@ -7213,12 +7291,10 @@
       </trans-unit>
       <trans-unit id="Font Awesome Regular" xml:space="preserve">
         <source>Font Awesome Regular</source>
-        <target>字体真棒常规</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Font Awesome Solid" xml:space="preserve">
         <source>Font Awesome Solid</source>
-        <target>字体真棒实心</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Font Color" xml:space="preserve">
@@ -7313,7 +7389,7 @@
       </trans-unit>
       <trans-unit id="Font not available for this widget/device combination." xml:space="preserve">
         <source>Font not available for this widget/device combination.</source>
-        <target>Font not available for this widget/device combination.</target>
+        <target>字体不适用于此组件/设备组合。</target>
         <note>Incompatible data source</note>
       </trans-unit>
       <trans-unit id="Fonts" xml:space="preserve">
@@ -7425,7 +7501,7 @@
       </trans-unit>
       <trans-unit id="Full Color Mode" xml:space="preserve">
         <source>Full Color Mode</source>
-        <target>Full Color Mode</target>
+        <target>全彩模式</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Full Gradient" xml:space="preserve">
@@ -7476,6 +7552,7 @@
       </trans-unit>
       <trans-unit id="General info about Complications" xml:space="preserve">
         <source>General info about Complications</source>
+        <target>关于 Complications 的一般信息</target>
         <note>Watchy Help Title</note>
       </trans-unit>
       <trans-unit id="General info about Watchy" xml:space="preserve">
@@ -7537,11 +7614,12 @@
       </trans-unit>
       <trans-unit id="Go To App Settings" xml:space="preserve">
         <source>Go To App Settings</source>
+        <target>前往应用设置</target>
         <note>Popup Title</note>
       </trans-unit>
       <trans-unit id="Go to your home screen and enter jiggle mode. Scroll to the empty page on the far right and take a screenshot." xml:space="preserve">
         <source>Go to your home screen and enter jiggle mode. Scroll to the empty page on the far right and take a screenshot.</source>
-        <target>转到您的主屏幕并输入拼图模式。 滚动到右边的空页面，并采取截图。</target>
+        <target>回到主屏幕，进入微动模式(长按)。滚动至最右侧的空白页面，并截屏。</target>
         <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="Gradient" xml:space="preserve">
@@ -7592,10 +7670,12 @@
       </trans-unit>
       <trans-unit id="Group All Layers" xml:space="preserve">
         <source>Group All Layers</source>
+        <target>全部图层组</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Group rotations combined with group's frame resizing will result in incorrect marching ants outline in the editor. This might improve in the future." xml:space="preserve">
         <source>Group rotations combined with group's frame resizing will result in incorrect marching ants outline in the editor. This might improve in the future.</source>
+        <target>组旋转与组的大小调整相结合，会在编辑器中导致选区边界显示不准确。这个问题未来可能会得到改进。</target>
         <note>Frame Drawer</note>
       </trans-unit>
       <trans-unit id="Grouping Separator" xml:space="preserve">
@@ -7736,7 +7816,7 @@
       </trans-unit>
       <trans-unit id="Headers (Optional)" xml:space="preserve">
         <source>Headers (Optional)</source>
-        <target>标题（可选）</target>
+        <target>Headers（可选）</target>
         <note>Custom JSON View</note>
       </trans-unit>
       <trans-unit id="Headphone Audio Exposure" xml:space="preserve">
@@ -7860,6 +7940,7 @@
       </trans-unit>
       <trans-unit id="Help Translating" xml:space="preserve">
         <source>Help Translating</source>
+        <target>帮助翻译</target>
         <note>Settings View</note>
       </trans-unit>
       <trans-unit id="Hexagon" xml:space="preserve">
@@ -7869,24 +7950,27 @@
       </trans-unit>
       <trans-unit id="Hide If Needed" xml:space="preserve">
         <source>Hide If Needed</source>
+        <target>必要时隐藏</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Hide If Needed, But Disable When Editing Widgets" xml:space="preserve">
         <source>Hide If Needed, But Disable When Editing Widgets</source>
+        <target>必要时隐藏，但在编辑小组件时禁用</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Hide Widgy App Contents On Tap Actions" xml:space="preserve">
         <source>Hide Widgy App Contents On Tap Actions</source>
+        <target>点击动作时隐藏Widgy应用程序内容</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Hiding the name under your widget is not something that is officially supported." xml:space="preserve">
         <source>Hiding the name under your widget is not something that is officially supported.</source>
-        <target>在您的小部件下隐藏名称不是官方支持的。</target>
+        <target>在您的小组件下隐藏名称不是官方支持的。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="Hiding the name under your widget is not something that is officially supported. Some apps replace their name with a special unicode character, but those apps won't have a good time once Apple catches them red handed." xml:space="preserve">
         <source>Hiding the name under your widget is not something that is officially supported. Some apps replace their name with a special unicode character, but those apps won't have a good time once Apple catches them red handed.</source>
-        <target>隐藏您的小部件下的名称不是正式支持的东西。 某些应用程序用特殊的Unicode字符替换其名称，但是苹果抓住他们交红的那些应用程序不会有一个很好的时间。</target>
+        <target>隐藏您的小组件下的名称不是正式支持的东西。 某些应用程序用特殊的Unicode字符替换其名称，但是苹果抓住他们交红的那些应用程序不会有一个很好的时间。</target>
         <note>Help Message</note>
       </trans-unit>
       <trans-unit id="Hierarchical" xml:space="preserve">
@@ -7906,15 +7990,17 @@
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
-        <target>家庭</target>
+        <target>主屏幕</target>
         <note>Tap Actions</note>
       </trans-unit>
       <trans-unit id="Home Screen" xml:space="preserve">
         <source>Home Screen</source>
+        <target>主屏幕</target>
         <note>Widget Destination</note>
       </trans-unit>
       <trans-unit id="Home Screen Slots" xml:space="preserve">
         <source>Home Screen Slots</source>
+        <target>主屏幕槽位</target>
         <note>In-App Purchase Messages</note>
       </trans-unit>
       <trans-unit id="Horizontal" xml:space="preserve">
@@ -7929,6 +8015,7 @@
       </trans-unit>
       <trans-unit id="Horizontal Chart" xml:space="preserve">
         <source>Horizontal Chart</source>
+        <target>水平图表</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Horizontal Line Color" xml:space="preserve">
@@ -7984,26 +8071,32 @@
       </trans-unit>
       <trans-unit id="Hourly Feels Like Temperature" xml:space="preserve">
         <source>Hourly Feels Like Temperature</source>
+        <target>每小时体感温度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Hourly Feels Like Temperature (Always In C°)" xml:space="preserve">
         <source>Hourly Feels Like Temperature (Always In C°)</source>
+        <target>每小时体感温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Hourly Feels Like Temperature (Always In F°)" xml:space="preserve">
         <source>Hourly Feels Like Temperature (Always In F°)</source>
+        <target>每小时体感温度（始终以 F° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Hourly Temperature" xml:space="preserve">
         <source>Hourly Temperature</source>
+        <target>每小时温度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Hourly Temperature (Always In C°)" xml:space="preserve">
         <source>Hourly Temperature (Always In C°)</source>
+        <target>每小时温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Hourly Temperature (Always In F°)" xml:space="preserve">
         <source>Hourly Temperature (Always In F°)</source>
+        <target>每小时温度（始终以 F° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Hourly Temperature (Color Symbols)" xml:space="preserve">
@@ -8013,6 +8106,7 @@
       </trans-unit>
       <trans-unit id="Hourly Temperature (Custom Image)" xml:space="preserve">
         <source>Hourly Temperature (Custom Image)</source>
+        <target>每小时温度（自定义图片）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Hourly Temperature (Filled Symbols)" xml:space="preserve">
@@ -8027,6 +8121,7 @@
       </trans-unit>
       <trans-unit id="Hourly Temperature (Outline Image)" xml:space="preserve">
         <source>Hourly Temperature (Outline Image)</source>
+        <target>每小时温度（轮廓图片）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Hourly Temperature (Outline Symbols)" xml:space="preserve">
@@ -8036,6 +8131,7 @@
       </trans-unit>
       <trans-unit id="Hourly Temperature (White Image)" xml:space="preserve">
         <source>Hourly Temperature (White Image)</source>
+        <target>每小时温度（轮廓符号）</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Hourly Temperature (White Symbols)" xml:space="preserve">
@@ -8070,12 +8166,12 @@
       </trans-unit>
       <trans-unit id="Hours" xml:space="preserve">
         <source>Hours</source>
-        <target>小时</target>
+        <target>距离某点的小时数（不带前导零）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Hours (Without Leading Zero)" xml:space="preserve">
         <source>Hours (Without Leading Zero)</source>
-        <target>每小时数（不带前导零）</target>
+        <target>距离某点的小时数（不带前导零）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="How do I change the color of elements based on system statuses?" xml:space="preserve">
@@ -8085,17 +8181,17 @@
       </trans-unit>
       <trans-unit id="How do I hide the 'Widgy' label under my widget?" xml:space="preserve">
         <source>How do I hide the 'Widgy' label under my widget?</source>
-        <target>如何在我的小部件下隐藏“Widgy”标签？</target>
+        <target>如何在我的小组件下隐藏“Widgy”标签？</target>
         <note>Widgy Help Title</note>
       </trans-unit>
       <trans-unit id="How do I hide the name under my widget?" xml:space="preserve">
         <source>How do I hide the name under my widget?</source>
-        <target>如何隐藏小部件的名称？</target>
+        <target>如何隐藏小组件的名称？</target>
         <note>Help Title</note>
       </trans-unit>
       <trans-unit id="How do I make my widget transparent?" xml:space="preserve">
         <source>How do I make my widget transparent?</source>
-        <target>如何使小部件透明？</target>
+        <target>如何使小组件透明？</target>
         <note>Help Title</note>
       </trans-unit>
       <trans-unit id="How do I manually choose a font size?" xml:space="preserve">
@@ -8115,11 +8211,12 @@
       </trans-unit>
       <trans-unit id="How often does a Live Activity widget update?" xml:space="preserve">
         <source>How often does a Live Activity widget update?</source>
+        <target>实时活动小组件多久更新一次？</target>
         <note>Widgy Help Title</note>
       </trans-unit>
       <trans-unit id="How often does a Widgy widget update?" xml:space="preserve">
         <source>How often does a Widgy widget update?</source>
-        <target>Widgy 小部件多久更新一次？</target>
+        <target>Widgy 小组件多久更新一次？</target>
         <note>Widgy Help Title</note>
       </trans-unit>
       <trans-unit id="Human" xml:space="preserve">
@@ -8164,7 +8261,7 @@
       </trans-unit>
       <trans-unit id="If none of the above helped, then the problem is that your Widgy reached the miserly small iOS memory limit. Try hiding some of the image and symbol layers and checking out if the widget now loads on the Home screen. If that helped, now you at least know the cause of the problem." xml:space="preserve">
         <source>If none of the above helped, then the problem is that your Widgy reached the miserly small iOS memory limit. Try hiding some of the image and symbol layers and checking out if the widget now loads on the Home screen. If that helped, now you at least know the cause of the problem.</source>
-        <target>如果以上都没有帮助，那么问题是您的 Widgy 达到了极小的 iOS 内存限制。尝试隐藏一些图像和符号图层并检查小部件现在是否加载到主屏幕上。如果这有帮助，那么现在您至少知道问题的原因了。</target>
+        <target>如果以上都没有帮助，那么问题是您的 Widgy 达到了极小的 iOS 内存限制。尝试隐藏一些图像和符号图层并检查小组件现在是否加载到主屏幕上。如果这有帮助，那么现在您至少知道问题的原因了。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="If sync seems to hang, wake up your Watch, so Watchy is visible on screen." xml:space="preserve">
@@ -8179,7 +8276,7 @@
       </trans-unit>
       <trans-unit id="If that happens, the widget on the home screen won't load and will look broken." xml:space="preserve">
         <source>If that happens, the widget on the home screen won't load and will look broken.</source>
-        <target>如果出现这种情况，小部件将无法加载到主屏幕上。</target>
+        <target>如果出现这种情况，小组件将无法加载到主屏幕上。</target>
         <note>Image Drawer</note>
       </trans-unit>
       <trans-unit id="If the sync fails, troubleshoot via the Help tab in Widgy." xml:space="preserve">
@@ -8189,7 +8286,7 @@
       </trans-unit>
       <trans-unit id="If there are any conflicts between new and old values, do the following:" xml:space="preserve">
         <source>If there are any conflicts between new and old values, do the following:</source>
-        <target>If there are any conflicts between new and old values, do the following:</target>
+        <target>如果新值和旧值之间存在任何冲突，请执行以下操作：</target>
         <note>Automation View</note>
       </trans-unit>
       <trans-unit id="If you are wondering why the live timer updates every second, but not anything else, it's because Apple provided that one feature as an exception. Widgy is using that feature as time since 0:00 (24 hour time) or 12:00 am/pm (12 hour time)." xml:space="preserve">
@@ -8214,6 +8311,7 @@
       </trans-unit>
       <trans-unit id="If you'd like to use the new iOS 17 widget reload, which doesn't open the Widgy app, make sure that 'Widget Action' is set to 'Reload Widget' or 'Button', 'Vibrate' is either set to 'No' or 'Yes', and 'External Action' is set to 'Return To Home Screen'. Also, this won't work on Live Activities and Dynamic Island." xml:space="preserve">
         <source>If you'd like to use the new iOS 17 widget reload, which doesn't open the Widgy app, make sure that 'Widget Action' is set to 'Reload Widget' or 'Button', 'Vibrate' is either set to 'No' or 'Yes', and 'External Action' is set to 'Return To Home Screen'. Also, this won't work on Live Activities and Dynamic Island.</source>
+        <target>如果您想使用 iOS 17 新版小组件重新加载，但不打开 Widgy 应用程序，请确保“小组件操作”设置为“重新加载小组件”或“按钮”，“震动”设置为“否”或“是”，“外部操作”设置为“返回主屏幕”。此外，这不适用于灵动岛和Live Activities。</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="If you're using non-asynchronous Javascript you must implement 'func main()' to return value to Widgy." xml:space="preserve">
@@ -8223,12 +8321,12 @@
       </trans-unit>
       <trans-unit id="Ignore All-Day Calendar Events" xml:space="preserve">
         <source>Ignore All-Day Calendar Events</source>
-        <target>Ignore All-Day Calendar Events</target>
+        <target>忽略全天日历事件</target>
         <note>Agenda Sources</note>
       </trans-unit>
       <trans-unit id="Ignore All-Day Reminders" xml:space="preserve">
         <source>Ignore All-Day Reminders</source>
-        <target>Ignore All-Day Reminders</target>
+        <target>忽略全天提醒事项</target>
         <note>Agenda Sources</note>
       </trans-unit>
       <trans-unit id="Ignore Reminders Without Date" xml:space="preserve">
@@ -8270,10 +8368,12 @@
       </trans-unit>
       <trans-unit id="Images" xml:space="preserve">
         <source>Images</source>
+        <target>图像</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Images failed to sync" xml:space="preserve">
         <source>Images failed to sync</source>
+        <target>图片同步失败</target>
         <note>Watchy Sync View</note>
       </trans-unit>
       <trans-unit id="Implant" xml:space="preserve">
@@ -8289,10 +8389,12 @@
       </trans-unit>
       <trans-unit id="Import &amp; Export" xml:space="preserve">
         <source>Import &amp; Export</source>
+        <target>导入 &amp; 导出</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Import .widgy File From Files" xml:space="preserve">
         <source>Import .widgy File From Files</source>
+        <target>从文件导入 .widgy 文件</target>
         <note>Import Screen</note>
       </trans-unit>
       <trans-unit id="Import Failed" xml:space="preserve">
@@ -8307,15 +8409,18 @@
       </trans-unit>
       <trans-unit id="Import From Photos" xml:space="preserve">
         <source>Import From Photos</source>
+        <target>从照片导入</target>
         <note>Button Title
    Stash View</note>
       </trans-unit>
       <trans-unit id="Import From Photos (With PNG Transparency)" xml:space="preserve">
         <source>Import From Photos (With PNG Transparency)</source>
+        <target>从照片导入（透明背景）</target>
         <note>Stash View</note>
       </trans-unit>
       <trans-unit id="Import From Stash" xml:space="preserve">
         <source>Import From Stash</source>
+        <target>从收藏夹导入</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Import From URL Or JSON" xml:space="preserve">
@@ -8325,10 +8430,12 @@
       </trans-unit>
       <trans-unit id="Import From Web URL" xml:space="preserve">
         <source>Import From Web URL</source>
+        <target>从 Web URL 导入</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Import Options" xml:space="preserve">
         <source>Import Options</source>
+        <target>导入选项</target>
         <note>Window Title</note>
       </trans-unit>
       <trans-unit id="Import QR Code From Album" xml:space="preserve">
@@ -8343,16 +8450,17 @@
       </trans-unit>
       <trans-unit id="Import QR Code From Photos" xml:space="preserve">
         <source>Import QR Code From Photos</source>
-        <target>Import QR Code From Photos</target>
+        <target>从照片导入二维码</target>
         <note>Import Screen</note>
       </trans-unit>
       <trans-unit id="Import URL Or JSON" xml:space="preserve">
         <source>Import URL Or JSON</source>
-        <target>Import URL Or JSON</target>
+        <target>导入URL或JSON</target>
         <note>Import Screen</note>
       </trans-unit>
       <trans-unit id="Import Widget" xml:space="preserve">
         <source>Import Widget</source>
+        <target>导入小组件</target>
         <note>Widget Preview Button</note>
       </trans-unit>
       <trans-unit id="Import Widgy" xml:space="preserve">
@@ -8362,7 +8470,7 @@
       </trans-unit>
       <trans-unit id="Imported" xml:space="preserve">
         <source>Imported</source>
-        <target>进口的</target>
+        <target>已导入</target>
         <note>Create Filters
    Import Screen
    Widget Browser Sections</note>
@@ -8395,12 +8503,12 @@
       </trans-unit>
       <trans-unit id="In Widgy, go to the 'Manage' tab, select your widget slot, and tap on the 'Reload Widget' button." xml:space="preserve">
         <source>In Widgy, go to the 'Manage' tab, select your widget slot, and tap on the 'Reload Widget' button.</source>
-        <target>在 Widgy 中，转到“管理”选项卡，选择您的小部件插槽，然后点击“重新加载小部件”按钮。</target>
+        <target>在 Widgy 中，转到“管理”选项卡，选择您的小组件插槽，然后点击“重新加载小组件”按钮。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="In order to install shortcuts, Widgy requires Shortcuts app to be installed on your device." xml:space="preserve">
         <source>In order to install shortcuts, Widgy requires Shortcuts app to be installed on your device.</source>
-        <target>In order to install shortcuts, Widgy requires Shortcuts app to be installed on your device.</target>
+        <target>为了安装快捷方式，Widgy 需要您的设备上已安装快捷指令应用。</target>
         <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="Inactive" xml:space="preserve">
@@ -8455,7 +8563,7 @@
       </trans-unit>
       <trans-unit id="Infrequent Menstrual Cycles" xml:space="preserve">
         <source>Infrequent Menstrual Cycles</source>
-        <target>Infrequent Menstrual Cycles</target>
+        <target>不频繁的月经周期</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Inhaler Usage" xml:space="preserve">
@@ -8491,11 +8599,12 @@
       </trans-unit>
       <trans-unit id="Inline Watch Slots" xml:space="preserve">
         <source>Inline Watch Slots</source>
+        <target>内嵌式手表插槽</target>
         <note>Widget Slot Name</note>
       </trans-unit>
       <trans-unit id="Inline Widgy Slots" xml:space="preserve">
         <source>Inline Widgy Slots</source>
-        <target>Inline Widgy Slots</target>
+        <target>内嵌式 Widgy 插槽</target>
         <note>Widget Slot Name</note>
       </trans-unit>
       <trans-unit id="Inner Corner Complication Layer" xml:space="preserve">
@@ -8516,6 +8625,7 @@
       </trans-unit>
       <trans-unit id="Inset Height" xml:space="preserve">
         <source>Inset Height</source>
+        <target>内嵌高度</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Inset Symbols And Text" xml:space="preserve">
@@ -8525,10 +8635,12 @@
       </trans-unit>
       <trans-unit id="Inset Width" xml:space="preserve">
         <source>Inset Width</source>
+        <target>内嵌宽度</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Install Dark Mode Wallpaper Shortcut (Optional)" xml:space="preserve">
         <source>Install Dark Mode Wallpaper Shortcut (Optional)</source>
+        <target>安装暗黑模式壁纸快捷方式（可选）</target>
         <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="Insulin Delivery" xml:space="preserve">
@@ -8538,12 +8650,12 @@
       </trans-unit>
       <trans-unit id="Integer (Ceiling)" xml:space="preserve">
         <source>Integer (Ceiling)</source>
-        <target>整数（天花板）</target>
+        <target>整数（向上取整）</target>
         <note>Custom JSON View</note>
       </trans-unit>
       <trans-unit id="Integer (Floor)" xml:space="preserve">
         <source>Integer (Floor)</source>
-        <target>整数（楼层）</target>
+        <target>整数（向下取整）</target>
         <note>Custom JSON View</note>
       </trans-unit>
       <trans-unit id="Integer (Rounding)" xml:space="preserve">
@@ -8594,6 +8706,7 @@
       </trans-unit>
       <trans-unit id="Invert Values" xml:space="preserve">
         <source>Invert Values</source>
+        <target>反转值</target>
         <note>Bar Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Ionicons" xml:space="preserve">
@@ -8603,12 +8716,12 @@
       </trans-unit>
       <trans-unit id="Irregular Heart Rhythm Event" xml:space="preserve">
         <source>Irregular Heart Rhythm Event</source>
-        <target>不规则的心脏节奏事件</target>
+        <target>心律不齐事件事件</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Irregular Menstrual Cycles" xml:space="preserve">
         <source>Irregular Menstrual Cycles</source>
-        <target>Irregular Menstrual Cycles</target>
+        <target>月经周期不规律</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Is Spotify supported?" xml:space="preserve">
@@ -8643,12 +8756,12 @@
       </trans-unit>
       <trans-unit id="It looks like you selected an image that isn't an iPhone screenshot, or your iPhone is not supported. Try again with a different image." xml:space="preserve">
         <source>It looks like you selected an image that isn't an iPhone screenshot, or your iPhone is not supported. Try again with a different image.</source>
-        <target>看起来你选择了一个不是iPhone屏幕截图的图像，或者不支持您的iPhone。 再次尝试与不同的图像。</target>
+        <target>看起来您选择的图片并非iPhone截图，或者您的iPhone型号暂不支持。请尝试使用其他图片再次操作。</target>
         <note>Crop Tool</note>
       </trans-unit>
       <trans-unit id="It looks like you selected an image that isn't an iPhone/iPad screenshot, or your device is not yet supported." xml:space="preserve">
         <source>It looks like you selected an image that isn't an iPhone/iPad screenshot, or your device is not yet supported.</source>
-        <target>It looks like you selected an image that isn't an iPhone/iPad screenshot, or your device is not yet supported.</target>
+        <target>看起来您选择的图片并非iPhone/iPad的截图，或者您的设备尚未被支持。</target>
         <note>Crop Tool</note>
       </trans-unit>
       <trans-unit id="It's also strongly advised to read the Help tab." xml:space="preserve">
@@ -8685,6 +8798,7 @@
       </trans-unit>
       <trans-unit id="Join Our Reddit" xml:space="preserve">
         <source>Join Our Reddit</source>
+        <target>加入我们的Reddit社区</target>
         <note>Settings View</note>
       </trans-unit>
       <trans-unit id="Join our Reddit community and ask the question there" xml:space="preserve">
@@ -8714,6 +8828,7 @@
       </trans-unit>
       <trans-unit id="Keep Button Configuration" xml:space="preserve">
         <source>Keep Button Configuration</source>
+        <target>保持按钮配置</target>
         <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="Kerning" xml:space="preserve">
@@ -8728,12 +8843,12 @@
       </trans-unit>
       <trans-unit id="Kilometers Per Hour (km/h)" xml:space="preserve">
         <source>Kilometers Per Hour (km/h)</source>
-        <target>每公里公里（公里/ H）</target>
+        <target>公里每小时 (km/h)</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Knots (kt)" xml:space="preserve">
         <source>Knots (kt)</source>
-        <target>结（Kt）</target>
+        <target>节（kt）</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Lactation" xml:space="preserve">
@@ -8782,7 +8897,7 @@
       </trans-unit>
       <trans-unit id="Last Edited With Widgy" xml:space="preserve">
         <source>Last Edited With Widgy</source>
-        <target>最后用编辑编辑</target>
+        <target>最后由 Widgy 编辑</target>
         <note>Widget Preview Info</note>
       </trans-unit>
       <trans-unit id="Last Played Date (Now Playing)" xml:space="preserve">
@@ -8852,10 +8967,12 @@
       </trans-unit>
       <trans-unit id="Layer Appeared/Disappeared Transition" xml:space="preserve">
         <source>Layer Appeared/Disappeared Transition</source>
+        <target>图层出现/消失过渡</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Layer Contents Updated Animation" xml:space="preserve">
         <source>Layer Contents Updated Animation</source>
+        <target>图层内容更新动画</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Layer Name" xml:space="preserve">
@@ -8877,7 +8994,7 @@
       </trans-unit>
       <trans-unit id="Leading" xml:space="preserve">
         <source>Leading</source>
-        <target>领导</target>
+        <target>左对齐</target>
         <note>Bar Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Lean Body Mass" xml:space="preserve">
@@ -8928,6 +9045,7 @@
       </trans-unit>
       <trans-unit id="Let's set some things up!" xml:space="preserve">
         <source>Let's set some things up!</source>
+        <target>让我们来设置一些东西吧！</target>
         <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Letter-Like" xml:space="preserve">
@@ -9023,6 +9141,7 @@
       </trans-unit>
       <trans-unit id="List Separator" xml:space="preserve">
         <source>List Separator</source>
+        <target>列表分隔符</target>
         <note>Curved Text Drawer
    Text Drawer</note>
       </trans-unit>
@@ -9032,33 +9151,40 @@
       </trans-unit>
       <trans-unit id="Live Activities Are Already Restarting." xml:space="preserve">
         <source>Live Activities Are Already Restarting.</source>
+        <target>实时活动已经重新启动。</target>
         <note>Live Activities</note>
       </trans-unit>
       <trans-unit id="Live Activities Disabled, please go to Settings app/Widgy and enable Live Activities." xml:space="preserve">
         <source>Live Activities Disabled, please go to Settings app/Widgy and enable Live Activities.</source>
+        <target>实时活动已禁用，请转到设置应用/Widgy并启用实时活动。</target>
         <note>Live Activities</note>
       </trans-unit>
       <trans-unit id="Live Activity" xml:space="preserve">
         <source>Live Activity</source>
+        <target>实时活动</target>
         <note>Widget Destination
    Widget Size Name</note>
       </trans-unit>
       <trans-unit id="Live Activity Large" xml:space="preserve">
         <source>Live Activity Large</source>
+        <target>大型实时活动</target>
         <note>Create Filters
    Widget Size</note>
       </trans-unit>
       <trans-unit id="Live Activity Medium" xml:space="preserve">
         <source>Live Activity Medium</source>
+        <target>中型实时活动</target>
         <note>Create Filters
    Widget Size</note>
       </trans-unit>
       <trans-unit id="Live Activity Slots" xml:space="preserve">
         <source>Live Activity Slots</source>
+        <target>实时活动插槽</target>
         <note>Widget Slot Name</note>
       </trans-unit>
       <trans-unit id="Live Activity Small" xml:space="preserve">
         <source>Live Activity Small</source>
+        <target>小型实时活动</target>
         <note>Create Filters
    Widget Size</note>
       </trans-unit>
@@ -9074,19 +9200,22 @@
       </trans-unit>
       <trans-unit id="Live activities and dynamic island can't reload the data automatically like regular widgets. The only way to reload the data is to open the Widgy app. This issue is most noticeable on widgets with timers and automation." xml:space="preserve">
         <source>Live activities and dynamic island can't reload the data automatically like regular widgets. The only way to reload the data is to open the Widgy app. This issue is most noticeable on widgets with timers and automation.</source>
+        <target>实时活动和灵动岛无法像常规小组件那样自动刷新数据。要刷新数据，唯一的方法是打开Widgy应用。这一问题在带有计时器和自动化功能的小组件上尤为明显。</target>
         <note>Live Activities Warning</note>
       </trans-unit>
       <trans-unit id="Live activities and dynamic island can't reload the data automatically like regular widgets. This issue is most noticeable on widgets with timers and automation." xml:space="preserve">
         <source>Live activities and dynamic island can't reload the data automatically like regular widgets. This issue is most noticeable on widgets with timers and automation.</source>
+        <target>实时活动和灵动岛无法像常规小组件那样自动刷新数据，这一问题在带有计时器和自动化功能的小组件上尤为明显。</target>
         <note>Live Activities Warning</note>
       </trans-unit>
       <trans-unit id="Live activities are not live at all!" xml:space="preserve">
         <source>Live activities are not live at all!</source>
+        <target>实时活动根本不是实时的！</target>
         <note>Live Activities Warning</note>
       </trans-unit>
       <trans-unit id="Live refresh, manually setting the font size, hiding of the name beneath the widget, and some other things are limitations set by the operating system." xml:space="preserve">
         <source>Live refresh, manually setting the font size, hiding of the name beneath the widget, and some other things are limitations set by the operating system.</source>
-        <target>Live Restresh，手动设置字体大小，隐藏在小部件下方的名称，还有一些其他事情是操作系统设置的限制。</target>
+        <target>Live Restresh，手动设置字体大小，隐藏在小组件下方的名称，还有一些其他事情是操作系统设置的限制。</target>
         <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Localized" xml:space="preserve">
@@ -9123,24 +9252,28 @@
         <note>Window Title</note>
       </trans-unit>
       <trans-unit id="Lock" xml:space="preserve">
-        <source>Lock</source>
+        <source>锁屏</source>
         <note>Main Tabbar</note>
       </trans-unit>
       <trans-unit id="Lock Screen + Apple Watch" xml:space="preserve">
         <source>Lock Screen + Apple Watch</source>
+        <target>锁屏+Apple Watch</target>
+        <note>Main Tabbar</note>
         <note>Widget Destination</note>
       </trans-unit>
       <trans-unit id="Lock Screen Slots" xml:space="preserve">
         <source>Lock Screen Slots</source>
+        <target>锁屏插槽</target>
         <note>In-App Purchase Messages</note>
       </trans-unit>
       <trans-unit id="Lock screen widgets can also be used as Watch complications. While editing the lock screen widgets, open the documents tab to tweak some Watch-specific options." xml:space="preserve">
         <source>Lock screen widgets can also be used as Watch complications. While editing the lock screen widgets, open the documents tab to tweak some Watch-specific options.</source>
+        <target>锁屏小组件也可以作为手表上的小组件使用。在编辑锁屏小组件时，打开文档选项卡来调整一些手表特有的选项。</target>
         <note>Watchy Help Message</note>
       </trans-unit>
       <trans-unit id="Lock screen widgets can have just one Tap Action. Having more than one Tap Action will result in unexpected behavior. This is a system limitation, and there's no workaround for this." xml:space="preserve">
         <source>Lock screen widgets can have just one Tap Action. Having more than one Tap Action will result in unexpected behavior. This is a system limitation, and there's no workaround for this.</source>
-        <target>Lock screen widgets can have just one Tap Action. Having more than one Tap Action will result in unexpected behavior. This is a system limitation, and there's no workaround for this.</target>
+        <target>锁屏小部件只能设置一个点击动作。若设置多个点击动作，将导致不可预知的行为。这是系统限制，目前无法绕过此限制。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="Long press on any custom color or gradient to show additional options." xml:space="preserve">
@@ -9185,6 +9318,7 @@
       </trans-unit>
       <trans-unit id="Looks like you didn't allow permissions for Notifications. Go to app settings to allow them." xml:space="preserve">
         <source>Looks like you didn't allow permissions for Notifications. Go to app settings to allow them.</source>
+        <target>看起来您没有授予通知权限。请前往应用设置中开启。</target>
         <note>Popup Message</note>
       </trans-unit>
       <trans-unit id="Looks like you didn't give permission to access this image(s)." xml:space="preserve">
@@ -9200,12 +9334,12 @@
       </trans-unit>
       <trans-unit id="Loss Of Smell" xml:space="preserve">
         <source>Loss Of Smell</source>
-        <target>闻起来的味道</target>
+        <target>嗅觉丧失</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Loss Of Taste" xml:space="preserve">
         <source>Loss Of Taste</source>
-        <target>口味损失</target>
+        <target>味觉损失</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Lots Of Data" xml:space="preserve">
@@ -9215,12 +9349,12 @@
       </trans-unit>
       <trans-unit id="Low Cardio Fitness Event" xml:space="preserve">
         <source>Low Cardio Fitness Event</source>
-        <target>低心健身活动</target>
+        <target>低强度有氧健身活动</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Low Fitness" xml:space="preserve">
         <source>Low Fitness</source>
-        <target>低健身</target>
+        <target>低体能</target>
         <note>HealthKit Data</note>
       </trans-unit>
       <trans-unit id="Low Heart Rate Event" xml:space="preserve">
@@ -9285,7 +9419,7 @@
       </trans-unit>
       <trans-unit id="Make Full Size" xml:space="preserve">
         <source>Make Full Size</source>
-        <target>Make Full Size</target>
+        <target>制作全尺寸</target>
         <note>Frame Drawer</note>
       </trans-unit>
       <trans-unit id="Make sure that Watchy is listed under the 'Installed On Apple Watch section' in the Watch app on your iPhone. If it's not, scroll a bit more down and tap on 'Install' next to Watchy." xml:space="preserve">
@@ -9310,7 +9444,7 @@
       </trans-unit>
       <trans-unit id="Male" xml:space="preserve">
         <source>Male</source>
-        <target>雄性</target>
+        <target>男性</target>
         <note>HealthKit Data</note>
       </trans-unit>
       <trans-unit id="Manage" xml:space="preserve">
@@ -9359,7 +9493,7 @@
       </trans-unit>
       <trans-unit id="Material Icons Regular" xml:space="preserve">
         <source>Material Icons Regular</source>
-        <target>材质图标常规</target>
+        <target>Material Icons Regular</target>
         <note>Symbol List</note>
       </trans-unit>
       <trans-unit id="Material Icons Round" xml:space="preserve">
@@ -9396,6 +9530,7 @@
       </trans-unit>
       <trans-unit id="Max Only" xml:space="preserve">
         <source>Max Only</source>
+        <target>仅最大值</target>
         <note>Misc</note>
       </trans-unit>
       <trans-unit id="Max Segments" xml:space="preserve">
@@ -9412,23 +9547,27 @@
       </trans-unit>
       <trans-unit id="Max. Temperature (Always In C°)" xml:space="preserve">
         <source>Max. Temperature (Always In C°)</source>
+        <target>最高温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Max. Temperature (Always In F°)" xml:space="preserve">
         <source>Max. Temperature (Always In F°)</source>
+        <target>今日最高温度（始终以 F° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Max. Temperature Today" xml:space="preserve">
         <source>Max. Temperature Today</source>
-        <target>最大限度。今日温度</target>
+        <target>今日最高温度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Max. Temperature Today (Always In C°)" xml:space="preserve">
         <source>Max. Temperature Today (Always In C°)</source>
+        <target>今日最高温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Max. Temperature Today (Always In F°)" xml:space="preserve">
         <source>Max. Temperature Today (Always In F°)</source>
+        <target>今日最高温度（始终以 F° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Max. Value Color" xml:space="preserve">
@@ -9508,7 +9647,7 @@
       </trans-unit>
       <trans-unit id="Medium Widgy Slots" xml:space="preserve">
         <source>Medium Widgy Slots</source>
-        <target>中型部件</target>
+        <target>中型组件</target>
         <note>Widget Slot Name</note>
       </trans-unit>
       <trans-unit id="Memory" xml:space="preserve">
@@ -9538,32 +9677,32 @@
       </trans-unit>
       <trans-unit id="Merchandise" xml:space="preserve">
         <source>Merchandise</source>
-        <target>葛佳奇</target>
+        <target>商品</target>
         <note>Settings View</note>
       </trans-unit>
       <trans-unit id="Merge by doing average" xml:space="preserve">
         <source>Merge by doing average</source>
-        <target>Merge by doing average</target>
+        <target>通过求平均值进行合并</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Merge, but prefer larger values" xml:space="preserve">
         <source>Merge, but prefer larger values</source>
-        <target>Merge, but prefer larger values</target>
+        <target>合并，但优先选择较大值</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Merge, but prefer new values" xml:space="preserve">
         <source>Merge, but prefer new values</source>
-        <target>Merge, but prefer new values</target>
+        <target>合并，但优先选择新值</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Merge, but prefer old values" xml:space="preserve">
         <source>Merge, but prefer old values</source>
-        <target>Merge, but prefer old values</target>
+        <target>合并，但优先保留旧值</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Merge, but prefer smaller values" xml:space="preserve">
         <source>Merge, but prefer smaller values</source>
-        <target>Merge, but prefer smaller values</target>
+        <target>合并，但优先选择较小值</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Messages" xml:space="preserve">
@@ -9771,12 +9910,12 @@
       </trans-unit>
       <trans-unit id="Month Offset" xml:space="preserve">
         <source>Month Offset</source>
-        <target>月抵销</target>
+        <target>月份偏移量</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Months Since Date" xml:space="preserve">
         <source>Months Since Date</source>
-        <target>自那一天以前</target>
+        <target>自日期起已过月数</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Mood Changes" xml:space="preserve">
@@ -9786,7 +9925,7 @@
       </trans-unit>
       <trans-unit id="Moon Age" xml:space="preserve">
         <source>Moon Age</source>
-        <target>Moon Age</target>
+        <target>月龄</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Moon Azimuth" xml:space="preserve">
@@ -9816,7 +9955,7 @@
       </trans-unit>
       <trans-unit id="Moon Illumination" xml:space="preserve">
         <source>Moon Illumination</source>
-        <target>Moon Illumination</target>
+        <target>月亮高度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Moon Last Quarter" xml:space="preserve">
@@ -9901,11 +10040,12 @@
       </trans-unit>
       <trans-unit id="More By This Uploader" xml:space="preserve">
         <source>More By This Uploader</source>
-        <target>更多此翻译额</target>
+        <target>更多来自该上传者的内容</target>
         <note>Widget Preview Button</note>
       </trans-unit>
       <trans-unit id="More Settings" xml:space="preserve">
         <source>More Settings</source>
+        <target>更多设置</target>
         <note>Manage View</note>
       </trans-unit>
       <trans-unit id="Morning" xml:space="preserve">
@@ -9978,7 +10118,7 @@
       </trans-unit>
       <trans-unit id="My widget won't reload / Widget is stuck / Widget looks broken / Widget is not loaded correctly" xml:space="preserve">
         <source>My widget won't reload / Widget is stuck / Widget looks broken / Widget is not loaded correctly</source>
-        <target>我的小部件不会重新加载/小部件卡住/小部件看起来损坏/小部件未正确加载</target>
+        <target>我的小组件不会重新加载/小组件卡住/小组件看起来损坏/小组件未正确加载</target>
         <note>Widgy Help Title</note>
       </trans-unit>
       <trans-unit id="N" xml:space="preserve">
@@ -10110,6 +10250,7 @@
       </trans-unit>
       <trans-unit id="Negative values can't be displayed as badges" xml:space="preserve">
         <source>Negative values can't be displayed as badges</source>
+        <target>负值不能显示为通知角标</target>
         <note>Notification Badge Message</note>
       </trans-unit>
       <trans-unit id="Neighborhood" xml:space="preserve">
@@ -10227,7 +10368,7 @@
       </trans-unit>
       <trans-unit id="Note" xml:space="preserve">
         <source>Note</source>
-        <target>注意</target>
+        <target>备注</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Note that Javascript is executed via an invisible Safari browser, so if the server doesn't support CORS, fetch won't work." xml:space="preserve">
@@ -10237,7 +10378,7 @@
       </trans-unit>
       <trans-unit id="Note that in small-sized widgets the whole widget is just one Tap Action." xml:space="preserve">
         <source>Note that in small-sized widgets the whole widget is just one Tap Action.</source>
-        <target>注意，在小尺寸的小部件中，整个小部件只是一个轻触动作。</target>
+        <target>注意，在小尺寸的小组件中，整个小组件只是一个轻触动作。</target>
         <note>Tap Actions</note>
       </trans-unit>
       <trans-unit id="Note that tipping DOESN'T unlock Widgy slots!" xml:space="preserve">
@@ -10247,7 +10388,7 @@
       </trans-unit>
       <trans-unit id="Note that using both Dark and Light Mode will increase the memory consumption of the widget." xml:space="preserve">
         <source>Note that using both Dark and Light Mode will increase the memory consumption of the widget.</source>
-        <target>请注意，同时使用深色模式和浅色模式将会增加小部件的内存消耗。</target>
+        <target>请注意，同时使用深色模式和浅色模式将会增加小组件的内存消耗。</target>
         <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="Notes" xml:space="preserve">
@@ -10261,6 +10402,7 @@
       </trans-unit>
       <trans-unit id="Notification Badge" xml:space="preserve">
         <source>Notification Badge</source>
+        <target>通知角标</target>
         <note>Popup Title
    Widget Slot Name
    Window Title</note>
@@ -10271,6 +10413,7 @@
       </trans-unit>
       <trans-unit id="Notification badges can show some text data as a notification badge on the Widgys app icon. Badges value will reload on every app open. Note that badges can only display whole numbers that are greater than zero." xml:space="preserve">
         <source>Notification badges can show some text data as a notification badge on the Widgys app icon. Badges value will reload on every app open. Note that badges can only display whole numbers that are greater than zero.</source>
+        <target>通知角标可以显示一些文本数据作为Widgys应用程序图标上的通知角标。角标值将在每次打开应用程序时重新加载。请注意，角标只能显示大于零的整数。</target>
         <note>Popup Message</note>
       </trans-unit>
       <trans-unit id="Now" xml:space="preserve">
@@ -10389,7 +10532,7 @@
       </trans-unit>
       <trans-unit id="On iPad, Apple choose to hide all widget names. As there's no option to hide the name on the iPhone, there's no option to display it on the iPad." xml:space="preserve">
         <source>On iPad, Apple choose to hide all widget names. As there's no option to hide the name on the iPhone, there's no option to display it on the iPad.</source>
-        <target>在 iPad 上，Apple 选择隐藏所有小部件名称。由于没有选项可以在 iPhone 上隐藏名称，因此无法在 iPad 上显示它。</target>
+        <target>在 iPad 上，Apple 选择隐藏所有小组件名称。由于没有选项可以在 iPhone 上隐藏名称，因此无法在 iPad 上显示它。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="On/Off Switch Labels" xml:space="preserve">
@@ -10414,11 +10557,12 @@
       </trans-unit>
       <trans-unit id="Opacity" xml:space="preserve">
         <source>Opacity</source>
+        <target>不透明度</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Opaque" xml:space="preserve">
         <source>Opaque</source>
-        <target>不透明度</target>
+        <target>不透明</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Open" xml:space="preserve">
@@ -10446,7 +10590,7 @@
       </trans-unit>
       <trans-unit id="Operating system prevents widgets from updating less than every 15 minutes. This is not something we can change." xml:space="preserve">
         <source>Operating system prevents widgets from updating less than every 15 minutes. This is not something we can change.</source>
-        <target>操作系统防止小部件更新每小时15分钟。 这不是我们可以改变的东西。</target>
+        <target>操作系统防止小组件更新每小时15分钟。 这不是我们可以改变的东西。</target>
         <note>Help Message</note>
       </trans-unit>
       <trans-unit id="Optimizing Stash..." xml:space="preserve">
@@ -10573,7 +10717,7 @@
       </trans-unit>
       <trans-unit id="Parameters (Optional)" xml:space="preserve">
         <source>Parameters (Optional)</source>
-        <target>参数（可选）</target>
+        <target>Parameters（可选）</target>
         <note>Custom JSON View</note>
       </trans-unit>
       <trans-unit id="Parentheses" xml:space="preserve">
@@ -10746,6 +10890,7 @@
       </trans-unit>
       <trans-unit id="Play Sound" xml:space="preserve">
         <source>Play Sound</source>
+        <target>播放声音</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="Please allow access to your photos." xml:space="preserve">
@@ -10795,7 +10940,7 @@
       </trans-unit>
       <trans-unit id="Please write why you're reporting this widget." xml:space="preserve">
         <source>Please write why you're reporting this widget.</source>
-        <target>请写下您要举报此小部件的原因。</target>
+        <target>请写下您要举报此小组件的原因。</target>
         <note>Widget Preview</note>
       </trans-unit>
       <trans-unit id="Podcasts" xml:space="preserve">
@@ -11068,11 +11213,11 @@
       </trans-unit>
       <trans-unit id="Quote Author" xml:space="preserve">
         <source>Quote Author</source>
-        <target>报价作者</target>
+        <target>引用作者</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Quote Text" xml:space="preserve">
-        <source>Quote Text</source>
+        <source>引用文本</source>
         <target>报价文字</target>
         <note>Data Sources</note>
       </trans-unit>
@@ -11230,38 +11375,43 @@
       </trans-unit>
       <trans-unit id="Reload All Widgets" xml:space="preserve">
         <source>Reload All Widgets</source>
-        <target>重新加载所有小部件</target>
+        <target>重新加载所有小组件</target>
         <note>Manage View</note>
       </trans-unit>
       <trans-unit id="Reload Widget" xml:space="preserve">
         <source>Reload Widget</source>
-        <target>重新加载小部件</target>
+        <target>重新加载小组件</target>
         <note>Pick View
    Tap Actions</note>
       </trans-unit>
       <trans-unit id="Reload can also happen when tapping on the home screen widgets that have a reload tap action. So if you're noticing a black screen after tapping on a widget - that's live activities reloading." xml:space="preserve">
         <source>Reload can also happen when tapping on the home screen widgets that have a reload tap action. So if you're noticing a black screen after tapping on a widget - that's live activities reloading.</source>
+        <target>当您点击主屏幕上设有刷新点击动作的小部件时，也可能触发重新加载。因此，如果您在点击小部件后发现屏幕变黑，那实际上是实时活动正在重新加载。</target>
         <note>Live Activities Warning</note>
       </trans-unit>
       <trans-unit id="Reloading Thumbnails" xml:space="preserve">
         <source>Reloading Thumbnails</source>
+        <target>重新加载缩略图</target>
         <note>System Message</note>
       </trans-unit>
       <trans-unit id="Reloading Widgets" xml:space="preserve">
         <source>Reloading Widgets</source>
-        <target>重新加载小部件</target>
+        <target>重新加载小组件</target>
         <note>System Message</note>
       </trans-unit>
       <trans-unit id="Remaining Calendar Events Today" xml:space="preserve">
         <source>Remaining Calendar Events Today</source>
+        <target>今日剩余日历事件</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Remaining Events Today" xml:space="preserve">
         <source>Remaining Events Today</source>
+        <target>今日剩余事件</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Remaining Reminder Events Today" xml:space="preserve">
         <source>Remaining Reminder Events Today</source>
+        <target>今日剩余提醒事项</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Reminder" xml:space="preserve">
@@ -11276,6 +11426,7 @@
       </trans-unit>
       <trans-unit id="Reminder Events" xml:space="preserve">
         <source>Reminder Events</source>
+        <target>提醒活动</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Reminder Events Today" xml:space="preserve">
@@ -11285,25 +11436,27 @@
       </trans-unit>
       <trans-unit id="Reminder Events Tomorrow" xml:space="preserve">
         <source>Reminder Events Tomorrow</source>
-        <target>Reminder Events Tomorrow</target>
+        <target>明日提醒活动</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Reminder Today" xml:space="preserve">
         <source>Reminder Today</source>
-        <target>Reminder Today</target>
+        <target>今日提醒事项</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Reminder Today Completed" xml:space="preserve">
         <source>Reminder Today Completed</source>
+        <target>今日已完成的提醒事项</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reminder Tomorrow" xml:space="preserve">
         <source>Reminder Tomorrow</source>
-        <target>Reminder Tomorrow</target>
+        <target>明日提醒事项</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Reminder Tomorrow Completed" xml:space="preserve">
         <source>Reminder Tomorrow Completed</source>
+        <target>明日已完成的提醒事项</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reminders" xml:space="preserve">
@@ -11315,22 +11468,22 @@
       </trans-unit>
       <trans-unit id="Reminders Chronological" xml:space="preserve">
         <source>Reminders Chronological</source>
-        <target>Reminders Chronological</target>
+        <target>提醒事项 按时间顺序排列</target>
         <note>Misc</note>
       </trans-unit>
       <trans-unit id="Reminders No Data" xml:space="preserve">
         <source>Reminders No Data</source>
-        <target>Reminders No Data</target>
+        <target>提醒事项 暂无数据</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Reminders Today" xml:space="preserve">
         <source>Reminders Today</source>
-        <target>Reminders Today</target>
+        <target>提醒事项 今日</target>
         <note>Misc</note>
       </trans-unit>
       <trans-unit id="Reminders Tomorrow" xml:space="preserve">
         <source>Reminders Tomorrow</source>
-        <target>Reminders Tomorrow</target>
+        <target>提醒事项 明日</target>
         <note>Misc</note>
       </trans-unit>
       <trans-unit id="Remove" xml:space="preserve">
@@ -11381,12 +11534,12 @@
       </trans-unit>
       <trans-unit id="Report Widget" xml:space="preserve">
         <source>Report Widget</source>
-        <target>报告小部件</target>
+        <target>报告小组件</target>
         <note>Widget Preview</note>
       </trans-unit>
       <trans-unit id="Repost Of My Work" xml:space="preserve">
         <source>Repost Of My Work</source>
-        <target>重新发布我的工作</target>
+        <target>转发我的作品</target>
         <note>Explore Widget Reporting</note>
       </trans-unit>
       <trans-unit id="Repost Of Somebody Else's Work" xml:space="preserve">
@@ -11421,10 +11574,12 @@
       </trans-unit>
       <trans-unit id="Restart All Live Activities" xml:space="preserve">
         <source>Restart All Live Activities</source>
+        <target>重启所有实时活动</target>
         <note>Manage View</note>
       </trans-unit>
       <trans-unit id="Restart Live Activity" xml:space="preserve">
         <source>Restart Live Activity</source>
+        <target>重启实时活动</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Restart both your iPhone and Apple Watch." xml:space="preserve">
@@ -11444,7 +11599,7 @@
       </trans-unit>
       <trans-unit id="Restore Backup" xml:space="preserve">
         <source>Restore Backup</source>
-        <target>Restore Backup</target>
+        <target>恢复备份</target>
         <note>Widget Preview Button</note>
       </trans-unit>
       <trans-unit id="Restore Canceled" xml:space="preserve">
@@ -11468,14 +11623,17 @@
       </trans-unit>
       <trans-unit id="Return Home" xml:space="preserve">
         <source>Return Home</source>
+        <target>返回主页</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="Return To Home Screen" xml:space="preserve">
         <source>Return To Home Screen</source>
+        <target>返回主屏幕</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="Reverse Order" xml:space="preserve">
         <source>Reverse Order</source>
+        <target>反向排序</target>
         <note>CSV Picker Drawer</note>
       </trans-unit>
       <trans-unit id="Right" xml:space="preserve">
@@ -11500,7 +11658,7 @@
       </trans-unit>
       <trans-unit id="Run" xml:space="preserve">
         <source>Run</source>
-        <target>跑</target>
+        <target>执行</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Run Shortcut" xml:space="preserve">
@@ -11510,7 +11668,7 @@
       </trans-unit>
       <trans-unit id="Running Ground Contact Time" xml:space="preserve">
         <source>Running Ground Contact Time</source>
-        <target>Running Ground Contact Time</target>
+        <target>跑步地面接触时间</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Running Power" xml:space="preserve">
@@ -11599,7 +11757,7 @@
       </trans-unit>
       <trans-unit id="Screen" xml:space="preserve">
         <source>Screen</source>
-        <target>Screen</target>
+        <target>屏幕</target>
         <note>Crop Tool</note>
       </trans-unit>
       <trans-unit id="Screen Brightness" xml:space="preserve">
@@ -11614,7 +11772,7 @@
       </trans-unit>
       <trans-unit id="Screenshot" xml:space="preserve">
         <source>Screenshot</source>
-        <target>Screenshot</target>
+        <target>截图</target>
         <note>Crop Tool</note>
       </trans-unit>
       <trans-unit id="Script" xml:space="preserve">
@@ -11635,6 +11793,7 @@
       </trans-unit>
       <trans-unit id="Search Layers" xml:space="preserve">
         <source>Search Layers</source>
+        <target>搜索图层</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Search Results" xml:space="preserve">
@@ -11649,10 +11808,12 @@
       </trans-unit>
       <trans-unit id="Search for Widgy on the App Store and download it away." xml:space="preserve">
         <source>Search for Widgy on the App Store and download it away.</source>
+        <target>在App Store搜索Widgy并下载。</target>
         <note>Create Tab</note>
       </trans-unit>
       <trans-unit id="Search for Widgy on the Mac App Store and download it away." xml:space="preserve">
         <source>Search for Widgy on the Mac App Store and download it away.</source>
+        <target>在Mac App Store搜索Widgy并下载。</target>
         <note>Create Tab</note>
       </trans-unit>
       <trans-unit id="Search limit reached." xml:space="preserve">
@@ -11788,7 +11949,7 @@
       </trans-unit>
       <trans-unit id="Set the same language to Widgets too?" xml:space="preserve">
         <source>Set the same language to Widgets too?</source>
-        <target>把同样的语言也设置到小部件上？</target>
+        <target>把同样的语言也设置到小组件上？</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Settings" xml:space="preserve">
@@ -11798,6 +11959,7 @@
       </trans-unit>
       <trans-unit id="Setup Transparency" xml:space="preserve">
         <source>Setup Transparency</source>
+        <target>设置透明度</target>
         <note>Manage View</note>
       </trans-unit>
       <trans-unit id="Seven Day Limit" xml:space="preserve">
@@ -11897,6 +12059,7 @@
       </trans-unit>
       <trans-unit id="Share Widget" xml:space="preserve">
         <source>Share Widget</source>
+        <target>分享小组件</target>
         <note>Widget Preview Button</note>
       </trans-unit>
       <trans-unit id="Sharing Of Widget Protected With Password" xml:space="preserve">
@@ -11987,12 +12150,12 @@
       </trans-unit>
       <trans-unit id="Since all widgets are slightly different dimensions across Apple devices, choosing a specific font size would make widgets look good on one device type, but not on others." xml:space="preserve">
         <source>Since all widgets are slightly different dimensions across Apple devices, choosing a specific font size would make widgets look good on one device type, but not on others.</source>
-        <target>由于所有小部件在 Apple 设备上的尺寸都略有不同，因此选择特定的字体大小会使小部件在一种设备类型上看起来不错，但在其他设备上却不好看。</target>
+        <target>由于所有小组件在 Apple 设备上的尺寸都略有不同，因此选择特定的字体大小会使小组件在一种设备类型上看起来不错，但在其他设备上却不好看。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="Since all widgets are slightly different dimensions across Apple devices, choosing a specific font size would make widgets look good on one device type, but not others." xml:space="preserve">
         <source>Since all widgets are slightly different dimensions across Apple devices, choosing a specific font size would make widgets look good on one device type, but not others.</source>
-        <target>由于所有小部件在Apple设备上都有略有不同的尺寸，所以选择特定的字体大小将使小部件看起来一个设备类型，而不是其他人。</target>
+        <target>由于所有小组件在Apple设备上都有略有不同的尺寸，所以选择特定的字体大小将使小组件看起来一个设备类型，而不是其他人。</target>
         <note>Help Message</note>
       </trans-unit>
       <trans-unit id="Sinus Congestion" xml:space="preserve">
@@ -12055,17 +12218,17 @@
       </trans-unit>
       <trans-unit id="Small Widgy" xml:space="preserve">
         <source>Small Widgy</source>
-        <target>微型部件</target>
+        <target>微型组件</target>
         <note>Widget Size Name</note>
       </trans-unit>
       <trans-unit id="Small Widgy Slots" xml:space="preserve">
         <source>Small Widgy Slots</source>
-        <target>微型部件</target>
+        <target>小型 Widgy 插槽</target>
         <note>Widget Slot Name</note>
       </trans-unit>
       <trans-unit id="Small widgets can have just one Tap Action. Having more than one on a Small widget will result in unexpected behavior. This is a system limitation, and there's no workaround for this." xml:space="preserve">
         <source>Small widgets can have just one Tap Action. Having more than one on a Small widget will result in unexpected behavior. This is a system limitation, and there's no workaround for this.</source>
-        <target>小部件只能有一个点击操作。在 Small 小部件上拥有多个将导致意外行为。这是系统限制，没有解决方法。</target>
+        <target>小组件只能有一个点击操作。在 Small 小组件上拥有多个将导致意外行为。这是系统限制，没有解决方法。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="Smart Symbols" xml:space="preserve">
@@ -12152,6 +12315,7 @@
       </trans-unit>
       <trans-unit id="Sort &amp; Filter" xml:space="preserve">
         <source>Sort &amp; Filter</source>
+        <target>排序 &amp; 过滤</target>
         <note>Create Tab</note>
       </trans-unit>
       <trans-unit id="Sort And Filter" xml:space="preserve">
@@ -12161,7 +12325,7 @@
       </trans-unit>
       <trans-unit id="Sort And Filter Widgys" xml:space="preserve">
         <source>Sort And Filter Widgys</source>
-        <target>排序和过滤小部件</target>
+        <target>排序和过滤小组件</target>
         <note>Create Tab Top Actions
    Explore Button</note>
       </trans-unit>
@@ -12258,6 +12422,7 @@
       </trans-unit>
       <trans-unit id="Start In PiP Mode" xml:space="preserve">
         <source>Start In PiP Mode</source>
+        <target>以画中画模式启动</target>
         <note>Widget Preview Button</note>
       </trans-unit>
       <trans-unit id="Start Scale" xml:space="preserve">
@@ -12904,12 +13069,12 @@
       </trans-unit>
       <trans-unit id="The closest supported workaround is to place the widget in Today View." xml:space="preserve">
         <source>The closest supported workaround is to place the widget in Today View.</source>
-        <target>支持的最接近的解决方法是将小部件放置在“今日视图”中。</target>
+        <target>支持的最接近的解决方法是将小组件放置在“今日视图”中。</target>
         <note>Help Message</note>
       </trans-unit>
       <trans-unit id="The crop tool has moved to the Manage Tab. It now works universally, so it's easier to change the background for multiple widgets at once. All you have to do is use the new 'Transparent Background' image data source." xml:space="preserve">
         <source>The crop tool has moved to the Manage Tab. It now works universally, so it's easier to change the background for multiple widgets at once. All you have to do is use the new 'Transparent Background' image data source.</source>
-        <target>作物工具已移动到“管理”选项卡。 现在现在普遍工作，所以更容易更改多个小部件的背景。 所有你必须做的是使用新的“透明背景”图像数据源。</target>
+        <target>作物工具已移动到“管理”选项卡。 现在现在普遍工作，所以更容易更改多个小组件的背景。 所有你必须做的是使用新的“透明背景”图像数据源。</target>
         <note>Image Drawer</note>
       </trans-unit>
       <trans-unit id="The editor provides you with 'Line Mode' options for the text layer, that are designed to help you control your text size." xml:space="preserve">
@@ -12933,7 +13098,7 @@
       </trans-unit>
       <trans-unit id="The most powerful way to craft your own unique Widgets." xml:space="preserve">
         <source>The most powerful way to craft your own unique Widgets.</source>
-        <target>最强大的方式来制作自己独特的小部件。</target>
+        <target>最强大的方式来制作自己独特的小组件。</target>
         <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="The whole process should last a couple of seconds." xml:space="preserve">
@@ -13041,11 +13206,12 @@
       </trans-unit>
       <trans-unit id="This is a long known iOS bug, but there's a fix for it. Just go to the 'Settings' tab in Widgy, tap on 'App Icon' and pick any icon you want. This will force iOS to reload the widget list and make Widgy visible." xml:space="preserve">
         <source>This is a long known iOS bug, but there's a fix for it. Just go to the 'Settings' tab in Widgy, tap on 'App Icon' and pick any icon you want. This will force iOS to reload the widget list and make Widgy visible.</source>
-        <target>这是一个众所周知的 iOS 错误，但有一个修复程序。只需转到 Widgy 中的“设置”选项卡，点击“应用程序图标”并选择您想要的任何图标。这将强制 iOS 重新加载小部件列表并使 Widgy 可见。</target>
+        <target>这是一个众所周知的 iOS 错误，但有一个修复程序。只需转到 Widgy 中的“设置”选项卡，点击“应用程序图标”并选择您想要的任何图标。这将强制 iOS 重新加载小组件列表并使 Widgy 可见。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="This item is currently in use." xml:space="preserve">
         <source>This item is currently in use.</source>
+        <target>此项目前正在使用。</target>
         <note>Import Screen</note>
       </trans-unit>
       <trans-unit id="This layer uses a live timer. While using the live timer, multiple data sources can't be used." xml:space="preserve">
@@ -13065,24 +13231,27 @@
       </trans-unit>
       <trans-unit id="This purchase will unlock all Circular, Rectangular, and Inline Widgy slots and will help fund the upcoming updates." xml:space="preserve">
         <source>This purchase will unlock all Circular, Rectangular, and Inline Widgy slots and will help fund the upcoming updates.</source>
-        <target>This purchase will unlock all Circular, Rectangular, and Inline Widgy slots and will help fund the upcoming updates.</target>
+        <target>此次购买将解锁所有圆形、矩形及内联式 Widgy 插槽，并助力即将到来的更新开发。</target>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="This purchase will unlock all Small, Medium, Large and XL Widgy slots and will help fund the upcoming updates." xml:space="preserve">
         <source>This purchase will unlock all Small, Medium, Large and XL Widgy slots and will help fund the upcoming updates.</source>
+        <target>此次购买将解锁所有小、中、大及特大号 Widgy 槽位，并助力即将到来的更新开发。</target>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="This tap action will use the new iOS 17 widget reload, which doesn't open the Widgy app." xml:space="preserve">
         <source>This tap action will use the new iOS 17 widget reload, which doesn't open the Widgy app.</source>
+        <target>此点击操作将使用 iOS 17 新小组件重新加载，这不会打开 Widgy 应用程序。</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="This type of Tap Action isn't compatible with Widgy anymore. Please edit the widget and run the desired app via custom Shortcut." xml:space="preserve">
         <source>This type of Tap Action isn't compatible with Widgy anymore. Please edit the widget and run the desired app via custom Shortcut.</source>
-        <target>This type of Tap Action isn't compatible with Widgy anymore. Please edit the widget and run the desired app via custom Shortcut.</target>
+        <target>这种类型的轻点操作已不再与 Widgy 兼容。请编辑 widget 并通过自定义快捷方式运行所需应用程序。</target>
         <note>Tap Action Popup</note>
       </trans-unit>
       <trans-unit id="This type of widget can use just one 'legacy' Tap Action." xml:space="preserve">
         <source>This type of widget can use just one 'legacy' Tap Action.</source>
+        <target>这种类型的 widget 只能使用一个“旧版”轻点操作。</target>
         <note>Tap Actions</note>
       </trans-unit>
       <trans-unit id="This widgets uses High Quality Transparency. If the widget won't load properly, edit the widget and change the quality of transparency." xml:space="preserve">
@@ -13199,7 +13368,7 @@
       </trans-unit>
       <trans-unit id="Title" xml:space="preserve">
         <source>Title</source>
-        <target>职务</target>
+        <target>标题</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Title Case" xml:space="preserve">
@@ -13209,7 +13378,7 @@
       </trans-unit>
       <trans-unit id="To circumvent this, you can edit the widget and add 'Reload Widget' Tap Action, so you can always be up to date with a simple tap on the widget." xml:space="preserve">
         <source>To circumvent this, you can edit the widget and add 'Reload Widget' Tap Action, so you can always be up to date with a simple tap on the widget.</source>
-        <target>为了避免这种情况，您可以编辑小部件并添加“重新加载小部件”点击操作，这样您只需轻按小部件即可随时了解最新信息。</target>
+        <target>为了避免这种情况，您可以编辑小组件并添加“重新加载小组件”点击操作，这样您只需轻按小组件即可随时了解最新信息。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="To display the special layers preview, open the ⊞ grid menu and disable &quot;Clip To Frame&quot;." xml:space="preserve">
@@ -13297,49 +13466,57 @@
       </trans-unit>
       <trans-unit id="Top Left Bar Edge Rounding" xml:space="preserve">
         <source>Top Left Bar Edge Rounding</source>
+        <target>左上条形边缘圆角</target>
         <note>Bar Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Top Left Corner Deformation X" xml:space="preserve">
         <source>Top Left Corner Deformation X</source>
+        <target>左上角顶点变形X</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Top Left Corner Deformation Y" xml:space="preserve">
         <source>Top Left Corner Deformation Y</source>
+        <target>左上角顶点变形Y</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Top Left Edge Rounding" xml:space="preserve">
         <source>Top Left Edge Rounding</source>
+        <target>左上边缘圆角</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Top Right Bar Edge Rounding" xml:space="preserve">
         <source>Top Right Bar Edge Rounding</source>
+        <target>右上条形边缘圆角</target>
         <note>Bar Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Top Right Corner Deformation X" xml:space="preserve">
         <source>Top Right Corner Deformation X</source>
+        <target>右上角顶点变形X</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Top Right Corner Deformation Y" xml:space="preserve">
         <source>Top Right Corner Deformation Y</source>
+        <target>右上角顶点变形Y</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Top Right Edge Rounding" xml:space="preserve">
         <source>Top Right Edge Rounding</source>
+        <target>右上角边角圆角</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Total Memory" xml:space="preserve">
         <source>Total Memory</source>
-        <target>总尺寸</target>
+        <target>总内存</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Trailing" xml:space="preserve">
         <source>Trailing</source>
-        <target>尾随</target>
+        <target>右对齐</target>
         <note>Bar Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Translations" xml:space="preserve">
         <source>Translations</source>
-        <target>翻译人员-（简体中文由网易云D1DONE提供）</target>
+        <target>翻译人员</target>
         <note>Acknowledgements Screen</note>
       </trans-unit>
       <trans-unit id="Transparent Background" xml:space="preserve">
@@ -13409,6 +13586,7 @@
       </trans-unit>
       <trans-unit id="Try To Fix By Scaling The Screenshot" xml:space="preserve">
         <source>Try To Fix By Scaling The Screenshot</source>
+        <target>尝试通过缩放屏幕截图来修复</target>
         <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="Try To Keep In Bounds" xml:space="preserve">
@@ -13428,7 +13606,7 @@
       </trans-unit>
       <trans-unit id="Try re-adding the widget to your Home screen." xml:space="preserve">
         <source>Try re-adding the widget to your Home screen.</source>
-        <target>尝试将小部件重新添加到主屏幕。</target>
+        <target>尝试将小组件重新添加到主屏幕。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="Turn off Bluetooth on your iPhone and try to Sync, then turn Bluetooth on and try to Sync again." xml:space="preserve">
@@ -13474,7 +13652,7 @@
       </trans-unit>
       <trans-unit id="URL copied to Pasteboard" xml:space="preserve">
         <source>URL copied to Pasteboard</source>
-        <target>URL copied to Pasteboard</target>
+        <target>URL已复制到剪贴板</target>
         <note>Sharing</note>
       </trans-unit>
       <trans-unit id="URL/RSS/Shortcut" xml:space="preserve">
@@ -13493,6 +13671,7 @@
       </trans-unit>
       <trans-unit id="Unable to fetch." xml:space="preserve">
         <source>Unable to fetch.</source>
+        <target>无法获取。</target>
         <note>Notification Badge Message</note>
       </trans-unit>
       <trans-unit id="Unable to sign in." xml:space="preserve">
@@ -13502,10 +13681,12 @@
       </trans-unit>
       <trans-unit id="Unassign And Delete" xml:space="preserve">
         <source>Unassign And Delete</source>
+        <target>取消分配并删除</target>
         <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="Unassign And Proceed" xml:space="preserve">
         <source>Unassign And Proceed</source>
+        <target>取消分配并继续</target>
         <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="Unchanged" xml:space="preserve">
@@ -13520,7 +13701,7 @@
       </trans-unit>
       <trans-unit id="Underwater Depth" xml:space="preserve">
         <source>Underwater Depth</source>
-        <target>Underwater Depth</target>
+        <target>水下深度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Undo" xml:space="preserve">
@@ -13546,17 +13727,20 @@
       </trans-unit>
       <trans-unit id="Unlock All Home Screen Slots" xml:space="preserve">
         <source>Unlock All Home Screen Slots</source>
+        <target>解锁所有主屏幕插槽</target>
         <note>Full Version Purchase Screen
    Manage View</note>
       </trans-unit>
       <trans-unit id="Unlock All Lock Screen Features" xml:space="preserve">
         <source>Unlock All Lock Screen Features</source>
+        <target>解锁所有锁屏功能</target>
         <note>Full Version Purchase Screen
    Manage View
    Watchy Manage View</note>
       </trans-unit>
       <trans-unit id="Unlock All Watchy Slots" xml:space="preserve">
         <source>Unlock All Watchy Slots</source>
+        <target>解锁所有 Watchy 插槽</target>
         <note>Full Version Purchase Screen
    Watchy Manage View</note>
       </trans-unit>
@@ -13577,10 +13761,12 @@
       </trans-unit>
       <trans-unit id="Until Sunrise" xml:space="preserve">
         <source>Until Sunrise</source>
+        <target>直到日出</target>
         <note>Widget Default Messages</note>
       </trans-unit>
       <trans-unit id="Until Sunset" xml:space="preserve">
         <source>Until Sunset</source>
+        <target>直到日落</target>
         <note>Widget Default Messages</note>
       </trans-unit>
       <trans-unit id="Update" xml:space="preserve">
@@ -13621,7 +13807,7 @@
       </trans-unit>
       <trans-unit id="Use new values only" xml:space="preserve">
         <source>Use new values only</source>
-        <target>Use new values only</target>
+        <target>仅使用新值</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Used" xml:space="preserve">
@@ -13656,7 +13842,7 @@
       </trans-unit>
       <trans-unit id="User-managed fonts aren't accessible to widgets. That's just how the widgets work on iOS, and there's nothing we can do about that." xml:space="preserve">
         <source>User-managed fonts aren't accessible to widgets. That's just how the widgets work on iOS, and there's nothing we can do about that.</source>
-        <target>小部件无法访问用户管理的字体。这就是小部件在 iOS 上的工作方式，对此我们无能为力。</target>
+        <target>小组件无法访问用户管理的字体。这就是小组件在 iOS 上的工作方式，对此我们无能为力。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="Using Metric System" xml:space="preserve">
@@ -13707,14 +13893,17 @@
       </trans-unit>
       <trans-unit id="Value Column" xml:space="preserve">
         <source>Value Column</source>
+        <target>数值列</target>
         <note>CSV Picker Drawer</note>
       </trans-unit>
       <trans-unit id="Value can't be assigned as a badge" xml:space="preserve">
         <source>Value can't be assigned as a badge</source>
+        <target>数值不能作为角标</target>
         <note>Notification Badge Message</note>
       </trans-unit>
       <trans-unit id="Values" xml:space="preserve">
         <source>Values</source>
+        <target>数值</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Vertical" xml:space="preserve">
@@ -13764,6 +13953,7 @@
       </trans-unit>
       <trans-unit id="Vibrate" xml:space="preserve">
         <source>Vibrate</source>
+        <target>震动</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="Video" xml:space="preserve">
@@ -13788,6 +13978,7 @@
       </trans-unit>
       <trans-unit id="Video Tutorials" xml:space="preserve">
         <source>Video Tutorials</source>
+        <target>视频教程</target>
         <note>Settings View</note>
       </trans-unit>
       <trans-unit id="Virgo" xml:space="preserve">
@@ -13817,7 +14008,7 @@
       </trans-unit>
       <trans-unit id="WARNING: This action is not reversable!" xml:space="preserve">
         <source>WARNING: This action is not reversable!</source>
-        <target>WARNING: This action is not reversable!</target>
+        <target>警告：此操作不可逆！</target>
         <note>Delete Explore Account</note>
       </trans-unit>
       <trans-unit id="Waist Circumference" xml:space="preserve">
@@ -13971,6 +14162,7 @@
       </trans-unit>
       <trans-unit id="We've opened the translation process up to the community because you know best how Widgy should be translated into your language. Please follow the instructions written on the translation page." xml:space="preserve">
         <source>We've opened the translation process up to the community because you know best how Widgy should be translated into your language. Please follow the instructions written on the translation page.</source>
+        <target>我们向社区开放了翻译流程，因为您最清楚如何将Widgy翻译成您的语言。请遵循翻译页面上所写的指示进行操作。</target>
         <note>Create Tab</note>
       </trans-unit>
       <trans-unit id="Weather" xml:space="preserve">
@@ -13985,7 +14177,7 @@
       </trans-unit>
       <trans-unit id="Weather (Daily)" xml:space="preserve">
         <source>Weather (Daily)</source>
-        <target>天气（每天）</target>
+        <target>天气（每日）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Weather (Hourly)" xml:space="preserve">
@@ -14000,10 +14192,12 @@
       </trans-unit>
       <trans-unit id="Weather (Now, Always In C°)" xml:space="preserve">
         <source>Weather (Now, Always In C°)</source>
+        <target>天气（现在，始终以C°为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Weather (Now, Always In F°)" xml:space="preserve">
         <source>Weather (Now, Always In F°)</source>
+        <target>天气（现在，始终以F°为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Weather (Outline)" xml:space="preserve">
@@ -14033,57 +14227,57 @@
       </trans-unit>
       <trans-unit id="Weather Fog" xml:space="preserve">
         <source>Weather Fog</source>
-        <target>天气雾</target>
+        <target>雾</target>
         <note>Messages Drawer</note>
       </trans-unit>
       <trans-unit id="Weather Heavy Rain" xml:space="preserve">
         <source>Weather Heavy Rain</source>
-        <target>天气大雨</target>
+        <target>大雨</target>
         <note>Messages Drawer</note>
       </trans-unit>
       <trans-unit id="Weather Heavy Sleet" xml:space="preserve">
         <source>Weather Heavy Sleet</source>
-        <target>天气重雨夹雪</target>
+        <target>大雨夹雪</target>
         <note>Messages Drawer</note>
       </trans-unit>
       <trans-unit id="Weather Heavy Snow" xml:space="preserve">
         <source>Weather Heavy Snow</source>
-        <target>天气大雪</target>
+        <target>大雪</target>
         <note>Messages Drawer</note>
       </trans-unit>
       <trans-unit id="Weather Light Rain" xml:space="preserve">
         <source>Weather Light Rain</source>
-        <target>天气小雨</target>
+        <target>小雨</target>
         <note>Messages Drawer</note>
       </trans-unit>
       <trans-unit id="Weather Light Sleet" xml:space="preserve">
         <source>Weather Light Sleet</source>
-        <target>天气小雨夹雪</target>
+        <target>小雨夹雪</target>
         <note>Messages Drawer</note>
       </trans-unit>
       <trans-unit id="Weather Light Snow" xml:space="preserve">
         <source>Weather Light Snow</source>
-        <target>天气小雪</target>
+        <target>小雪</target>
         <note>Messages Drawer</note>
       </trans-unit>
       <trans-unit id="Weather Partly Cloudy" xml:space="preserve">
         <source>Weather Partly Cloudy</source>
-        <target>天气局部多云</target>
+        <target>局部多云</target>
         <note>Messages Drawer</note>
       </trans-unit>
       <trans-unit id="Weather Rain" xml:space="preserve">
         <source>Weather Rain</source>
-        <target>天气雨</target>
+        <target>雨</target>
         <note>Messages Drawer</note>
       </trans-unit>
       <trans-unit id="Weather Sleet" xml:space="preserve">
         <source>Weather Sleet</source>
-        <target>天气雨夹雪</target>
+        <target>雨夹雪</target>
         <note>Messages Drawer</note>
       </trans-unit>
       <trans-unit id="Weather Snow" xml:space="preserve">
         <source>Weather Snow</source>
-        <target>天气雪</target>
+        <target>雪</target>
         <note>Messages Drawer</note>
       </trans-unit>
       <trans-unit id="Web And Maps" xml:space="preserve">
@@ -14190,6 +14384,7 @@
       </trans-unit>
       <trans-unit id="What's New" xml:space="preserve">
         <source>What's New</source>
+        <target>新功能</target>
         <note>Settings View</note>
       </trans-unit>
       <trans-unit id="Wheelchair Use" xml:space="preserve">
@@ -14209,7 +14404,7 @@
       </trans-unit>
       <trans-unit id="When editing a widget, how do I choose the font size?" xml:space="preserve">
         <source>When editing a widget, how do I choose the font size?</source>
-        <target>编辑小部件时，如何选择字体大小？</target>
+        <target>编辑小组件时，如何选择字体大小？</target>
         <note>Widgy Help Title</note>
       </trans-unit>
       <trans-unit id="While in low power mode, Widgets refresh less frequent." xml:space="preserve">
@@ -14219,12 +14414,12 @@
       </trans-unit>
       <trans-unit id="While widgets can't be natively transparent, you can place a special 'Transparent widget' image on the bottom layer of your widget." xml:space="preserve">
         <source>While widgets can't be natively transparent, you can place a special 'Transparent widget' image on the bottom layer of your widget.</source>
-        <target>虽然小部件本身不能是透明的，但您可以在小部件的底层放置一个特殊的“透明小部件”图像。</target>
+        <target>虽然小组件本身不能是透明的，但您可以在小组件的底层放置一个特殊的“透明小组件”图像。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="While widgets can't be natively transparent, you can place an image on the bottom layer of your widget that is a cropped version of your wallpaper. Widgy has an crop tool that can help you with this." xml:space="preserve">
         <source>While widgets can't be natively transparent, you can place an image on the bottom layer of your widget that is a cropped version of your wallpaper. Widgy has an crop tool that can help you with this.</source>
-        <target>当小部件不能均为透明，但您可以将图像的底层的底层放在作为壁纸的裁剪版本的底层。 Widgy有一个作物工具，可以帮助您。</target>
+        <target>当小组件不能均为透明，但您可以将图像的底层的底层放在作为壁纸的裁剪版本的底层。 Widgy有一个作物工具，可以帮助您。</target>
         <note>Help Message</note>
       </trans-unit>
       <trans-unit id="Why aren't the Watch Faces on my Series 3 full screen?" xml:space="preserve">
@@ -14234,7 +14429,7 @@
       </trans-unit>
       <trans-unit id="Why doesn't my widget update more/at all?" xml:space="preserve">
         <source>Why doesn't my widget update more/at all?</source>
-        <target>为什么我的小部件没有更新更多/根本没有更新？</target>
+        <target>为什么我的小组件没有更新更多/根本没有更新？</target>
         <note>Help Title</note>
       </trans-unit>
       <trans-unit id="WiFi" xml:space="preserve">
@@ -14309,77 +14504,79 @@
       </trans-unit>
       <trans-unit id="Widget / Watchy Language" xml:space="preserve">
         <source>Widget / Watchy Language</source>
-        <target>Widget / Watchy Language</target>
+        <target>小组件/Watchy 语言</target>
         <note>Widget Settings View
    Window Title</note>
       </trans-unit>
       <trans-unit id="Widget Action" xml:space="preserve">
         <source>Widget Action</source>
+        <target>小组件操作</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="Widget Description" xml:space="preserve">
         <source>Widget Description</source>
-        <target>小部件说明</target>
+        <target>小组件说明</target>
         <note>Widget Preview Info</note>
       </trans-unit>
       <trans-unit id="Widget Language" xml:space="preserve">
         <source>Widget Language</source>
-        <target>小部件语言</target>
+        <target>小组件语言</target>
         <note>Button Title
    Widget Settings View
    Window Title</note>
       </trans-unit>
       <trans-unit id="Widget Name" xml:space="preserve">
         <source>Widget Name</source>
-        <target>小部件名称</target>
+        <target>小组件名称</target>
         <note>Widget Preview Info</note>
       </trans-unit>
       <trans-unit id="Widget Position" xml:space="preserve">
         <source>Widget Position</source>
-        <target>小部件位置</target>
+        <target>小组件位置</target>
         <note>Editor
    Pick View
    Window Title</note>
       </trans-unit>
       <trans-unit id="Widget Refreshes Automatically" xml:space="preserve">
         <source>Widget Refreshes Automatically</source>
+        <target>小组件自动刷新</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Widget Settings" xml:space="preserve">
         <source>Widget Settings</source>
-        <target>小部件设置</target>
+        <target>小组件设置</target>
         <note>Manage View
    Settings
    Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Widget Size" xml:space="preserve">
         <source>Widget Size</source>
-        <target>小部件大小</target>
+        <target>小组件大小</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Widget name or the name of selected layer" xml:space="preserve">
         <source>Widget name or the name of selected layer</source>
-        <target>小部件名称或所选图层的名称</target>
+        <target>小组件名称或所选图层的名称</target>
         <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Widget won't display all data properly." xml:space="preserve">
         <source>Widget won't display all data properly.</source>
-        <target>窗口小部件无法正确显示所有数据。</target>
+        <target>窗口小组件无法正确显示所有数据。</target>
         <note>Pick View</note>
       </trans-unit>
       <trans-unit id="Widgets are limited to a budget of just 30 MB of system memory. Adding a Dark Mode variant of the image increases the chances of overflowing that memory budget." xml:space="preserve">
         <source>Widgets are limited to a budget of just 30 MB of system memory. Adding a Dark Mode variant of the image increases the chances of overflowing that memory budget.</source>
-        <target>小部件限于30毫米的系统内存的预算。 添加图像的黑暗模式变化增加了监控该存储器预算的机会。</target>
+        <target>小组件限于30毫米的系统内存的预算。 添加图像的黑暗模式变化增加了监控该存储器预算的机会。</target>
         <note>Image Drawer</note>
       </trans-unit>
       <trans-unit id="Widgets can fetch data every 15 minutes (that includes various things like Battery Status, Weather, Agenda, and Health)." xml:space="preserve">
         <source>Widgets can fetch data every 15 minutes (that includes various things like Battery Status, Weather, Agenda, and Health).</source>
-        <target>小部件可以每 15 分钟获取一次数据（包括电池状态、天气、日程和健康等各种内容）。</target>
+        <target>小组件可以每 15 分钟获取一次数据（包括电池状态、天气、日程和健康等各种内容）。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="Widgets can update the display every minute. That means widgets can show the correct date and time, but other information will have a 15-minute 'lag'." xml:space="preserve">
         <source>Widgets can update the display every minute. That means widgets can show the correct date and time, but other information will have a 15-minute 'lag'.</source>
-        <target>小部件可以每分钟更新一次显示。这意味着小部件可以显示正确的日期和时间，但其他信息会有 15 分钟的“滞后”。</target>
+        <target>小组件可以每分钟更新一次显示。这意味着小组件可以显示正确的日期和时间，但其他信息会有 15 分钟的“滞后”。</target>
         <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="Widgy / Watchy Language" xml:space="preserve">
@@ -14413,7 +14610,7 @@
       </trans-unit>
       <trans-unit id="Widgy Language" xml:space="preserve">
         <source>Widgy Language</source>
-        <target>Widgy Language</target>
+        <target>Widgy语言</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Widgy On iOS" xml:space="preserve">
@@ -14422,33 +14619,34 @@
       </trans-unit>
       <trans-unit id="Widgy On macOS" xml:space="preserve">
         <source>Widgy On macOS</source>
-        <target>在磁铁上踢</target>
+        <target>Widgy On macOS</target>
         <note>Create Tab</note>
       </trans-unit>
       <trans-unit id="Widgy Publish Failed" xml:space="preserve">
         <source>Widgy Publish Failed</source>
-        <target>小部件发布失败</target>
+        <target>小组件发布失败</target>
         <note>Sharing</note>
       </trans-unit>
       <trans-unit id="Widgy Published" xml:space="preserve">
         <source>Widgy Published</source>
-        <target>小部件出版</target>
+        <target>小组件发布</target>
         <note>Sharing</note>
       </trans-unit>
       <trans-unit id="Widgy Settings" xml:space="preserve">
         <source>Widgy Settings</source>
-        <target>Widgy Settings</target>
+        <target>Widgy设置</target>
         <note>Settings View
    Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Widgy Sizes" xml:space="preserve">
         <source>Widgy Sizes</source>
-        <target>小部件大小</target>
+        <target>小组件大小</target>
         <note>Create Filters Browser Sections
    Explore Filters Browser Sections</note>
       </trans-unit>
       <trans-unit id="Widgy app name is hidden!" xml:space="preserve">
         <source>Widgy app name is hidden!</source>
+        <target>Widgy 应用程序名称已隐藏！</target>
         <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Widgy doesn't support any third-party apps and doesn't integrate with their APIs." xml:space="preserve">
@@ -14463,17 +14661,17 @@
       </trans-unit>
       <trans-unit id="Widgy imported!" xml:space="preserve">
         <source>Widgy imported!</source>
-        <target>小部件导入已完成！</target>
+        <target>小组件导入已完成！</target>
         <note>Popup Title</note>
       </trans-unit>
       <trans-unit id="Widgy importing failed. Please make sure that you have a good internet connection." xml:space="preserve">
         <source>Widgy importing failed. Please make sure that you have a good internet connection.</source>
-        <target>小部件导入失败。请确保您具有良好的互联网连接。</target>
+        <target>小组件导入失败。请确保您具有良好的互联网连接。</target>
         <note>Import Screen</note>
       </trans-unit>
       <trans-unit id="Widgy importing failed. Please try to import via a different source type." xml:space="preserve">
         <source>Widgy importing failed. Please try to import via a different source type.</source>
-        <target>小部件导入失败。请尝试通过不同的源类型导入。</target>
+        <target>小组件导入失败。请尝试通过不同的源类型导入。</target>
         <note>Import Screen</note>
       </trans-unit>
       <trans-unit id="Widgy isn't listed when I try to add it to the Home screen" xml:space="preserve">
@@ -14487,7 +14685,7 @@
       </trans-unit>
       <trans-unit id="Widgy will sort all Tap Actions alphabetically and use whatever comes up first." xml:space="preserve">
         <source>Widgy will sort all Tap Actions alphabetically and use whatever comes up first.</source>
-        <target>小部件将按字母顺序对所有点击动作进行排序，并使用最先出现的动作。</target>
+        <target>小组件将按字母顺序对所有点击动作进行排序，并使用最先出现的动作。</target>
         <note>Tap Actions</note>
       </trans-unit>
       <trans-unit id="Width" xml:space="preserve">
@@ -14516,42 +14714,42 @@
       </trans-unit>
       <trans-unit id="Wind Direction E" xml:space="preserve">
         <source>Wind Direction E</source>
-        <target>Wind Direction E</target>
+        <target>风向 东</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction N" xml:space="preserve">
         <source>Wind Direction N</source>
-        <target>Wind Direction N</target>
+        <target>风向 北</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction NE" xml:space="preserve">
         <source>Wind Direction NE</source>
-        <target>Wind Direction NE</target>
+        <target>风向 东北</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction NW" xml:space="preserve">
         <source>Wind Direction NW</source>
-        <target>Wind Direction NW</target>
+        <target>风向 西北</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction S" xml:space="preserve">
         <source>Wind Direction S</source>
-        <target>Wind Direction S</target>
+        <target>风向 南</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction SE" xml:space="preserve">
         <source>Wind Direction SE</source>
-        <target>Wind Direction SE</target>
+        <target>风向 东南</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction SW" xml:space="preserve">
         <source>Wind Direction SW</source>
-        <target>Wind Direction SW</target>
+        <target>风向 西南</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction W" xml:space="preserve">
         <source>Wind Direction W</source>
-        <target>Wind Direction W</target>
+        <target>风向 西</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Speed" xml:space="preserve">
@@ -14601,7 +14799,7 @@
       </trans-unit>
       <trans-unit id="Years Since Date" xml:space="preserve">
         <source>Years Since Date</source>
-        <target>自日期以来</target>
+        <target>自日期起已经过的年数</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Yellow" xml:space="preserve">
@@ -14633,14 +14831,17 @@
       </trans-unit>
       <trans-unit id="You can edit this type of widget, but you cannot assign them to your device." xml:space="preserve">
         <source>You can edit this type of widget, but you cannot assign them to your device.</source>
+        <target>您可以编辑此类型的小组件，但不能将它们分配给您的设备。</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="You can import any file made in Widgy. The importer won't convert the file to any other format (for example Widgy to Watchy)." xml:space="preserve">
         <source>You can import any file made in Widgy. The importer won't convert the file to any other format (for example Widgy to Watchy).</source>
+        <target>您可以导入任何在Widgy中创建的文件。导入程序不会将文件转换为任何其他格式（例如Widgy到Watchy）。</target>
         <note>Import Screen</note>
       </trans-unit>
       <trans-unit id="You can re-sync Watchys as many times as you want, or you can remove the time and slot limits with just a one-time purchase" xml:space="preserve">
         <source>You can re-sync Watchys as many times as you want, or you can remove the time and slot limits with just a one-time purchase</source>
+        <target>您可以多次重新同步Watchy，或者只需一次购买即可删除时间和时间段限制。</target>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="You can resize the drawer to any size." xml:space="preserve">
@@ -14650,10 +14851,12 @@
       </trans-unit>
       <trans-unit id="You can test Watchy for free, but after 15 minutes, all your Watchy slots will be unassigned from your Watch." xml:space="preserve">
         <source>You can test Watchy for free, but after 15 minutes, all your Watchy slots will be unassigned from your Watch.</source>
+        <target>您可以免费测试Watchy，但在15分钟后，所有您的Watchy时间段都将从您的手表上取消分配。</target>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="You can use the || delimiter both in source and target to replace multiple strings at the same time." xml:space="preserve">
         <source>You can use the || delimiter both in source and target to replace multiple strings at the same time.</source>
+        <target>您可以在源和目标中同时使用“||”分隔符来替换多个字符串。</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Your Device" xml:space="preserve">
@@ -14663,7 +14866,7 @@
       </trans-unit>
       <trans-unit id="Your Explore Accound Has Been Deleted" xml:space="preserve">
         <source>Your Explore Accound Has Been Deleted</source>
-        <target>Your Explore Accound Has Been Deleted</target>
+        <target>您的探索账户已被删除</target>
         <note>Button Title</note>
       </trans-unit>
       <trans-unit id="Your Name" xml:space="preserve">
@@ -14842,7 +15045,7 @@
       </trans-unit>
       <trans-unit id="iPad users, take note! Widgets don't know the orientation of your device. In other words, you can have transparency either for portrait or landscape orientation BUT NOT FOR BOTH. Rotating your device will break the illusion of transparency." xml:space="preserve">
         <source>iPad users, take note! Widgets don't know the orientation of your device. In other words, you can have transparency either for portrait or landscape orientation BUT NOT FOR BOTH. Rotating your device will break the illusion of transparency.</source>
-        <target>iPad用户，请注意！ 小部件不知道设备的方向。 换句话说，您可以为肖像或横向导向，但不适用。 旋转您的设备将打破透明度的错觉。</target>
+        <target>iPad用户，请注意！ 小组件不知道设备的方向。 换句话说，您可以为肖像或横向导向，但不适用。 旋转您的设备将打破透明度的错觉。</target>
         <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="iPhone Only" xml:space="preserve">
@@ -14862,7 +15065,7 @@
       </trans-unit>
       <trans-unit id="key" xml:space="preserve">
         <source>key</source>
-        <target>钥匙</target>
+        <target>键</target>
         <note>Custom JSON View</note>
       </trans-unit>
       <trans-unit id="lowercase" xml:space="preserve">
@@ -14907,7 +15110,7 @@
       </trans-unit>
       <trans-unit id="title" xml:space="preserve">
         <source>title</source>
-        <target>标题</target>
+        <target>title</target>
         <note>Custom JSON View</note>
       </trans-unit>
       <trans-unit id="value" xml:space="preserve">
