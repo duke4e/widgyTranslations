@@ -484,12 +484,12 @@
       </trans-unit>
       <trans-unit id="Floors Ascended" xml:space="preserve">
         <source>Floors Ascended</source>
-        <target>上升层级</target>
+        <target>爬升楼层</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Floors Descended" xml:space="preserve">
         <source>Floors Descended</source>
-        <target>下降层级</target>
+        <target>下降楼层</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Fog" xml:space="preserve">
@@ -873,6 +873,7 @@
       </trans-unit>
       <trans-unit id="Reloading Thumbnails" xml:space="preserve">
         <source>Reloading Thumbnails</source>
+        <target>重新加载缩略图</target>
         <note>System Message</note>
       </trans-unit>
       <trans-unit id="Reloading Widgets" xml:space="preserve">
@@ -950,6 +951,7 @@
       </trans-unit>
       <trans-unit id="Some Live Activities Failed To Start." xml:space="preserve">
         <source>Some Live Activities Failed To Start.</source>
+        <target>一些实时活动启动失败。</target>
         <note>Live Activities</note>
       </trans-unit>
       <trans-unit id="Steps" xml:space="preserve">
@@ -989,6 +991,7 @@
       </trans-unit>
       <trans-unit id="Unable to fetch." xml:space="preserve">
         <source>Unable to fetch.</source>
+        <target>无法获取。</target>
         <note>Notification Badge Message</note>
       </trans-unit>
       <trans-unit id="Unknown error" xml:space="preserve">
@@ -1003,10 +1006,12 @@
       </trans-unit>
       <trans-unit id="Until Sunrise" xml:space="preserve">
         <source>Until Sunrise</source>
+        <target>直到日出</target>
         <note>Widget Default Messages</note>
       </trans-unit>
       <trans-unit id="Until Sunset" xml:space="preserve">
         <source>Until Sunset</source>
+        <target>直到日落</target>
         <note>Widget Default Messages</note>
       </trans-unit>
       <trans-unit id="Upload" xml:space="preserve">
@@ -1026,6 +1031,7 @@
       </trans-unit>
       <trans-unit id="Value can't be assigned as a badge" xml:space="preserve">
         <source>Value can't be assigned as a badge</source>
+        <target>数值不能作为角标</target>
         <note>Notification Badge Message</note>
       </trans-unit>
       <trans-unit id="Video" xml:space="preserve">
@@ -1764,14 +1770,17 @@
       </trans-unit>
       <trans-unit id="Live Activity Large" xml:space="preserve">
         <source>Live Activity Large</source>
+        <target>大型实时活动</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Live Activity Medium" xml:space="preserve">
         <source>Live Activity Medium</source>
+        <target>中型实时活动</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Live Activity Small" xml:space="preserve">
         <source>Live Activity Small</source>
+        <target>小型实时活动</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Low Fitness" xml:space="preserve">
@@ -1811,6 +1820,7 @@
       </trans-unit>
       <trans-unit id="Minimal" xml:space="preserve">
         <source>Minimal</source>
+        <target>最小化</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Minutes" xml:space="preserve">
@@ -1981,6 +1991,7 @@
       </trans-unit>
       <trans-unit id="Reload Complications" xml:space="preserve">
         <source>Reload Complications</source>
+        <target>重新加载复杂功能</target>
         <note>Watchy menu</note>
       </trans-unit>
       <trans-unit id="Reminder" xml:space="preserve">
@@ -3623,14 +3634,17 @@
       </trans-unit>
       <trans-unit id="3D Rotation Perspective" xml:space="preserve">
         <source>3D Rotation Perspective</source>
+        <target>三维旋转透视</target>
         <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="3D Rotation X-Axis" xml:space="preserve">
         <source>3D Rotation X-Axis</source>
+        <target>三维旋转X轴</target>
         <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="3D Rotation Y-Axis" xml:space="preserve">
         <source>3D Rotation Y-Axis</source>
+        <target>三维旋转Y轴</target>
         <note>Layer Properties</note>
       </trans-unit>
       <trans-unit id="3G" xml:space="preserve">
@@ -3747,14 +3761,17 @@
       </trans-unit>
       <trans-unit id="12 Seconds" xml:space="preserve">
         <source>12 Seconds</source>
+        <target>12秒</target>
         <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="24 Seconds" xml:space="preserve">
         <source>24 Seconds</source>
+        <target>24秒</target>
         <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="48 Seconds" xml:space="preserve">
         <source>48 Seconds</source>
+        <target>48秒</target>
         <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="A Watchy Widget" xml:space="preserve">
@@ -3931,24 +3948,27 @@
       </trans-unit>
       <trans-unit id="Agenda (Chronological)" xml:space="preserve">
         <source>Agenda (Chronological)</source>
+        <target>议程（按时间顺序）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Agenda (Today)" xml:space="preserve">
         <source>Agenda (Today)</source>
+        <target>议程（今日）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Agenda (Tomorrow)" xml:space="preserve">
         <source>Agenda (Tomorrow)</source>
+        <target>议程（明日）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Agenda All-Day End" xml:space="preserve">
         <source>Agenda All-Day End</source>
-        <target>Agenda All-Day End</target>
+        <target>议程 全天结束</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda All-Day Start" xml:space="preserve">
         <source>Agenda All-Day Start</source>
-        <target>Agenda All-Day Start</target>
+        <target>议程 全天开始</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Events" xml:space="preserve">
@@ -3958,7 +3978,7 @@
       </trans-unit>
       <trans-unit id="Agenda Now" xml:space="preserve">
         <source>Agenda Now</source>
-        <target>Agenda Now</target>
+        <target>议程 现在</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Reminders" xml:space="preserve">
@@ -4229,7 +4249,7 @@
       </trans-unit>
       <trans-unit id="Apple Sleeping Wrist Temperature" xml:space="preserve">
         <source>Apple Sleeping Wrist Temperature</source>
-        <target>Apple Sleeping Wrist Temperature</target>
+        <target>苹果睡眠手腕温度监测</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Apple Stand Hour" xml:space="preserve">
@@ -4323,7 +4343,7 @@
       </trans-unit>
       <trans-unit id="As of iOS 16.0, Live Timer, Analog Seconds, and Blink are not working. Hopefully, Apple will fix the issue soon." xml:space="preserve">
         <source>As of iOS 16.0, Live Timer, Analog Seconds, and Blink are not working. Hopefully, Apple will fix the issue soon.</source>
-        <target>As of iOS 16.0, Live Timer, Analog Seconds, and Blink are not working. Hopefully, Apple will fix the issue soon.</target>
+        <target>截至iOS 16.0版本，动态计时器、模拟秒针及闪烁效果目前无法正常工作。我们期待苹果公司能尽快修复这一问题。</target>
         <note>Pick View</note>
       </trans-unit>
       <trans-unit id="Asleep" xml:space="preserve">
@@ -4478,7 +4498,7 @@
       </trans-unit>
       <trans-unit id="Backup restored" xml:space="preserve">
         <source>Backup restored</source>
-        <target>Backup restored</target>
+        <target>恢复备份</target>
         <note>Popup Title</note>
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
@@ -5178,7 +5198,7 @@
       </trans-unit>
       <trans-unit id="Clip To Frame" xml:space="preserve">
         <source>Clip To Frame</source>
-        <target>剪辑到框架</target>
+        <target>裁剪边框</target>
         <note>Editor
    Effects Drawer</note>
       </trans-unit>
@@ -5215,6 +5235,7 @@
       </trans-unit>
       <trans-unit id="Closed Ring" xml:space="preserve">
         <source>Closed Ring</source>
+        <target>闭环</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Cloud Coverage" xml:space="preserve">
@@ -6590,6 +6611,7 @@
       </trans-unit>
       <trans-unit id="Don't Hide" xml:space="preserve">
         <source>Don't Hide</source>
+        <target>不要隐藏</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Done" xml:space="preserve">
@@ -6599,6 +6621,7 @@
       </trans-unit>
       <trans-unit id="Dotted Progress Bar" xml:space="preserve">
         <source>Dotted Progress Bar</source>
+        <target>虚线进度条</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Download" xml:space="preserve">
@@ -6643,10 +6666,12 @@
       </trans-unit>
       <trans-unit id="Due to Watch conserving the battery, Watch complications picker will probably have cached previews making it not reflect what you picked in the Manage tab. And to make it even less intuitive, the complications list isn't sorted like its iOS counterpart. There's nothing I can do about this." xml:space="preserve">
         <source>Due to Watch conserving the battery, Watch complications picker will probably have cached previews making it not reflect what you picked in the Manage tab. And to make it even less intuitive, the complications list isn't sorted like its iOS counterpart. There's nothing I can do about this.</source>
+        <target>由于 Watch 耗电量低，Watch 圆盘选择器可能有缓存的预览，使其无法反映你在管理标签中选择的内容。并且为了使其更不直观，圆盘列表并不按照 iOS 系统的排序方式。没办法，这就是所谓的局限性。</target>
         <note>Watchy Help Message</note>
       </trans-unit>
       <trans-unit id="Due to the unusual aspect ratio of Live Activities on some iPads, Large Live Activities might look a bit squashed on your device." xml:space="preserve">
         <source>Due to the unusual aspect ratio of Live Activities on some iPads, Large Live Activities might look a bit squashed on your device.</source>
+        <target>由于某些iPad上 实时活动 的宽高比非同寻常，大型 实时活动 在您的设备上可能会显得有些扁平。</target>
         <note>Pick View</note>
       </trans-unit>
       <trans-unit id="Duplicate" xml:space="preserve">
@@ -7017,6 +7042,7 @@
       </trans-unit>
       <trans-unit id="Expanded" xml:space="preserve">
         <source>Expanded</source>
+        <target>展开</target>
         <note>Widget Size Name</note>
       </trans-unit>
       <trans-unit id="Explore" xml:space="preserve">
@@ -7036,6 +7062,7 @@
       </trans-unit>
       <trans-unit id="Export All" xml:space="preserve">
         <source>Export All</source>
+        <target>导出全部</target>
         <note>Stash View</note>
       </trans-unit>
       <trans-unit id="External Action" xml:space="preserve">
@@ -7115,10 +7142,12 @@
       </trans-unit>
       <trans-unit id="Feels Like Temperature (Always In C°)" xml:space="preserve">
         <source>Feels Like Temperature (Always In C°)</source>
+        <target>体感温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Feels Like Temperature (Always In F°)" xml:space="preserve">
         <source>Feels Like Temperature (Always In F°)</source>
+        <target>体感温度（始终以 F° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Feet Per Second (ft/s)" xml:space="preserve">
@@ -7171,6 +7200,7 @@
       </trans-unit>
       <trans-unit id="Filter Layers" xml:space="preserve">
         <source>Filter Layers</source>
+        <target>过滤图层</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Find My Friends" xml:space="preserve">
@@ -7860,6 +7890,7 @@
       </trans-unit>
       <trans-unit id="Health (Number Of Readings)" xml:space="preserve">
         <source>Health (Number Of Readings)</source>
+        <target>健康（阅读次数）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Health (Weekly)" xml:space="preserve">
@@ -7869,6 +7900,7 @@
       </trans-unit>
       <trans-unit id="Health Sources" xml:space="preserve">
         <source>Health Sources</source>
+        <target>健康来源</target>
         <note>Widget Settings View
    Window Title</note>
       </trans-unit>
@@ -9252,7 +9284,8 @@
         <note>Window Title</note>
       </trans-unit>
       <trans-unit id="Lock" xml:space="preserve">
-        <source>锁屏</source>
+        <source>Lock</source>
+        <target>锁屏</target>
         <note>Main Tabbar</note>
       </trans-unit>
       <trans-unit id="Lock Screen + Apple Watch" xml:space="preserve">
@@ -10177,14 +10210,17 @@
       </trans-unit>
       <trans-unit id="Name + Values" xml:space="preserve">
         <source>Name + Values</source>
+        <target>名称+值</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Name Column (Optional)" xml:space="preserve">
         <source>Name Column (Optional)</source>
+        <target>名称列（可选）</target>
         <note>CSV Picker Drawer</note>
       </trans-unit>
       <trans-unit id="Name Column Date Format (Optional)" xml:space="preserve">
         <source>Name Column Date Format (Optional)</source>
+        <target>名称列日期格式（可选）</target>
         <note>CSV Picker Drawer</note>
       </trans-unit>
       <trans-unit id="Name Day Country" xml:space="preserve">
@@ -10398,6 +10434,7 @@
       </trans-unit>
       <trans-unit id="Notification + Sound" xml:space="preserve">
         <source>Notification + Sound</source>
+        <target>通知+声音</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="Notification Badge" xml:space="preserve">
@@ -10409,6 +10446,7 @@
       </trans-unit>
       <trans-unit id="Notification Permissions" xml:space="preserve">
         <source>Notification Permissions</source>
+        <target>通知权限</target>
         <note>Popup Title</note>
       </trans-unit>
       <trans-unit id="Notification badges can show some text data as a notification badge on the Widgys app icon. Badges value will reload on every app open. Note that badges can only display whole numbers that are greater than zero." xml:space="preserve">
@@ -10433,6 +10471,7 @@
       </trans-unit>
       <trans-unit id="Number Of Entries" xml:space="preserve">
         <source>Number Of Entries</source>
+        <target>条目数量</target>
         <note>CSV Picker Drawer</note>
       </trans-unit>
       <trans-unit id="Number Of Times Fallen" xml:space="preserve">
@@ -10567,10 +10606,12 @@
       </trans-unit>
       <trans-unit id="Open" xml:space="preserve">
         <source>Open</source>
+        <target>打开</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="Open Ring" xml:space="preserve">
         <source>Open Ring</source>
+        <target>打开环</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Open URL" xml:space="preserve">
@@ -10641,7 +10682,7 @@
       </trans-unit>
       <trans-unit id="Original" xml:space="preserve">
         <source>Original</source>
-        <target>原文</target>
+        <target>原版</target>
         <note>App Icon Screen
    Text Data Drawer</note>
       </trans-unit>
@@ -10657,6 +10698,7 @@
       </trans-unit>
       <trans-unit id="Outer Corner Complication Layer" xml:space="preserve">
         <source>Outer Corner Complication Layer</source>
+        <target>外环形状背景层</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Outline" xml:space="preserve">
@@ -10693,6 +10735,7 @@
       </trans-unit>
       <trans-unit id="P!XLZ TECH has some useful iOS customization videos, mostly focusing on Widgy and Shortcuts. Just tap on this text to open his Youtube channel." xml:space="preserve">
         <source>P!XLZ TECH has some useful iOS customization videos, mostly focusing on Widgy and Shortcuts. Just tap on this text to open his Youtube channel.</source>
+        <target>P!XLZ TECH 有一些有用的 iOS 定制视频，主要集中在 Widgy 和 Shortcuts 上。 单击此文本即可打开他的 YouTube 频道。</target>
         <note>Help Message</note>
       </trans-unit>
       <trans-unit id="PPI" xml:space="preserve">
@@ -10815,6 +10858,7 @@
       </trans-unit>
       <trans-unit id="Percentages" xml:space="preserve">
         <source>Percentages</source>
+        <target>百分比</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Peripheral Perfusion Index" xml:space="preserve">
@@ -10835,7 +10879,7 @@
       </trans-unit>
       <trans-unit id="Persistent Intermenstrual Bleeding" xml:space="preserve">
         <source>Persistent Intermenstrual Bleeding</source>
-        <target>Persistent Intermenstrual Bleeding</target>
+        <target>持续性经间期出血</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Phonetic" xml:space="preserve">
@@ -10856,6 +10900,7 @@
       </trans-unit>
       <trans-unit id="Physical Effort" xml:space="preserve">
         <source>Physical Effort</source>
+        <target>体力消耗</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Pick" xml:space="preserve">
@@ -11044,6 +11089,7 @@
       </trans-unit>
       <trans-unit id="Proceed With Change" xml:space="preserve">
         <source>Proceed With Change</source>
+        <target>继续更改</target>
         <note>Popup Title</note>
       </trans-unit>
       <trans-unit id="Progesterone Test Result" xml:space="preserve">
@@ -11068,7 +11114,7 @@
       </trans-unit>
       <trans-unit id="Progress (Month)" xml:space="preserve">
         <source>Progress (Month)</source>
-        <target>进展（月）</target>
+        <target>进度（月）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Progress (Week)" xml:space="preserve">
@@ -11078,11 +11124,12 @@
       </trans-unit>
       <trans-unit id="Progress (Year)" xml:space="preserve">
         <source>Progress (Year)</source>
-        <target>进展（年）</target>
+        <target>进度（年）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Progress Bar" xml:space="preserve">
         <source>Progress Bar</source>
+        <target>进度条</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Prolonged Menstrual Periods" xml:space="preserve">
@@ -11217,8 +11264,8 @@
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Quote Text" xml:space="preserve">
-        <source>引用文本</source>
-        <target>报价文字</target>
+        <source>Quote Text</source>
+        <target>引用文字</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="RAWG Video Games Database - Image" xml:space="preserve">
@@ -11312,6 +11359,7 @@
       </trans-unit>
       <trans-unit id="Rectangular Watch Slots" xml:space="preserve">
         <source>Rectangular Watch Slots</source>
+        <target>矩形手表插槽</target>
         <note>Widget Slot Name</note>
       </trans-unit>
       <trans-unit id="Rectangular Widgy Slots" xml:space="preserve">
@@ -11326,6 +11374,7 @@
       </trans-unit>
       <trans-unit id="Redacted During Image/Video Export" xml:space="preserve">
         <source>Redacted During Image/Video Export</source>
+        <target>图像/视频导出时被删节</target>
         <note>Document Drawer
    Effects Drawer</note>
       </trans-unit>
@@ -11335,7 +11384,7 @@
       </trans-unit>
       <trans-unit id="Reduce Motion" xml:space="preserve">
         <source>Reduce Motion</source>
-        <target>减少运动</target>
+        <target>减少动态效果</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Reduce Transparency" xml:space="preserve">
@@ -11498,6 +11547,7 @@
       </trans-unit>
       <trans-unit id="Reorder" xml:space="preserve">
         <source>Reorder</source>
+        <target>重新排序</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Repeat Low" xml:space="preserve">
@@ -11653,7 +11703,7 @@
       </trans-unit>
       <trans-unit id="Rotation" xml:space="preserve">
         <source>Rotation</source>
-        <target>回转</target>
+        <target>旋转</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Run" xml:space="preserve">
@@ -11733,6 +11783,7 @@
       </trans-unit>
       <trans-unit id="Saturday Color" xml:space="preserve">
         <source>Saturday Color</source>
+        <target>周六颜色</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Save Error" xml:space="preserve">
@@ -12238,6 +12289,7 @@
       </trans-unit>
       <trans-unit id="Snapshot ID" xml:space="preserve">
         <source>Snapshot ID</source>
+        <target>快照ID</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Snow" xml:space="preserve">
@@ -12272,6 +12324,7 @@
       </trans-unit>
       <trans-unit id="Some Live Activities Failed To Start." xml:space="preserve">
         <source>Some Live Activities Failed To Start.</source>
+        <target>一些实时活动启动失败。</target>
         <note>Live Activities</note>
       </trans-unit>
       <trans-unit id="Some apps replace their name with a special Unicode character, but those apps usually have problems with getting their updates out, since there's a fair chance to get app update rejected due to the app hiding its name." xml:space="preserve">
@@ -12281,11 +12334,12 @@
       </trans-unit>
       <trans-unit id="Some data isn't being displayed on the Watch Face" xml:space="preserve">
         <source>Some data isn't being displayed on the Watch Face</source>
-        <target>某些数据未显示在表盘上</target>
+        <target>一些数据未显示在表盘上</target>
         <note>Watchy Help Title</note>
       </trans-unit>
       <trans-unit id="Some widgets failed to load." xml:space="preserve">
         <source>Some widgets failed to load.</source>
+        <target>一些小组件加载失败。</target>
         <note>Watchy Sync View</note>
       </trans-unit>
       <trans-unit id="Some, but not all, of the forbidden brands are the following" xml:space="preserve">
@@ -12337,10 +12391,12 @@
       </trans-unit>
       <trans-unit id="Sounds" xml:space="preserve">
         <source>Sounds</source>
+        <target>声音</target>
         <note>Window Title</note>
       </trans-unit>
       <trans-unit id="Sounds won't play if your ringer is set to silent. Also, volume is always played at maximum, so plan accordingly." xml:space="preserve">
         <source>Sounds won't play if your ringer is set to silent. Also, volume is always played at maximum, so plan accordingly.</source>
+        <target>如果您的响铃设置为静音，则不会播放声音。此外，音量始终以最大值播放，因此请合理安排。</target>
         <note>Tap Actions</note>
       </trans-unit>
       <trans-unit id="Source" xml:space="preserve">
@@ -12442,14 +12498,17 @@
       </trans-unit>
       <trans-unit id="Starting from version 3.0 and onward, Live Activities and Dynamic Island slots will be unlocked as well." xml:space="preserve">
         <source>Starting from version 3.0 and onward, Live Activities and Dynamic Island slots will be unlocked as well.</source>
+        <target>从版本 3.0 开始，实时活动和灵动岛插槽也将被解锁。</target>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Starting from version 3.0 and onward, Watchy Complications slots will be unlocked as well." xml:space="preserve">
         <source>Starting from version 3.0 and onward, Watchy Complications slots will be unlocked as well.</source>
+        <target>从版本 3.0 开始，Watchy 组件插槽也将被解锁。</target>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Starting with v3.2, the transparency layer is locked from editing, to avoid incorrect frame positions and unwanted effects. If you wish to fine-tune the transparency layer, go to the Documents drawer tab and unlock it from there." xml:space="preserve">
         <source>Starting with v3.2, the transparency layer is locked from editing, to avoid incorrect frame positions and unwanted effects. If you wish to fine-tune the transparency layer, go to the Documents drawer tab and unlock it from there.</source>
+        <target>从 v3.2 开始，透明图层被锁定，以避免错误的框架位置和意外效果。如果您希望微调透明图层，请转到文档抽屉标签并从那里解锁。</target>
         <note>Transparency Layer</note>
       </trans-unit>
       <trans-unit id="Stash" xml:space="preserve">
@@ -12505,14 +12564,17 @@
       </trans-unit>
       <trans-unit id="Stocks 24hr Change" xml:space="preserve">
         <source>Stocks 24hr Change</source>
+        <target>股票24小时涨跌</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Stocks Price" xml:space="preserve">
         <source>Stocks Price</source>
+        <target>股票价格</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Stocks Volume" xml:space="preserve">
         <source>Stocks Volume</source>
+        <target>股票成交量</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Stood" xml:space="preserve">
@@ -12588,21 +12650,22 @@
       </trans-unit>
       <trans-unit id="Sun Azimuth" xml:space="preserve">
         <source>Sun Azimuth</source>
-        <target>Sun Azimuth</target>
+        <target>太阳方位角</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Sun Distance" xml:space="preserve">
         <source>Sun Distance</source>
-        <target>Sun Distance</target>
+        <target>太阳距离</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Sun Elevation" xml:space="preserve">
         <source>Sun Elevation</source>
-        <target>Sun Elevation</target>
+        <target>太阳高度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Sun Transit" xml:space="preserve">
         <source>Sun Transit</source>
+        <target>太阳凌日</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Sunday Color" xml:space="preserve">
@@ -12706,6 +12769,7 @@
       </trans-unit>
       <trans-unit id="Symbol + Text" xml:space="preserve">
         <source>Symbol + Text</source>
+        <target>符号+文字</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Alternation" xml:space="preserve">
@@ -12899,6 +12963,7 @@
       </trans-unit>
       <trans-unit id="Tap To Edit" xml:space="preserve">
         <source>Tap To Edit</source>
+        <target>点击编辑</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="Tap To Select" xml:space="preserve">
@@ -12994,10 +13059,12 @@
       </trans-unit>
       <trans-unit id="Temperature (Always In C°)" xml:space="preserve">
         <source>Temperature (Always In C°)</source>
+        <target>温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Temperature (Always In F°)" xml:space="preserve">
         <source>Temperature (Always In F°)</source>
+        <target>温度（始终以 F° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Temperature Unit" xml:space="preserve">
@@ -13094,6 +13161,7 @@
       </trans-unit>
       <trans-unit id="The most powerful Widget editing app." xml:space="preserve">
         <source>The most powerful Widget editing app.</source>
+        <target>最强大的小组件编辑应用程序。</target>
         <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="The most powerful way to craft your own unique Widgets." xml:space="preserve">
@@ -13163,10 +13231,12 @@
       </trans-unit>
       <trans-unit id="Thick Progress Bar" xml:space="preserve">
         <source>Thick Progress Bar</source>
+        <target>粗进度条</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Thin Progress Bar" xml:space="preserve">
         <source>Thin Progress Bar</source>
+        <target>细进度条</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Third" xml:space="preserve">
@@ -13256,6 +13326,7 @@
       </trans-unit>
       <trans-unit id="This widgets uses High Quality Transparency. If the widget won't load properly, edit the widget and change the quality of transparency." xml:space="preserve">
         <source>This widgets uses High Quality Transparency. If the widget won't load properly, edit the widget and change the quality of transparency.</source>
+        <target>此小组件使用高质量透明度。如果小组件无法正常加载，请编辑小组件并更改透明度质量。</target>
         <note>Popup Text</note>
       </trans-unit>
       <trans-unit id="Thumbnail Generation Failed" xml:space="preserve">
@@ -13285,6 +13356,7 @@
       </trans-unit>
       <trans-unit id="Time In Daylight" xml:space="preserve">
         <source>Time In Daylight</source>
+        <target>夜间时间</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Time Short" xml:space="preserve">
@@ -13319,14 +13391,17 @@
       </trans-unit>
       <trans-unit id="Time Until" xml:space="preserve">
         <source>Time Until</source>
+        <target>剩余时间</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Time Until Next Sunrise" xml:space="preserve">
         <source>Time Until Next Sunrise</source>
+        <target>距下次日出的时间</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Time Until Next Sunset" xml:space="preserve">
         <source>Time Until Next Sunset</source>
+        <target>距下次日落的时间</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Time Zone" xml:space="preserve">
@@ -13383,6 +13458,7 @@
       </trans-unit>
       <trans-unit id="To display the special layers preview, open the ⊞ grid menu and disable &quot;Clip To Frame&quot;." xml:space="preserve">
         <source>To display the special layers preview, open the ⊞ grid menu and disable "Clip To Frame".</source>
+        <target>要显示特殊层预览，请打开“⊞”网格菜单并禁用“裁剪边框”。</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="To make returning to Watchy simpler, Watchy offers complications (Apple Watch Face 'Widgets') of all sizes that just lead you back to the Watchy app. So after adding those complications to your stock Watch Face, in the worst case you're a tap away from Watchy." xml:space="preserve">
@@ -13397,6 +13473,7 @@
       </trans-unit>
       <trans-unit id="To reload all complications, open the Watchy app, long press on the screen and tap on 'Reload Complications' button." xml:space="preserve">
         <source>To reload all complications, open the Watchy app, long press on the screen and tap on 'Reload Complications' button.</source>
+        <target>要重新加载所有复杂功能，请打开Watchy应用，长按屏幕并点击“重新加载复杂功能”按钮。</target>
         <note>Watchy Help Message</note>
       </trans-unit>
       <trans-unit id="To support the future development of the app, and to unlock all Widgy slots, consider purchasing the full version." xml:space="preserve">
@@ -13416,6 +13493,7 @@
       </trans-unit>
       <trans-unit id="Today Color" xml:space="preserve">
         <source>Today Color</source>
+        <target>今日颜色</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Today Symbol" xml:space="preserve">
@@ -13572,6 +13650,7 @@
       </trans-unit>
       <trans-unit id="Trim" xml:space="preserve">
         <source>Trim</source>
+        <target>修剪</target>
         <note>Text Drawer</note>
       </trans-unit>
       <trans-unit id="Triple" xml:space="preserve">
@@ -13746,6 +13825,7 @@
       </trans-unit>
       <trans-unit id="Unlock Right Away" xml:space="preserve">
         <source>Unlock Right Away</source>
+        <target>立即解锁</target>
         <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="Unspecified" xml:space="preserve">
@@ -13919,6 +13999,7 @@
       </trans-unit>
       <trans-unit id="Vertical Bar Charts" xml:space="preserve">
         <source>Vertical Bar Charts</source>
+        <target>垂直条形图</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Vertical Line Color" xml:space="preserve">
@@ -13944,11 +14025,12 @@
       </trans-unit>
       <trans-unit id="Vertical Text" xml:space="preserve">
         <source>Vertical Text</source>
+        <target>垂直文本</target>
         <note>Font Drawer</note>
       </trans-unit>
       <trans-unit id="Vibrant Color Mode" xml:space="preserve">
         <source>Vibrant Color Mode</source>
-        <target>Vibrant Color Mode</target>
+        <target>鲜艳色彩模式</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Vibrate" xml:space="preserve">
@@ -14069,6 +14151,7 @@
       </trans-unit>
       <trans-unit id="Warning!" xml:space="preserve">
         <source>Warning!</source>
+        <target>警告！</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="Watch" xml:space="preserve">
@@ -14173,6 +14256,7 @@
       </trans-unit>
       <trans-unit id="Weather (Custom Images)" xml:space="preserve">
         <source>Weather (Custom Images)</source>
+        <target>天气（自定义图片）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Weather (Daily)" xml:space="preserve">
@@ -14339,6 +14423,7 @@
       </trans-unit>
       <trans-unit id="Week Offset" xml:space="preserve">
         <source>Week Offset</source>
+        <target>周偏移</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Week Symbol" xml:space="preserve">
@@ -14700,6 +14785,7 @@
       </trans-unit>
       <trans-unit id="Will use [Day] variant if missing" xml:space="preserve">
         <source>Will use [Day] variant if missing</source>
+        <target>如果缺少，将使用 [Day] 变量</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Wind Direction (Cardinal)" xml:space="preserve">
