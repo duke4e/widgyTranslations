@@ -443,12 +443,12 @@
       </trans-unit>
       <trans-unit id="Egg White" xml:space="preserve">
         <source>Egg White</source>
-        <target>蛋白</target>
+        <target>蛋白质</target>
         <note>HealthKit Data</note>
       </trans-unit>
       <trans-unit id="Estrogen Surge" xml:space="preserve">
         <source>Estrogen Surge</source>
-        <target>雌激素浪涌</target>
+        <target>雌激素激增</target>
         <note>HealthKit Data</note>
       </trans-unit>
       <trans-unit id="Evening" xml:space="preserve">
@@ -474,12 +474,12 @@
       </trans-unit>
       <trans-unit id="First Quarter" xml:space="preserve">
         <source>First Quarter</source>
-        <target>上玄月</target>
+        <target>上弦月</target>
         <note>Widget Default Messages</note>
       </trans-unit>
       <trans-unit id="Floors" xml:space="preserve">
         <source>Floors</source>
-        <target>层级</target>
+        <target>楼层</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Floors Ascended" xml:space="preserve">
@@ -584,7 +584,7 @@
       </trans-unit>
       <trans-unit id="Initial Very Low" xml:space="preserve">
         <source>Initial Very Low</source>
-        <target>初步非常低</target>
+        <target>初始非常低</target>
         <note>HealthKit Data</note>
       </trans-unit>
       <trans-unit id="Injection" xml:space="preserve">
@@ -615,7 +615,7 @@
       </trans-unit>
       <trans-unit id="Last Quarter" xml:space="preserve">
         <source>Last Quarter</source>
-        <target>下弦(月)</target>
+        <target>下弦月</target>
         <note>Widget Default Messages</note>
       </trans-unit>
       <trans-unit id="Light" xml:space="preserve">
@@ -640,22 +640,27 @@
       </trans-unit>
       <trans-unit id="Live Activities Are Already Restarting." xml:space="preserve">
         <source>Live Activities Are Already Restarting.</source>
+        <target>实时活动正在重新启动。</target>
         <note>Live Activities</note>
       </trans-unit>
       <trans-unit id="Live Activities Disabled, please go to Settings app/Widgy and enable Live Activities." xml:space="preserve">
         <source>Live Activities Disabled, please go to Settings app/Widgy and enable Live Activities.</source>
+        <target>实时活动已禁用，请转到设置 应用/Widgy并启用实时活动。</target>
         <note>Live Activities</note>
       </trans-unit>
       <trans-unit id="Live Activity Large" xml:space="preserve">
         <source>Live Activity Large</source>
+        <target>大型实时活动</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Live Activity Medium" xml:space="preserve">
         <source>Live Activity Medium</source>
+        <target>中型实时活动</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Live Activity Small" xml:space="preserve">
         <source>Live Activity Small</source>
+        <target>小型实时活动</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Localized" xml:space="preserve">
@@ -670,7 +675,7 @@
       </trans-unit>
       <trans-unit id="Luteinizing Hormone Surge" xml:space="preserve">
         <source>Luteinizing Hormone Surge</source>
-        <target>激素激素激增激光</target>
+        <target>黄体生成素激增</target>
         <note>HealthKit Data</note>
       </trans-unit>
       <trans-unit id="Male" xml:space="preserve">
@@ -700,6 +705,7 @@
       </trans-unit>
       <trans-unit id="Minimal" xml:space="preserve">
         <source>Minimal</source>
+        <target>最小</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Minutes" xml:space="preserve">
@@ -744,6 +750,7 @@
       </trans-unit>
       <trans-unit id="Negative values can't be displayed as badges" xml:space="preserve">
         <source>Negative values can't be displayed as badges</source>
+        <target>负值无法显示为通知角标</target>
         <note>Notification Badge Message</note>
       </trans-unit>
       <trans-unit id="New" xml:space="preserve">
@@ -803,6 +810,7 @@
       </trans-unit>
       <trans-unit id="Note that if you see this message after assigning the widget, you've probably hit the memory limit." xml:space="preserve">
         <source>Note that if you see this message after assigning the widget, you've probably hit the memory limit.</source>
+        <target>请注意，如果您在分配小组件后看到此消息，则可能达到了内存限制。</target>
         <note>Empty Widget</note>
       </trans-unit>
       <trans-unit id="Now" xml:space="preserve">
@@ -888,15 +896,17 @@
       </trans-unit>
       <trans-unit id="Reminder Completed" xml:space="preserve">
         <source>Reminder Completed</source>
-        <target>提醒已完成</target>
+        <target>提醒事项已完成</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reminder Today Completed" xml:space="preserve">
         <source>Reminder Today Completed</source>
+        <target>今日提醒事项已完成</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Reminder Tomorrow Completed" xml:space="preserve">
         <source>Reminder Tomorrow Completed</source>
+        <target>明日提醒事项已完成</target>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="Repeat Low" xml:space="preserve">
@@ -1219,152 +1229,152 @@
     <body>
       <trans-unit id="+1d" xml:space="preserve">
         <source>+1d</source>
-        <target>1d</target>
+        <target>+1d</target>
         <note>Day Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+1h" xml:space="preserve">
         <source>+1h</source>
-        <target>1h</target>
+        <target>+1h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+2d" xml:space="preserve">
         <source>+2d</source>
-        <target>2d</target>
+        <target>+2d</target>
         <note>Day Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+2h" xml:space="preserve">
         <source>+2h</source>
-        <target>2h</target>
+        <target>+2h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+3d" xml:space="preserve">
         <source>+3d</source>
-        <target>3d</target>
+        <target>3+d</target>
         <note>Day Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+3h" xml:space="preserve">
         <source>+3h</source>
-        <target>3h</target>
+        <target>+3h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+4d" xml:space="preserve">
         <source>+4d</source>
-        <target>4d</target>
+        <target>+4d</target>
         <note>Day Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+4h" xml:space="preserve">
         <source>+4h</source>
-        <target>4h</target>
+        <target>+4h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+5d" xml:space="preserve">
         <source>+5d</source>
-        <target>5d</target>
+        <target>+5d</target>
         <note>Day Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+5h" xml:space="preserve">
         <source>+5h</source>
-        <target>5h</target>
+        <target>+5h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+6d" xml:space="preserve">
         <source>+6d</source>
-        <target>6d</target>
+        <target>+6d</target>
         <note>Day Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+6h" xml:space="preserve">
         <source>+6h</source>
-        <target>6h</target>
+        <target>+6h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+7d" xml:space="preserve">
         <source>+7d</source>
-        <target>7d</target>
+        <target>+7d</target>
         <note>Day Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+7h" xml:space="preserve">
         <source>+7h</source>
-        <target>7h</target>
+        <target>+7h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+8h" xml:space="preserve">
         <source>+8h</source>
-        <target>8h</target>
+        <target>+8h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+9h" xml:space="preserve">
         <source>+9h</source>
-        <target>9h</target>
+        <target>+9h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+10h" xml:space="preserve">
         <source>+10h</source>
-        <target>10h</target>
+        <target>+10h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+11h" xml:space="preserve">
         <source>+11h</source>
-        <target>11h</target>
+        <target>+11h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+12h" xml:space="preserve">
         <source>+12h</source>
-        <target>12h</target>
+        <target>+12h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+13h" xml:space="preserve">
         <source>+13h</source>
-        <target>13h</target>
+        <target>+13h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+14h" xml:space="preserve">
         <source>+14h</source>
-        <target>14h</target>
+        <target>+14h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+15h" xml:space="preserve">
         <source>+15h</source>
-        <target>15h</target>
+        <target>+15h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+16h" xml:space="preserve">
         <source>+16h</source>
-        <target>16h</target>
+        <target>+16h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+17h" xml:space="preserve">
         <source>+17h</source>
-        <target>17h</target>
+        <target>+17h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+18h" xml:space="preserve">
         <source>+18h</source>
-        <target>18h</target>
+        <target>+18</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+19h" xml:space="preserve">
         <source>+19h</source>
-        <target>19h</target>
+        <target>+19h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+20h" xml:space="preserve">
         <source>+20h</source>
-        <target>20h</target>
+        <target>+20h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+21h" xml:space="preserve">
         <source>+21h</source>
-        <target>21h</target>
+        <target>+21h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+22h" xml:space="preserve">
         <source>+22h</source>
-        <target>22h</target>
+        <target>+22h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="+23h" xml:space="preserve">
         <source>+23h</source>
-        <target>23h</target>
+        <target>+23h</target>
         <note>Hour Offset For Weather</note>
       </trans-unit>
       <trans-unit id="00" xml:space="preserve">
@@ -1549,18 +1559,22 @@
       </trans-unit>
       <trans-unit id="Dynamic Island Large" xml:space="preserve">
         <source>Dynamic Island Large</source>
+        <target>大型灵动岛</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Dynamic Island Medium" xml:space="preserve">
         <source>Dynamic Island Medium</source>
+        <target>中型灵动岛</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Dynamic Island Minimal" xml:space="preserve">
         <source>Dynamic Island Minimal</source>
+        <target>小型灵动岛(圆形)</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Dynamic Island Small" xml:space="preserve">
         <source>Dynamic Island Small</source>
+        <target>小型灵动岛</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="E" xml:space="preserve">
@@ -2637,18 +2651,22 @@
       </trans-unit>
       <trans-unit id="Dynamic Island Large" xml:space="preserve">
         <source>Dynamic Island Large</source>
+        <target>大型灵动岛</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Dynamic Island Medium" xml:space="preserve">
         <source>Dynamic Island Medium</source>
+        <target>中型灵动岛</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Dynamic Island Minimal" xml:space="preserve">
         <source>Dynamic Island Minimal</source>
+        <target>小型灵动岛(圆形)</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="Dynamic Island Small" xml:space="preserve">
         <source>Dynamic Island Small</source>
+        <target>小型灵动岛</target>
         <note>Widget Size</note>
       </trans-unit>
       <trans-unit id="E" xml:space="preserve">
@@ -2663,7 +2681,7 @@
       </trans-unit>
       <trans-unit id="Estrogen Surge" xml:space="preserve">
         <source>Estrogen Surge</source>
-        <target>雌激素浪涌</target>
+        <target>雌激素激增</target>
         <note>HealthKit Data</note>
       </trans-unit>
       <trans-unit id="Evening" xml:space="preserve">
@@ -3171,10 +3189,12 @@
       </trans-unit>
       <trans-unit id="Until Sunrise" xml:space="preserve">
         <source>Until Sunrise</source>
+        <target>直到日出</target>
         <note>Widget Default Messages</note>
       </trans-unit>
       <trans-unit id="Until Sunset" xml:space="preserve">
         <source>Until Sunset</source>
+        <target>直到日落</target>
         <note>Widget Default Messages</note>
       </trans-unit>
       <trans-unit id="Upload" xml:space="preserve">
@@ -3552,6 +3572,7 @@
       </trans-unit>
       <trans-unit id="1 Row" xml:space="preserve">
         <source>1 Row</source>
+        <target>1行</target>
         <note>Misc</note>
       </trans-unit>
       <trans-unit id="1-Line Clip" xml:space="preserve">
@@ -3591,6 +3612,7 @@
       </trans-unit>
       <trans-unit id="2 Rows" xml:space="preserve">
         <source>2 Rows</source>
+        <target>2行</target>
         <note>Misc</note>
       </trans-unit>
       <trans-unit id="2-Lines Clip" xml:space="preserve">
@@ -3620,6 +3642,7 @@
       </trans-unit>
       <trans-unit id="3 Rows" xml:space="preserve">
         <source>3 Rows</source>
+        <target>3行</target>
         <note>Misc</note>
       </trans-unit>
       <trans-unit id="3-Lines Clip" xml:space="preserve">
@@ -4020,12 +4043,12 @@
       </trans-unit>
       <trans-unit id="Agenda Today" xml:space="preserve">
         <source>Agenda Today</source>
-        <target>Agenda Today</target>
+        <target>议程 今日</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Tomorrow" xml:space="preserve">
         <source>Agenda Tomorrow</source>
-        <target>Agenda Tomorrow</target>
+        <target>议程 明日</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Air Pressure" xml:space="preserve">
@@ -4463,7 +4486,7 @@
       </trans-unit>
       <trans-unit id="Automatic Color Mode" xml:space="preserve">
         <source>Automatic Color Mode</source>
-        <target>Automatic Color Mode</target>
+        <target>自动颜色模式</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Average Pace" xml:space="preserve">
@@ -4584,7 +4607,7 @@
       </trans-unit>
       <trans-unit id="Before proceeding, sign in once again to confirm your credentials." xml:space="preserve">
         <source>Before proceeding, sign in once again to confirm your credentials.</source>
-        <target>Before proceeding, sign in once again to confirm your credentials.</target>
+        <target>在继续之前，请再次登录以确认您的凭证。</target>
         <note>Delete Explore Account</note>
       </trans-unit>
       <trans-unit id="Before sharing, ensure this is not a recreation of a copyrighted watch face. These are forbidden from being published to Explore and will result in a ban." xml:space="preserve">
@@ -4594,7 +4617,7 @@
       </trans-unit>
       <trans-unit id="Biological Sex" xml:space="preserve">
         <source>Biological Sex</source>
-        <target>生物性</target>
+        <target>生理性别</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Bladder Incontinence" xml:space="preserve">
@@ -5152,7 +5175,7 @@
       </trans-unit>
       <trans-unit id="Circular Widgy Slots" xml:space="preserve">
         <source>Circular Widgy Slots</source>
-        <target>Circular Widgy Slots</target>
+        <target>圆形 Widgy 插槽</target>
         <note>Widget Slot Name</note>
       </trans-unit>
       <trans-unit id="City" xml:space="preserve">
@@ -5383,6 +5406,7 @@
       </trans-unit>
       <trans-unit id="Complication Tint Threshold" xml:space="preserve">
         <source>Complication Tint Threshold</source>
+        <target>复杂度色度阈值</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Confirm" xml:space="preserve">
@@ -5689,50 +5713,62 @@
       </trans-unit>
       <trans-unit id="Current Value Color" xml:space="preserve">
         <source>Current Value Color</source>
+        <target>当前值颜色</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Value Decimals" xml:space="preserve">
         <source>Current Value Decimals</source>
+        <target>当前值小数位数</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Value Font" xml:space="preserve">
         <source>Current Value Font</source>
+        <target>当前值字体</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Value Font Scale" xml:space="preserve">
         <source>Current Value Font Scale</source>
+        <target>当前值字体缩放</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Value Grouping Separator" xml:space="preserve">
         <source>Current Value Grouping Separator</source>
+        <target>当前值分组分隔符</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Value Hide Text" xml:space="preserve">
         <source>Current Value Hide Text</source>
+        <target>隐藏当前值</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Value Shadow Color" xml:space="preserve">
         <source>Current Value Shadow Color</source>
+        <target>当前值阴影颜色</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Value Shadow Offset X" xml:space="preserve">
         <source>Current Value Shadow Offset X</source>
+        <target>当前值阴影偏移 X</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Value Shadow Offset Y" xml:space="preserve">
         <source>Current Value Shadow Offset Y</source>
+        <target>当前值阴影偏移 Y</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Value Shadow Radius" xml:space="preserve">
         <source>Current Value Shadow Radius</source>
+        <target>当前值阴影半径</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Value Show Unit" xml:space="preserve">
         <source>Current Value Show Unit</source>
+        <target>显示当前值单位</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Value Unicode Remapping" xml:space="preserve">
         <source>Current Value Unicode Remapping</source>
+        <target>当前值花式字符映射</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Current Week Color" xml:space="preserve">
@@ -7033,6 +7069,7 @@
       </trans-unit>
       <trans-unit id="Expand All Groups" xml:space="preserve">
         <source>Expand All Groups</source>
+        <target>展开所有组</target>
         <note>Editor</note>
       </trans-unit>
       <trans-unit id="Expand To" xml:space="preserve">
@@ -7434,7 +7471,7 @@
       </trans-unit>
       <trans-unit id="Forced Expiratory Volume 1" xml:space="preserve">
         <source>Forced Expiratory Volume 1</source>
-        <target>用力呼气量</target>
+        <target>1秒用力呼气量</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Forced Vital Capacity" xml:space="preserve">
@@ -7916,7 +7953,7 @@
       </trans-unit>
       <trans-unit id="Heart Rate Recovery One Minute" xml:space="preserve">
         <source>Heart Rate Recovery One Minute</source>
-        <target>Heart Rate Recovery One Minute</target>
+        <target>一分钟心率恢复</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Heart Rate Variability SDNN" xml:space="preserve">
@@ -9605,50 +9642,62 @@
       </trans-unit>
       <trans-unit id="Max. Value Color" xml:space="preserve">
         <source>Max. Value Color</source>
+        <target>最大值颜色</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Value Decimals" xml:space="preserve">
         <source>Max. Value Decimals</source>
+        <target>最大值小数位数</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Value Font" xml:space="preserve">
         <source>Max. Value Font</source>
+        <target>最大值字体</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Value Font Scale" xml:space="preserve">
         <source>Max. Value Font Scale</source>
+        <target>最大值字体缩放</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Value Grouping Separator" xml:space="preserve">
         <source>Max. Value Grouping Separator</source>
+        <target>最大值分组分隔符</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Value Hide Text" xml:space="preserve">
         <source>Max. Value Hide Text</source>
+        <target>隐藏最大值</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Value Shadow Color" xml:space="preserve">
         <source>Max. Value Shadow Color</source>
+        <target>最大值阴影颜色</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Value Shadow Offset X" xml:space="preserve">
         <source>Max. Value Shadow Offset X</source>
+        <target>最大值阴影偏移 X</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Value Shadow Offset Y" xml:space="preserve">
         <source>Max. Value Shadow Offset Y</source>
+        <target>最大值阴影偏移 Y</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Value Shadow Radius" xml:space="preserve">
         <source>Max. Value Shadow Radius</source>
+        <target>最大值阴影半径</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Value Show Unit" xml:space="preserve">
         <source>Max. Value Show Unit</source>
+        <target>显示最大值单位</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Value Unicode Remapping" xml:space="preserve">
         <source>Max. Value Unicode Remapping</source>
+        <target>最大值花式字符映射</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Measurement Units" xml:space="preserve">
@@ -9799,71 +9848,87 @@
       </trans-unit>
       <trans-unit id="Min. Temperature (Always In C°)" xml:space="preserve">
         <source>Min. Temperature (Always In C°)</source>
+        <target>最低温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Min. Temperature (Always In F°)" xml:space="preserve">
         <source>Min. Temperature (Always In F°)</source>
+        <target>最低温度（始终以 F° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Min. Temperature Today" xml:space="preserve">
         <source>Min. Temperature Today</source>
-        <target>分钟。今日温度</target>
+        <target>今日最低温度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Min. Temperature Today (Always In C°)" xml:space="preserve">
         <source>Min. Temperature Today (Always In C°)</source>
+        <target>今日最低温度（始终以 C° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Min. Temperature Today (Always In F°)" xml:space="preserve">
         <source>Min. Temperature Today (Always In F°)</source>
+        <target>今日最低温度（始终以 F° 为单位）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Min. Value Color" xml:space="preserve">
         <source>Min. Value Color</source>
+        <target>最小值颜色</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Min. Value Decimals" xml:space="preserve">
         <source>Min. Value Decimals</source>
+        <target>最小值小数位数</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Min. Value Font" xml:space="preserve">
         <source>Min. Value Font</source>
+        <target>最小值字体</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Min. Value Font Scale" xml:space="preserve">
         <source>Min. Value Font Scale</source>
+        <target>最小值字体缩放</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Min. Value Grouping Separator" xml:space="preserve">
         <source>Min. Value Grouping Separator</source>
+        <target>最小值分组分隔符</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Min. Value Hide Text" xml:space="preserve">
         <source>Min. Value Hide Text</source>
+        <target>隐藏最小值</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Min. Value Shadow Color" xml:space="preserve">
         <source>Min. Value Shadow Color</source>
+        <target>最小值阴影颜色</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Min. Value Shadow Offset X" xml:space="preserve">
         <source>Min. Value Shadow Offset X</source>
+        <target>最小值阴影偏移 X</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Min. Value Shadow Offset Y" xml:space="preserve">
         <source>Min. Value Shadow Offset Y</source>
+        <target>最小值阴影偏移 Y</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Min. Value Shadow Radius" xml:space="preserve">
         <source>Min. Value Shadow Radius</source>
+        <target>最小值阴影半径</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Min. Value Show Unit" xml:space="preserve">
         <source>Min. Value Show Unit</source>
+        <target>显示最小值单位</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Min. Value Unicode Remapping" xml:space="preserve">
         <source>Min. Value Unicode Remapping</source>
+        <target>最小值花式字符映射</target>
         <note>Apple Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Mindful Session" xml:space="preserve">
@@ -9983,7 +10048,7 @@
       </trans-unit>
       <trans-unit id="Moon Full Moon" xml:space="preserve">
         <source>Moon Full Moon</source>
-        <target>Moon Full Moon</target>
+        <target>满月</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Moon Illumination" xml:space="preserve">
@@ -10013,7 +10078,7 @@
       </trans-unit>
       <trans-unit id="Moon New Moon" xml:space="preserve">
         <source>Moon New Moon</source>
-        <target>Moon New Moon</target>
+        <target>新月</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Moon Phase" xml:space="preserve">
@@ -10186,14 +10251,17 @@
       </trans-unit>
       <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Lock Screen Slots or Live Activities!" xml:space="preserve">
         <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Lock Screen Slots or Live Activities!</source>
+        <target>注意：Widgy还有其他购买！本购买不会解锁主屏幕插槽、锁屏插槽或实时活动！</target>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Watchy or Apple Watch Slots!" xml:space="preserve">
         <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Watchy or Apple Watch Slots!</source>
+        <target>注意：Widgy还有其他购买！本购买不会解锁主屏幕插槽、Watchy或Apple Watch插槽！</target>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Lock Screen Slots, Live Activities, Watchy or Apple Watch Slots!" xml:space="preserve">
         <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Lock Screen Slots, Live Activities, Watchy or Apple Watch Slots!</source>
+        <target>注意：Widgy还有其他购买！本购买不会解锁锁屏插槽、实时活动、Watchy或Apple Watch插槽！</target>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="NW" xml:space="preserve">
@@ -11134,7 +11202,7 @@
       </trans-unit>
       <trans-unit id="Prolonged Menstrual Periods" xml:space="preserve">
         <source>Prolonged Menstrual Periods</source>
-        <target>Prolonged Menstrual Periods</target>
+        <target>经期延长</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Public Holiday API - Date" xml:space="preserve">
@@ -11364,7 +11432,7 @@
       </trans-unit>
       <trans-unit id="Rectangular Widgy Slots" xml:space="preserve">
         <source>Rectangular Widgy Slots</source>
-        <target>Rectangular Widgy Slots</target>
+        <target>矩形 Widgy 插槽</target>
         <note>Widget Slot Name</note>
       </trans-unit>
       <trans-unit id="Red" xml:space="preserve">
@@ -11728,12 +11796,12 @@
       </trans-unit>
       <trans-unit id="Running Speed" xml:space="preserve">
         <source>Running Speed</source>
-        <target>Running Speed</target>
+        <target>跑步速度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Running Stride Length" xml:space="preserve">
         <source>Running Stride Length</source>
-        <target>Running Stride Length</target>
+        <target>跑步步幅长度</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Running Vertical Oscillation" xml:space="preserve">
@@ -12493,7 +12561,7 @@
       </trans-unit>
       <trans-unit id="Start Time (Optional, in minutes 0-1439)" xml:space="preserve">
         <source>Start Time (Optional, in minutes 0-1439)</source>
-        <target>Start Time (Optional, in minutes 0-1439)</target>
+        <target>开始时间（可选，单位为分钟 0-1439）</target>
         <note>Automation View</note>
       </trans-unit>
       <trans-unit id="Starting from version 3.0 and onward, Live Activities and Dynamic Island slots will be unlocked as well." xml:space="preserve">
@@ -12943,7 +13011,7 @@
       </trans-unit>
       <trans-unit id="Take me to the download" xml:space="preserve">
         <source>Take me to the download</source>
-        <target>Take me to the download</target>
+        <target>带我去下载</target>
         <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="Tangent" xml:space="preserve">
@@ -13186,17 +13254,17 @@
       </trans-unit>
       <trans-unit id="TheCocktailDB - Drink" xml:space="preserve">
         <source>TheCocktailDB - Drink</source>
-        <target>TheCocktailDB - 饮料</target>
+        <target>鸡尾酒数据库 - 饮料</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="TheCocktailDB - Ingredients" xml:space="preserve">
         <source>TheCocktailDB - Ingredients</source>
-        <target>TheCocktailDB - 成分</target>
+        <target>鸡尾酒数据库 - 配料</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="TheCocktailDB - Instructions" xml:space="preserve">
         <source>TheCocktailDB - Instructions</source>
-        <target>TheCocktailDB - 说明</target>
+        <target>鸡尾酒数据库 - 说明</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="TheMealDB" xml:space="preserve">
@@ -13206,12 +13274,12 @@
       </trans-unit>
       <trans-unit id="TheMealDB - Instructions" xml:space="preserve">
         <source>TheMealDB - Instructions</source>
-        <target>TheMealDB - 说明</target>
+        <target>膳食数据库 - 说明</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="TheMealDB - Meal" xml:space="preserve">
         <source>TheMealDB - Meal</source>
-        <target>TheMealDB - 膳食</target>
+        <target>膳食数据库 - 膳食</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Themes" xml:space="preserve">
@@ -13251,12 +13319,12 @@
       </trans-unit>
       <trans-unit id="This Widgy is currently in use. To change the size of this Widgy, first go to the Manage tab and unassign it." xml:space="preserve">
         <source>This Widgy is currently in use. To change the size of this Widgy, first go to the Manage tab and unassign it.</source>
-        <target>这个警告目前正在使用。 要更改此Woigg的大小，请先管理“管理”选项卡并取消分配它。</target>
+        <target>此 Widgy 目前正在使用中。如需调整其尺寸，请先前往“管理”标签页，将其解除分配。</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="This Widgy is currently in use. To delete this Widgy, first go to the Manage tab and unassign it." xml:space="preserve">
         <source>This Widgy is currently in use. To delete this Widgy, first go to the Manage tab and unassign it.</source>
-        <target>目前正在使用此Widgy。要删除此Widgy，请首先转到“管理”标签，然后取消分配。</target>
+        <target>此 Widgy 目前正在使用中。若要删除它，请先前往“管理”标签页，将其解除分配。</target>
         <note>Popup Text</note>
       </trans-unit>
       <trans-unit id="This color is currently in use. Please remove all references to this color and try again. Don't forget to look under custom gradients too!" xml:space="preserve">
@@ -14225,7 +14293,7 @@
       </trans-unit>
       <trans-unit id="Water Temperature" xml:space="preserve">
         <source>Water Temperature</source>
-        <target>Water Temperature</target>
+        <target>水温</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Watery" xml:space="preserve">
@@ -14766,6 +14834,7 @@
       </trans-unit>
       <trans-unit id="Widgy will automatically reload all live activities when switching to the app. You can also add a reload tap action to the live activity to make it reloadable on a simple tap. Thanks to iOS 17, the widget will reload in place." xml:space="preserve">
         <source>Widgy will automatically reload all live activities when switching to the app. You can also add a reload tap action to the live activity to make it reloadable on a simple tap. Thanks to iOS 17, the widget will reload in place.</source>
+        <target>WWidgy 在切换到应用时会自动重新加载所有实时活动。您还可以为实时活动添加一个重新加载点击操作，使其通过简单的点击即可重新加载。得益于 iOS 17，小部件将在原地重新加载。</target>
         <note>Live Activities Warning</note>
       </trans-unit>
       <trans-unit id="Widgy will sort all Tap Actions alphabetically and use whatever comes up first." xml:space="preserve">
@@ -15042,66 +15111,82 @@
       </trans-unit>
       <trans-unit id="[Day] Clear Sky" xml:space="preserve">
         <source>[Day] Clear Sky</source>
+        <target>[白天] 晴天</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Day] Cloudy" xml:space="preserve">
         <source>[Day] Cloudy</source>
+        <target>[白天] 多云</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Day] Fair/Partly Cloudy" xml:space="preserve">
         <source>[Day] Fair/Partly Cloudy</source>
+        <target>[白天] 晴/多云</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Day] Fog" xml:space="preserve">
         <source>[Day] Fog</source>
+        <target>[白天] 雾</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Day] Heavy Rain" xml:space="preserve">
         <source>[Day] Heavy Rain</source>
+        <target>[白天] 大雨</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Day] Heavy Rain And Thunder" xml:space="preserve">
         <source>[Day] Heavy Rain And Thunder</source>
+        <target>[白天] 雷暴大雨</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Day] Light Rain" xml:space="preserve">
         <source>[Day] Light Rain</source>
+        <target>[白天] 小雨</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Day] Snow" xml:space="preserve">
         <source>[Day] Snow</source>
+        <target>[白天] 雪</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Night] Clear Sky" xml:space="preserve">
         <source>[Night] Clear Sky</source>
+        <target>[夜间] 晴天</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Night] Cloudy" xml:space="preserve">
         <source>[Night] Cloudy</source>
+        <target>[夜间] 多云</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Night] Fair/Partly Cloudy" xml:space="preserve">
         <source>[Night] Fair/Partly Cloudy</source>
+        <target>[夜间] 晴/多云</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Night] Fog" xml:space="preserve">
         <source>[Night] Fog</source>
+        <target>[夜间] 雾</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Night] Heavy Rain" xml:space="preserve">
         <source>[Night] Heavy Rain</source>
+        <target>[夜间] 大雨</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Night] Heavy Rain And Thunder" xml:space="preserve">
         <source>[Night] Heavy Rain And Thunder</source>
+        <target>[夜间] 雷暴大雨</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Night] Light Rain" xml:space="preserve">
         <source>[Night] Light Rain</source>
+        <target>[夜间] 小雨</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="[Night] Snow" xml:space="preserve">
         <source>[Night] Snow</source>
+        <target>[夜间] 雪</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="and Gradients" xml:space="preserve">
