@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Home Widget/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -72,20 +72,12 @@
   </file>
   <file original="Home Widget/en.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
         <target>%@</target>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@: %@x%@" xml:space="preserve">
-        <source>%1$@: %2$@x%3$@</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@@%@x%@" xml:space="preserve">
-        <source>%1$@@%2$@x%3$@</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="+1d" xml:space="preserve">
@@ -283,10 +275,6 @@
         <source>Apple Move Time</source>
         <note>HealthKit Data</note>
       </trans-unit>
-      <trans-unit id="Asleep" xml:space="preserve">
-        <source>Asleep</source>
-        <note>HealthKit Data</note>
-      </trans-unit>
       <trans-unit id="Asleep Core" xml:space="preserve">
         <source>Asleep Core</source>
         <note>HealthKit Data</note>
@@ -345,7 +333,7 @@
       <trans-unit id="Circular" xml:space="preserve">
         <source>Circular</source>
         <note>Widget Size
-   Widget Size Name</note>
+Widget Size Name</note>
       </trans-unit>
       <trans-unit id="Clear Sky" xml:space="preserve">
         <source>Clear Sky</source>
@@ -429,7 +417,7 @@
         <source>Extra Large</source>
         <target>Extra iso</target>
         <note>Widget Size
-   Widget Size Name</note>
+Widget Size Name</note>
       </trans-unit>
       <trans-unit id="Fair" xml:space="preserve">
         <source>Fair</source>
@@ -546,7 +534,7 @@
       <trans-unit id="Inline" xml:space="preserve">
         <source>Inline</source>
         <note>Widget Size
-   Widget Size Name</note>
+Widget Size Name</note>
       </trans-unit>
       <trans-unit id="Intrauterine Device" xml:space="preserve">
         <source>Intrauterine Device</source>
@@ -791,7 +779,7 @@
       <trans-unit id="Rectangular" xml:space="preserve">
         <source>Rectangular</source>
         <note>Widget Size
-   Widget Size Name</note>
+Widget Size Name</note>
       </trans-unit>
       <trans-unit id="Reloading Thumbnails" xml:space="preserve">
         <source>Reloading Thumbnails</source>
@@ -825,6 +813,11 @@
       <trans-unit id="Repeat Very Low" xml:space="preserve">
         <source>Repeat Very Low</source>
         <note>HealthKit Data</note>
+      </trans-unit>
+      <trans-unit id="Resizable" xml:space="preserve">
+        <source>Resizable</source>
+        <note>Widget Size Name
+Widget Slot</note>
       </trans-unit>
       <trans-unit id="S" xml:space="preserve">
         <source>S</source>
@@ -1023,7 +1016,7 @@
   </file>
   <file original="Watchy WatchKit Extension/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1081,6 +1074,10 @@
         <source>Widgy is requesting access to your Location since it's a requirement for accessing the name of WiFi network. Earthquakes, Altitude and Sunrise/Sunset also need your location. As with every other permission in Widgy, this is optional.</source>
         <note>Privacy - Location When In Use Usage Description</note>
       </trans-unit>
+      <trans-unit id="NSMotionUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Pedometer to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Motion Usage Description</note>
+      </trans-unit>
       <trans-unit id="NSPhotoLibraryAddUsageDescription" xml:space="preserve">
         <source>Widgy is requesting write access to your Photo Library to save QR codes or image previews. As with every other permission in Widgy, this is optional.</source>
         <note>Privacy - Photo Library Additions Usage Description</note>
@@ -1097,7 +1094,7 @@
   </file>
   <file original="Watchy WatchKit Extension/en.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="+1d" xml:space="preserve">
@@ -1974,7 +1971,7 @@
   </file>
   <file original="WatchyComplications/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2052,7 +2049,7 @@
   </file>
   <file original="WatchyComplications/en.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="%lld" xml:space="preserve">
@@ -2904,7 +2901,7 @@
   </file>
   <file original="Widgy/en.lproj/InfoPlist.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2990,15 +2987,11 @@
   </file>
   <file original="Widgy/en.lproj/Localizable.strings" source-language="en" target-language="fi" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="15.2" build-num="15C500b"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.0" build-num="16A242d"/>
     </header>
     <body>
       <trans-unit id="%@" xml:space="preserve">
         <source>%@</source>
-        <note>No comment provided by engineer.</note>
-      </trans-unit>
-      <trans-unit id="%@: %@x%@" xml:space="preserve">
-        <source>%1$@: %2$@x%3$@</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
       <trans-unit id="+1d" xml:space="preserve">
@@ -3406,7 +3399,7 @@
       </trans-unit>
       <trans-unit id="Activity" xml:space="preserve">
         <source>Activity</source>
-        <note>Tap Actions</note>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Activity Move Mode" xml:space="preserve">
         <source>Activity Move Mode</source>
@@ -3415,7 +3408,7 @@
       <trans-unit id="Add" xml:space="preserve">
         <source>Add</source>
         <note>Button Title
-   Edit Date Option</note>
+Edit Date Option</note>
       </trans-unit>
       <trans-unit id="Add New Color" xml:space="preserve">
         <source>Add New Color</source>
@@ -3449,6 +3442,10 @@
       <trans-unit id="Additional Guides" xml:space="preserve">
         <source>Additional Guides</source>
         <note>Editor</note>
+      </trans-unit>
+      <trans-unit id="Additive Button" xml:space="preserve">
+        <source>Additive Button</source>
+        <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="Advice Slip" xml:space="preserve">
         <source>Advice Slip</source>
@@ -3550,7 +3547,7 @@
       <trans-unit id="Alignment" xml:space="preserve">
         <source>Alignment</source>
         <note>Bar Chart Drawer
-   Drawer Tab Name</note>
+Drawer Tab Name</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
         <source>All</source>
@@ -3577,6 +3574,10 @@
         <source>All Sizes</source>
         <note>Create Filters</note>
       </trans-unit>
+      <trans-unit id="All widgets support color and font theming, make sure they look good themed as well." xml:space="preserve">
+        <source>All widgets support color and font theming, make sure they look good themed as well.</source>
+        <note>Warnings Drawer</note>
+      </trans-unit>
       <trans-unit id="Allow" xml:space="preserve">
         <source>Allow</source>
         <note>Albums Drawer</note>
@@ -3597,11 +3598,12 @@
       <trans-unit id="Always" xml:space="preserve">
         <source>Always</source>
         <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Curved Text Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Text Drawer</note>
+Circle Chart Drawer
+Curved Text Drawer
+Effects Drawer
+Gauge Drawer
+Line Chart Drawer
+Text Drawer</note>
       </trans-unit>
       <trans-unit id="Amber" xml:space="preserve">
         <source>Amber</source>
@@ -3653,10 +3655,6 @@
         <source>Any</source>
         <note>Explore Filters</note>
       </trans-unit>
-      <trans-unit id="Any Other iPad" xml:space="preserve">
-        <source>Any Other iPad</source>
-        <note>Transparent Background</note>
-      </trans-unit>
       <trans-unit id="Any donation is appreciated!" xml:space="preserve">
         <source>Any donation is appreciated!</source>
         <note>Tip Jar</note>
@@ -3669,7 +3667,7 @@
       <trans-unit id="App Language" xml:space="preserve">
         <source>App Language</source>
         <note>Settings View
-   Window Title</note>
+Window Title</note>
       </trans-unit>
       <trans-unit id="App Store" xml:space="preserve">
         <source>App Store</source>
@@ -3698,12 +3696,12 @@
       <trans-unit id="Apple Gauge" xml:space="preserve">
         <source>Apple Gauge</source>
         <note>Drawer Tab Name
-   Layer Component</note>
+Layer Component</note>
       </trans-unit>
       <trans-unit id="Apple Move Time" xml:space="preserve">
         <source>Apple Move Time</source>
         <note>Data Sources
-   HealthKit Data</note>
+HealthKit Data</note>
       </trans-unit>
       <trans-unit id="Apple SF Symbols" xml:space="preserve">
         <source>Apple SF Symbols</source>
@@ -3735,7 +3733,7 @@
       </trans-unit>
       <trans-unit id="Apple's Apps" xml:space="preserve">
         <source>Apple's Apps</source>
-        <note>Tap Actions</note>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Apply Theme?" xml:space="preserve">
         <source>Apply Theme?</source>
@@ -3748,14 +3746,6 @@
       <trans-unit id="Apps not present on this list need to be opened via the Shortcuts app." xml:space="preserve">
         <source>Apps not present on this list need to be opened via the Shortcuts app.</source>
         <note>Tap Actions</note>
-      </trans-unit>
-      <trans-unit id="Apps without a name are always on top of the list!" xml:space="preserve">
-        <source>Apps without a name are always on top of the list!</source>
-        <note>Onboarding</note>
-      </trans-unit>
-      <trans-unit id="Apps without a name aren't searchable, so when adding Widgy widgets to your device, you'll have to find the app by the icon." xml:space="preserve">
-        <source>Apps without a name aren't searchable, so when adding Widgy widgets to your device, you'll have to find the app by the icon.</source>
-        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Aquarius" xml:space="preserve">
         <source>Aquarius</source>
@@ -3787,11 +3777,8 @@
       </trans-unit>
       <trans-unit id="As of iOS 16.0, Live Timer, Analog Seconds, and Blink are not working. Hopefully, Apple will fix the issue soon." xml:space="preserve">
         <source>As of iOS 16.0, Live Timer, Analog Seconds, and Blink are not working. Hopefully, Apple will fix the issue soon.</source>
-        <note>Pick View</note>
-      </trans-unit>
-      <trans-unit id="Asleep" xml:space="preserve">
-        <source>Asleep</source>
-        <note>HealthKit Data</note>
+        <note>Pick View
+Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Asleep Core" xml:space="preserve">
         <source>Asleep Core</source>
@@ -3820,7 +3807,7 @@
       <trans-unit id="Async + No main()" xml:space="preserve">
         <source>Async + No main()</source>
         <note>Data Sources
-   Window Title</note>
+Window Title</note>
       </trans-unit>
       <trans-unit id="Async + No main() uses 'sendToWidgy(VALUE)' to return value to Widgy. You can use fetch, async/await, or any other asynchronous method of fetching data." xml:space="preserve">
         <source>Async + No main() uses 'sendToWidgy(VALUE)' to return value to Widgy. You can use fetch, async/await, or any other asynchronous method of fetching data.</source>
@@ -3850,14 +3837,14 @@
       <trans-unit id="Auto" xml:space="preserve">
         <source>Auto</source>
         <note>Apple Gauge Drawer
-   Bar Chart Drawer
-   Circle Chart Drawer
-   Curved Text Drawer
-   Effects Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Ring Chart Drawer
-   Text Drawer</note>
+Bar Chart Drawer
+Circle Chart Drawer
+Curved Text Drawer
+Effects Drawer
+Gauge Drawer
+Line Chart Drawer
+Ring Chart Drawer
+Text Drawer</note>
       </trans-unit>
       <trans-unit id="Auto Lines" xml:space="preserve">
         <source>Auto Lines</source>
@@ -3917,8 +3904,7 @@
       </trans-unit>
       <trans-unit id="Backups" xml:space="preserve">
         <source>Backups</source>
-        <note>Main Tabbar
-   Settings View</note>
+        <note>Main Tabbar</note>
       </trans-unit>
       <trans-unit id="Bar Chart" xml:space="preserve">
         <source>Bar Chart</source>
@@ -3969,6 +3955,10 @@
         <source>Battery mAh</source>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Be sure to check out Help section for a better understanding of those limitations." xml:space="preserve">
+        <source>Be sure to check out Help section for a better understanding of those limitations.</source>
+        <note>Onboarding</note>
+      </trans-unit>
       <trans-unit id="Be sure to check out Help tab for a better understanding of those limitations." xml:space="preserve">
         <source>Be sure to check out Help tab for a better understanding of those limitations.</source>
         <note>Onboarding</note>
@@ -3995,6 +3985,14 @@
       </trans-unit>
       <trans-unit id="Bladder Incontinence" xml:space="preserve">
         <source>Bladder Incontinence</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Bleeding After Pregnancy" xml:space="preserve">
+        <source>Bleeding After Pregnancy</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Bleeding During Pregnancy" xml:space="preserve">
+        <source>Bleeding During Pregnancy</source>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Blend Mode" xml:space="preserve">
@@ -4054,6 +4052,10 @@
         <source>Bluetooth Status</source>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Bluetooth permissions missing." xml:space="preserve">
+        <source>Bluetooth permissions missing.</source>
+        <note>Warnings Drawer</note>
+      </trans-unit>
       <trans-unit id="Blur" xml:space="preserve">
         <source>Blur</source>
         <note>Effects Drawer</note>
@@ -4086,10 +4088,6 @@
         <source>Books</source>
         <note>Tap Actions</note>
       </trans-unit>
-      <trans-unit id="Bored API" xml:space="preserve">
-        <source>Bored API</source>
-        <note>Data Sources</note>
-      </trans-unit>
       <trans-unit id="Both" xml:space="preserve">
         <source>Both</source>
         <note>Color Wheel
@@ -4098,7 +4096,7 @@
       <trans-unit id="Both Modes" xml:space="preserve">
         <source>Both Modes</source>
         <note>Color Wheel
-   Image Drawer</note>
+Image Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom" xml:space="preserve">
         <source>Bottom</source>
@@ -4258,16 +4256,20 @@
       <trans-unit id="Calendar Today" xml:space="preserve">
         <source>Calendar Today</source>
         <note>Data Sources
-   Misc</note>
+Misc</note>
       </trans-unit>
       <trans-unit id="Calendar Tomorrow" xml:space="preserve">
         <source>Calendar Tomorrow</source>
         <note>Data Sources
-   Misc</note>
+Misc</note>
       </trans-unit>
       <trans-unit id="Calendar Type" xml:space="preserve">
         <source>Calendar Type</source>
         <note>Calendar Drawer</note>
+      </trans-unit>
+      <trans-unit id="Calendar permissions missing." xml:space="preserve">
+        <source>Calendar permissions missing.</source>
+        <note>Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Camera" xml:space="preserve">
         <source>Camera</source>
@@ -4434,7 +4436,7 @@
       <trans-unit id="Circular" xml:space="preserve">
         <source>Circular</source>
         <note>Create Filters
-   Widget Size</note>
+Widget Size</note>
       </trans-unit>
       <trans-unit id="Circular Watch Slots" xml:space="preserve">
         <source>Circular Watch Slots</source>
@@ -4459,7 +4461,7 @@
       <trans-unit id="Clear Cache" xml:space="preserve">
         <source>Clear Cache</source>
         <note>Editor
-   Settings View</note>
+Settings View</note>
       </trans-unit>
       <trans-unit id="Clear Cache?" xml:space="preserve">
         <source>Clear Cache?</source>
@@ -4481,7 +4483,7 @@
       <trans-unit id="Clip To Frame" xml:space="preserve">
         <source>Clip To Frame</source>
         <note>Editor
-   Effects Drawer</note>
+Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Clips" xml:space="preserve">
         <source>Clips</source>
@@ -4531,7 +4533,8 @@
       </trans-unit>
       <trans-unit id="Color Dodge blend mode isn't working properly on Live Activities. Hopefully, Apple will fix the issue soon." xml:space="preserve">
         <source>Color Dodge blend mode isn't working properly on Live Activities. Hopefully, Apple will fix the issue soon.</source>
-        <note>Pick View</note>
+        <note>Pick View
+Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Color Mode 1" xml:space="preserve">
         <source>Color Mode 1</source>
@@ -4571,7 +4574,13 @@
       </trans-unit>
       <trans-unit id="Combining blend modes and transition on the same layer or distributed across the same group will result in broken blend modes." xml:space="preserve">
         <source>Combining blend modes and transition on the same layer or distributed across the same group will result in broken blend modes.</source>
-        <note>Effects Drawer</note>
+        <note>Effects Drawer
+Warnings Drawer</note>
+      </trans-unit>
+      <trans-unit id="Combining blur and shadows on the same layer or distributed across the same group will result in broken shadow." xml:space="preserve">
+        <source>Combining blur and shadows on the same layer or distributed across the same group will result in broken shadow.</source>
+        <note>Effects Drawer
+Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Commerce" xml:space="preserve">
         <source>Commerce</source>
@@ -4588,32 +4597,32 @@
       <trans-unit id="Compact (Always 1 Decimal)" xml:space="preserve">
         <source>Compact (Always 1 Decimal)</source>
         <note>Apple Gauge Drawer
-   Bar Chart Drawer
-   Circle Chart Drawer
-   Curved Text Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Text Drawer</note>
+Bar Chart Drawer
+Circle Chart Drawer
+Curved Text Drawer
+Gauge Drawer
+Line Chart Drawer
+Text Drawer</note>
       </trans-unit>
       <trans-unit id="Compact (Max 1 Decimal)" xml:space="preserve">
         <source>Compact (Max 1 Decimal)</source>
         <note>Apple Gauge Drawer
-   Bar Chart Drawer
-   Circle Chart Drawer
-   Curved Text Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Text Drawer</note>
+Bar Chart Drawer
+Circle Chart Drawer
+Curved Text Drawer
+Gauge Drawer
+Line Chart Drawer
+Text Drawer</note>
       </trans-unit>
       <trans-unit id="Compact (No Decimals)" xml:space="preserve">
         <source>Compact (No Decimals)</source>
         <note>Apple Gauge Drawer
-   Bar Chart Drawer
-   Circle Chart Drawer
-   Curved Text Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Text Drawer</note>
+Bar Chart Drawer
+Circle Chart Drawer
+Curved Text Drawer
+Gauge Drawer
+Line Chart Drawer
+Text Drawer</note>
       </trans-unit>
       <trans-unit id="Compact Leading" xml:space="preserve">
         <source>Compact Leading</source>
@@ -4634,10 +4643,6 @@
       <trans-unit id="Completed" xml:space="preserve">
         <source>Completed</source>
         <note>Watchy Sync View</note>
-      </trans-unit>
-      <trans-unit id="Complication Tint Threshold" xml:space="preserve">
-        <source>Complication Tint Threshold</source>
-        <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Confirm" xml:space="preserve">
         <source>Confirm</source>
@@ -4681,11 +4686,11 @@
       </trans-unit>
       <trans-unit id="Contents Of File" xml:space="preserve">
         <source>Contents Of File</source>
-        <note>Tap Actions</note>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Contents Of Web URL" xml:space="preserve">
         <source>Contents Of Web URL</source>
-        <note>Tap Actions</note>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Continue" xml:space="preserve">
         <source>Continue</source>
@@ -4694,10 +4699,6 @@
       <trans-unit id="Continue Syncing" xml:space="preserve">
         <source>Continue Syncing</source>
         <note>Full Version Purchase Screen</note>
-      </trans-unit>
-      <trans-unit id="Continue With This Screenshot Anyway" xml:space="preserve">
-        <source>Continue With This Screenshot Anyway</source>
-        <note>Popup Button</note>
       </trans-unit>
       <trans-unit id="Contraceptive" xml:space="preserve">
         <source>Contraceptive</source>
@@ -4816,13 +4817,9 @@
         <source>Create Tab</source>
         <note>Onboarding</note>
       </trans-unit>
-      <trans-unit id="Crop Center X" xml:space="preserve">
-        <source>Crop Center X</source>
-        <note>Layer Properties</note>
-      </trans-unit>
-      <trans-unit id="Crop Center Y" xml:space="preserve">
-        <source>Crop Center Y</source>
-        <note>Layer Properties</note>
+      <trans-unit id="Crop" xml:space="preserve">
+        <source>Crop</source>
+        <note>Frame Drawer</note>
       </trans-unit>
       <trans-unit id="Crop Height" xml:space="preserve">
         <source>Crop Height</source>
@@ -4831,6 +4828,18 @@
       <trans-unit id="Crop Width" xml:space="preserve">
         <source>Crop Width</source>
         <note>Layer Properties</note>
+      </trans-unit>
+      <trans-unit id="Crop X Position" xml:space="preserve">
+        <source>Crop X Position</source>
+        <note>Layer Properties</note>
+      </trans-unit>
+      <trans-unit id="Crop Y Position" xml:space="preserve">
+        <source>Crop Y Position</source>
+        <note>Layer Properties</note>
+      </trans-unit>
+      <trans-unit id="Cross Country Skiing Speed" xml:space="preserve">
+        <source>Cross Country Skiing Speed</source>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Cryptocurrency" xml:space="preserve">
         <source>Cryptocurrency</source>
@@ -4869,7 +4878,7 @@
       <trans-unit id="Currency For Stocks" xml:space="preserve">
         <source>Currency For Stocks</source>
         <note>Widget Settings View
-   Window Title</note>
+Window Title</note>
       </trans-unit>
       <trans-unit id="Current Earthly Branch" xml:space="preserve">
         <source>Current Earthly Branch</source>
@@ -5017,7 +5026,7 @@
       <trans-unit id="Custom Value" xml:space="preserve">
         <source>Custom Value</source>
         <note>Chart Data Drawer
-   Data Sources</note>
+Data Sources</note>
       </trans-unit>
       <trans-unit id="Custom Values For Min/Max" xml:space="preserve">
         <source>Custom Values For Min/Max</source>
@@ -5206,9 +5215,17 @@
         <source>Data Source Symbol Scale</source>
         <note>Calendar Drawer</note>
       </trans-unit>
+      <trans-unit id="Data fetch time" xml:space="preserve">
+        <source>Data fetch time</source>
+        <note>Warnings Drawer</note>
+      </trans-unit>
       <trans-unit id="Data not available for this widget/device combination." xml:space="preserve">
         <source>Data not available for this widget/device combination.</source>
         <note>Incompatible data source</note>
+      </trans-unit>
+      <trans-unit id="Data source not available on" xml:space="preserve">
+        <source>Data source not available on</source>
+        <note>Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
         <source>Date</source>
@@ -5276,6 +5293,10 @@
         <note>Calendar Drawer
    Window Title</note>
       </trans-unit>
+      <trans-unit id="Day/Night" xml:space="preserve">
+        <source>Day/Night</source>
+        <note>Data Sources</note>
+      </trans-unit>
       <trans-unit id="Daylight Remaining" xml:space="preserve">
         <source>Daylight Remaining</source>
         <note>Data Sources</note>
@@ -5330,8 +5351,8 @@
       </trans-unit>
       <trans-unit id="Decimals" xml:space="preserve">
         <source>Decimals</source>
-        <note>Bar Chart Drawer
-   Text Drawer</note>
+        <note>Chart Drawer
+Text Drawer</note>
       </trans-unit>
       <trans-unit id="Decreased" xml:space="preserve">
         <source>Decreased</source>
@@ -5362,7 +5383,7 @@
       <trans-unit id="Delete Your Explore Account" xml:space="preserve">
         <source>Delete Your Explore Account</source>
         <note>Settings View
-   Window Title</note>
+Window Title</note>
       </trans-unit>
       <trans-unit id="Desaturate When In 'Always On' Mode" xml:space="preserve">
         <source>Desaturate When In 'Always On' Mode</source>
@@ -5599,12 +5620,28 @@
         <target>Etäisyys</target>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Distance Cross Country Skiing" xml:space="preserve">
+        <source>Distance Cross Country Skiing</source>
+        <note>Data Sources</note>
+      </trans-unit>
       <trans-unit id="Distance Cycling" xml:space="preserve">
         <source>Distance Cycling</source>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Distance Downhill Snow Sports" xml:space="preserve">
         <source>Distance Downhill Snow Sports</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Distance Paddle Sports" xml:space="preserve">
+        <source>Distance Paddle Sports</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Distance Rowing" xml:space="preserve">
+        <source>Distance Rowing</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Distance Skating Sports" xml:space="preserve">
+        <source>Distance Skating Sports</source>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Distance Swimming" xml:space="preserve">
@@ -5699,7 +5736,8 @@
       </trans-unit>
       <trans-unit id="Due to the unusual aspect ratio of Live Activities on some iPads, Large Live Activities might look a bit squashed on your device." xml:space="preserve">
         <source>Due to the unusual aspect ratio of Live Activities on some iPads, Large Live Activities might look a bit squashed on your device.</source>
-        <note>Pick View</note>
+        <note>Pick View
+Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Duplicate" xml:space="preserve">
         <source>Duplicate</source>
@@ -5717,7 +5755,7 @@
       <trans-unit id="Dynamic Island" xml:space="preserve">
         <source>Dynamic Island</source>
         <note>Widget Destination
-   Widget Slot Name</note>
+Widget Slot Name</note>
       </trans-unit>
       <trans-unit id="Dynamic Island Compact Leading" xml:space="preserve">
         <source>Dynamic Island Compact Leading</source>
@@ -5734,23 +5772,23 @@
       <trans-unit id="Dynamic Island Large" xml:space="preserve">
         <source>Dynamic Island Large</source>
         <note>Create Filters
-   Widget Size</note>
+Widget Size</note>
       </trans-unit>
       <trans-unit id="Dynamic Island Medium" xml:space="preserve">
         <source>Dynamic Island Medium</source>
         <note>Create Filters
-   Widget Size</note>
+Widget Size</note>
       </trans-unit>
       <trans-unit id="Dynamic Island Minimal" xml:space="preserve">
         <source>Dynamic Island Minimal</source>
         <note>Create Filters
-   Widget Size
-   Widget Size Name</note>
+Widget Size
+Widget Size Name</note>
       </trans-unit>
       <trans-unit id="Dynamic Island Small" xml:space="preserve">
         <source>Dynamic Island Small</source>
         <note>Create Filters
-   Widget Size</note>
+Widget Size</note>
       </trans-unit>
       <trans-unit id="E" xml:space="preserve">
         <source>E</source>
@@ -5783,8 +5821,8 @@
       <trans-unit id="Edit Date" xml:space="preserve">
         <source>Edit Date</source>
         <note>Curved Text Drawer
-   Text Drawer
-   Window Title</note>
+Text Drawer
+Window Title</note>
       </trans-unit>
       <trans-unit id="Edit Gradient" xml:space="preserve">
         <source>Edit Gradient</source>
@@ -5929,6 +5967,10 @@
    Popup Title
    Unsplash</note>
       </trans-unit>
+      <trans-unit id="Estimated Workout Effort Score" xml:space="preserve">
+        <source>Estimated Workout Effort Score</source>
+        <note>Data Sources</note>
+      </trans-unit>
       <trans-unit id="Estrogen Surge" xml:space="preserve">
         <source>Estrogen Surge</source>
         <note>HealthKit Data</note>
@@ -5976,27 +6018,31 @@
         <source>Exchange Rates (Inverted)</source>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Exclusive Segment Auto Min/Max" xml:space="preserve">
+        <source>Exclusive Segment Auto Min/Max</source>
+        <note>Chart Drawer</note>
+      </trans-unit>
       <trans-unit id="Exclusive Segment Max" xml:space="preserve">
         <source>Exclusive Segment Max</source>
         <note>Apple Gauge Drawer
-   Bar Chart Drawer
-   Circle Chart Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Ring Chart Drawer</note>
+Bar Chart Drawer
+Circle Chart Drawer
+Gauge Drawer
+Line Chart Drawer
+Ring Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Exclusive Segment Min" xml:space="preserve">
         <source>Exclusive Segment Min</source>
         <note>Apple Gauge Drawer
-   Bar Chart Drawer
-   Circle Chart Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Ring Chart Drawer</note>
+Bar Chart Drawer
+Circle Chart Drawer
+Gauge Drawer
+Line Chart Drawer
+Ring Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Exclusive Segment Mode" xml:space="preserve">
         <source>Exclusive Segment Mode</source>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Expand All Groups" xml:space="preserve">
         <source>Expand All Groups</source>
@@ -6018,13 +6064,26 @@
         <source>Explore Tab</source>
         <note>Onboarding</note>
       </trans-unit>
-      <trans-unit id="Export" xml:space="preserve">
-        <source>Export</source>
-        <note>Create Tab</note>
+      <trans-unit id="Export 'Imported'" xml:space="preserve">
+        <source>Export 'Imported'</source>
+        <note>Popup Title</note>
+      </trans-unit>
+      <trans-unit id="Export 'Yours'" xml:space="preserve">
+        <source>Export 'Yours'</source>
+        <note>Popup Title</note>
       </trans-unit>
       <trans-unit id="Export All" xml:space="preserve">
         <source>Export All</source>
-        <note>Stash View</note>
+        <note>Popup Title
+Stash View</note>
+      </trans-unit>
+      <trans-unit id="Export Transparency Cutouts" xml:space="preserve">
+        <source>Export Transparency Cutouts</source>
+        <note>Transparent Background</note>
+      </trans-unit>
+      <trans-unit id="Export Widgets From Home/Lock/Live/Watch" xml:space="preserve">
+        <source>Export Widgets From Home/Lock/Live/Watch</source>
+        <note>Create Tab</note>
       </trans-unit>
       <trans-unit id="External Action" xml:space="preserve">
         <source>External Action</source>
@@ -6038,7 +6097,7 @@
         <source>Extra Large</source>
         <target>Extra iso</target>
         <note>Create Filters
-   Widget Size</note>
+Widget Size</note>
       </trans-unit>
       <trans-unit id="Extra Large Widgy Slots" xml:space="preserve">
         <source>Extra Large Widgy Slots</source>
@@ -6134,7 +6193,7 @@
       <trans-unit id="Filter" xml:space="preserve">
         <source>Filter</source>
         <note>Backup View
-   Explore Tab</note>
+Explore Tab</note>
       </trans-unit>
       <trans-unit id="Filter Layers" xml:space="preserve">
         <source>Filter Layers</source>
@@ -6347,12 +6406,12 @@
       <trans-unit id="Fraction" xml:space="preserve">
         <source>Fraction</source>
         <note>Apple Gauge Drawer
-   Bar Chart Drawer
-   Circle Chart Drawer
-   Curved Text Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Text Drawer</note>
+Bar Chart Drawer
+Circle Chart Drawer
+Curved Text Drawer
+Gauge Drawer
+Line Chart Drawer
+Text Drawer</note>
       </trans-unit>
       <trans-unit id="Frame" xml:space="preserve">
         <source>Frame</source>
@@ -6513,6 +6572,10 @@
         <source>Go to your home screen and enter jiggle mode. Scroll to the empty page on the far right and take a screenshot.</source>
         <note>Transparent Background</note>
       </trans-unit>
+      <trans-unit id="Goodies" xml:space="preserve">
+        <source>Goodies</source>
+        <note>Main Tabbar</note>
+      </trans-unit>
       <trans-unit id="Gradient" xml:space="preserve">
         <source>Gradient</source>
         <note>Drawer Tab Name
@@ -6556,12 +6619,17 @@
       </trans-unit>
       <trans-unit id="Group rotations combined with group's frame resizing will result in incorrect marching ants outline in the editor. This might improve in the future." xml:space="preserve">
         <source>Group rotations combined with group's frame resizing will result in incorrect marching ants outline in the editor. This might improve in the future.</source>
-        <note>Frame Drawer</note>
+        <note>Frame Drawer
+Warnings Drawer</note>
+      </trans-unit>
+      <trans-unit id="Group transitions set to 'Off' will disable all child transitions as well." xml:space="preserve">
+        <source>Group transitions set to 'Off' will disable all child transitions as well.</source>
+        <note>Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Grouping Separator" xml:space="preserve">
         <source>Grouping Separator</source>
-        <note>Bar Chart Drawer
-   Text Drawer</note>
+        <note>Chart Drawer
+Text Drawer</note>
       </trans-unit>
       <trans-unit id="Guided Access" xml:space="preserve">
         <source>Guided Access</source>
@@ -6715,7 +6783,11 @@
       <trans-unit id="Health Sources" xml:space="preserve">
         <source>Health Sources</source>
         <note>Widget Settings View
-   Window Title</note>
+Window Title</note>
+      </trans-unit>
+      <trans-unit id="Health permissions missing." xml:space="preserve">
+        <source>Health permissions missing.</source>
+        <note>Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Heart" xml:space="preserve">
         <source>Heart</source>
@@ -6762,7 +6834,7 @@
       <trans-unit id="Height" xml:space="preserve">
         <source>Height</source>
         <note>Data Sources
-   Layer Properties</note>
+Layer Properties</note>
       </trans-unit>
       <trans-unit id="Height Inset" xml:space="preserve">
         <source>Height Inset</source>
@@ -6772,9 +6844,13 @@
         <source>Help</source>
         <note>Main Tabbar</note>
       </trans-unit>
+      <trans-unit id="Help / FAQ" xml:space="preserve">
+        <source>Help / FAQ</source>
+        <note>Create Tab Top Actions</note>
+      </trans-unit>
       <trans-unit id="Help Translating" xml:space="preserve">
         <source>Help Translating</source>
-        <note>Settings View</note>
+        <note>Create Tab Top Actions</note>
       </trans-unit>
       <trans-unit id="Hexagon" xml:space="preserve">
         <source>Hexagon</source>
@@ -6791,10 +6867,6 @@
       <trans-unit id="Hide Widgy App Contents On Tap Actions" xml:space="preserve">
         <source>Hide Widgy App Contents On Tap Actions</source>
         <note>Widget Settings View</note>
-      </trans-unit>
-      <trans-unit id="Hiding the name under your widget is not something that is officially supported." xml:space="preserve">
-        <source>Hiding the name under your widget is not something that is officially supported.</source>
-        <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="Hiding the name under your widget is not something that is officially supported. Some apps replace their name with a special unicode character, but those apps won't have a good time once Apple catches them red handed." xml:space="preserve">
         <source>Hiding the name under your widget is not something that is officially supported. Some apps replace their name with a special unicode character, but those apps won't have a good time once Apple catches them red handed.</source>
@@ -7045,8 +7117,8 @@
         <source>If that happens, the widget on the home screen won't load and will look broken.</source>
         <note>Image Drawer</note>
       </trans-unit>
-      <trans-unit id="If the sync fails, troubleshoot via the Help tab in Widgy." xml:space="preserve">
-        <source>If the sync fails, troubleshoot via the Help tab in Widgy.</source>
+      <trans-unit id="If the sync fails, troubleshoot via the Help section in Widgy." xml:space="preserve">
+        <source>If the sync fails, troubleshoot via the Help section in Widgy.</source>
         <note>Watchy Sync View</note>
       </trans-unit>
       <trans-unit id="If there are any conflicts between new and old values, do the following:" xml:space="preserve">
@@ -7071,7 +7143,8 @@
       </trans-unit>
       <trans-unit id="If you'd like to use the new iOS 17 widget reload, which doesn't open the Widgy app, make sure that 'Widget Action' is set to 'Reload Widget' or 'Button', 'Vibrate' is either set to 'No' or 'Yes', and 'External Action' is set to 'Return To Home Screen'. Also, this won't work on Live Activities and Dynamic Island." xml:space="preserve">
         <source>If you'd like to use the new iOS 17 widget reload, which doesn't open the Widgy app, make sure that 'Widget Action' is set to 'Reload Widget' or 'Button', 'Vibrate' is either set to 'No' or 'Yes', and 'External Action' is set to 'Return To Home Screen'. Also, this won't work on Live Activities and Dynamic Island.</source>
-        <note>Tap Action Drawer</note>
+        <note>Tap Action Drawer
+Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="If you're using non-asynchronous Javascript you must implement 'func main()' to return value to Widgy." xml:space="preserve">
         <source>If you're using non-asynchronous Javascript you must implement 'func main()' to return value to Widgy.</source>
@@ -7123,6 +7196,10 @@
         <source>Images failed to sync</source>
         <note>Watchy Sync View</note>
       </trans-unit>
+      <trans-unit id="Images memory usage" xml:space="preserve">
+        <source>Images memory usage</source>
+        <note>Warnings Drawer</note>
+      </trans-unit>
       <trans-unit id="Implant" xml:space="preserve">
         <source>Implant</source>
         <note>HealthKit Data</note>
@@ -7151,7 +7228,7 @@
       <trans-unit id="Import From Photos" xml:space="preserve">
         <source>Import From Photos</source>
         <note>Button Title
-   Stash View</note>
+Stash View</note>
       </trans-unit>
       <trans-unit id="Import From Photos (With PNG Transparency)" xml:space="preserve">
         <source>Import From Photos (With PNG Transparency)</source>
@@ -7197,11 +7274,14 @@
         <source>Import Widgy</source>
         <note>Create Tab Top Actions</note>
       </trans-unit>
+      <trans-unit id="Important Notice" xml:space="preserve">
+        <source>Important Notice</source>
+        <note>Onboarding</note>
+      </trans-unit>
       <trans-unit id="Imported" xml:space="preserve">
         <source>Imported</source>
-        <note>Create Filters
-   Import Screen
-   Widget Browser Sections</note>
+        <note>Import Screen
+Widget Browser Sections</note>
       </trans-unit>
       <trans-unit id="Imported Widgys" xml:space="preserve">
         <source>Imported Widgys</source>
@@ -7299,7 +7379,7 @@
       <trans-unit id="Inline" xml:space="preserve">
         <source>Inline</source>
         <note>Create Filters
-   Widget Size</note>
+Widget Size</note>
       </trans-unit>
       <trans-unit id="Inline Watch Slots" xml:space="preserve">
         <source>Inline Watch Slots</source>
@@ -7335,8 +7415,8 @@
         <source>Inset Width</source>
         <note>Effects Drawer</note>
       </trans-unit>
-      <trans-unit id="Install Dark Mode Wallpaper Shortcut (Optional)" xml:space="preserve">
-        <source>Install Dark Mode Wallpaper Shortcut (Optional)</source>
+      <trans-unit id="Install Dark Mode Shortcut (Optional)" xml:space="preserve">
+        <source>Install Dark Mode Shortcut (Optional)</source>
         <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="Insulin Delivery" xml:space="preserve">
@@ -7436,6 +7516,10 @@
         <source>It looks like you selected an image that isn't an iPhone/iPad screenshot, or your device is not yet supported.</source>
         <note>Crop Tool</note>
       </trans-unit>
+      <trans-unit id="It's also strongly advised to read the Help section." xml:space="preserve">
+        <source>It's also strongly advised to read the Help section.</source>
+        <note>Onboarding</note>
+      </trans-unit>
       <trans-unit id="It's also strongly advised to read the Help tab." xml:space="preserve">
         <source>It's also strongly advised to read the Help tab.</source>
         <note>Onboarding</note>
@@ -7459,12 +7543,7 @@
       </trans-unit>
       <trans-unit id="Javascript [Async + No main()]" xml:space="preserve">
         <source>Javascript [Async + No main()]</source>
-        <note>Data Sources
-   Tap Actions</note>
-      </trans-unit>
-      <trans-unit id="Join Our Reddit" xml:space="preserve">
-        <source>Join Our Reddit</source>
-        <note>Settings View</note>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Join our Reddit community and ask the question there" xml:space="preserve">
         <source>Join our Reddit community and ask the question there</source>
@@ -7599,12 +7678,16 @@
         <source>Latitude (Seconds)</source>
         <note>Data Sources</note>
       </trans-unit>
-      <trans-unit id="Layer Appeared/Disappeared Transition" xml:space="preserve">
-        <source>Layer Appeared/Disappeared Transition</source>
+      <trans-unit id="Layer Appeared Transition" xml:space="preserve">
+        <source>Layer Appeared Transition</source>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Layer Contents Updated Animation" xml:space="preserve">
         <source>Layer Contents Updated Animation</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
+      <trans-unit id="Layer Disappeared Transition" xml:space="preserve">
+        <source>Layer Disappeared Transition</source>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Layer Name" xml:space="preserve">
@@ -7614,6 +7697,10 @@
       <trans-unit id="Layer Size" xml:space="preserve">
         <source>Layer Size</source>
         <note>Group Alignment</note>
+      </trans-unit>
+      <trans-unit id="Layer count" xml:space="preserve">
+        <source>Layer count</source>
+        <note>Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Layers" xml:space="preserve">
         <source>Layers</source>
@@ -7632,7 +7719,7 @@
       <trans-unit id="Leave Intact" xml:space="preserve">
         <source>Leave Intact</source>
         <note>Edit Date Option
-   Effects Drawer</note>
+Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Leave blank for automatic name" xml:space="preserve">
         <source>Leave blank for automatic name</source>
@@ -7746,7 +7833,7 @@
       <trans-unit id="List Separator" xml:space="preserve">
         <source>List Separator</source>
         <note>Curved Text Drawer
-   Text Drawer</note>
+Text Drawer</note>
       </trans-unit>
       <trans-unit id="Live" xml:space="preserve">
         <source>Live</source>
@@ -7763,17 +7850,17 @@
       <trans-unit id="Live Activity" xml:space="preserve">
         <source>Live Activity</source>
         <note>Widget Destination
-   Widget Size Name</note>
+Widget Size Name</note>
       </trans-unit>
       <trans-unit id="Live Activity Large" xml:space="preserve">
         <source>Live Activity Large</source>
         <note>Create Filters
-   Widget Size</note>
+Widget Size</note>
       </trans-unit>
       <trans-unit id="Live Activity Medium" xml:space="preserve">
         <source>Live Activity Medium</source>
         <note>Create Filters
-   Widget Size</note>
+Widget Size</note>
       </trans-unit>
       <trans-unit id="Live Activity Slots" xml:space="preserve">
         <source>Live Activity Slots</source>
@@ -7782,7 +7869,7 @@
       <trans-unit id="Live Activity Small" xml:space="preserve">
         <source>Live Activity Small</source>
         <note>Create Filters
-   Widget Size</note>
+Widget Size</note>
       </trans-unit>
       <trans-unit id="Live Timer (24 hours)" xml:space="preserve">
         <source>Live Timer (24 hours)</source>
@@ -7798,7 +7885,8 @@
       </trans-unit>
       <trans-unit id="Live activities and dynamic island can't reload the data automatically like regular widgets. This issue is most noticeable on widgets with timers and automation." xml:space="preserve">
         <source>Live activities and dynamic island can't reload the data automatically like regular widgets. This issue is most noticeable on widgets with timers and automation.</source>
-        <note>Live Activities Warning</note>
+        <note>Live Activities Warning
+Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Live activities are not live at all!" xml:space="preserve">
         <source>Live activities are not live at all!</source>
@@ -7835,6 +7923,10 @@
         <source>Location Picker</source>
         <note>Window Title</note>
       </trans-unit>
+      <trans-unit id="Location permissions missing." xml:space="preserve">
+        <source>Location permissions missing.</source>
+        <note>Warnings Drawer</note>
+      </trans-unit>
       <trans-unit id="Lock" xml:space="preserve">
         <source>Lock</source>
         <note>Main Tabbar</note>
@@ -7850,10 +7942,6 @@
       <trans-unit id="Lock screen widgets can also be used as Watch complications. While editing the lock screen widgets, open the documents tab to tweak some Watch-specific options." xml:space="preserve">
         <source>Lock screen widgets can also be used as Watch complications. While editing the lock screen widgets, open the documents tab to tweak some Watch-specific options.</source>
         <note>Watchy Help Message</note>
-      </trans-unit>
-      <trans-unit id="Lock screen widgets can have just one Tap Action. Having more than one Tap Action will result in unexpected behavior. This is a system limitation, and there's no workaround for this." xml:space="preserve">
-        <source>Lock screen widgets can have just one Tap Action. Having more than one Tap Action will result in unexpected behavior. This is a system limitation, and there's no workaround for this.</source>
-        <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="Long press on any custom color or gradient to show additional options." xml:space="preserve">
         <source>Long press on any custom color or gradient to show additional options.</source>
@@ -7984,8 +8072,12 @@
         <source>Make sure that the shortcut name is EXACTLY the same as listed in the Siri Shortcuts app.</source>
         <note>Tap Actions</note>
       </trans-unit>
-      <trans-unit id="Make sure to check out the Help tab for a better understanding of how Watchy works." xml:space="preserve">
-        <source>Make sure to check out the Help tab for a better understanding of how Watchy works.</source>
+      <trans-unit id="Make sure that your Widget looks good both in Light and Dark mode." xml:space="preserve">
+        <source>Make sure that your Widget looks good both in Light and Dark mode.</source>
+        <note>Warnings Drawer</note>
+      </trans-unit>
+      <trans-unit id="Make sure to check out the Help section for a better understanding of how Watchy works." xml:space="preserve">
+        <source>Make sure to check out the Help section for a better understanding of how Watchy works.</source>
         <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Male" xml:space="preserve">
@@ -8336,7 +8428,7 @@
       <trans-unit id="Minimal" xml:space="preserve">
         <source>Minimal</source>
         <note>Widget Size
-   Widget Size Name</note>
+Widget Size Name</note>
       </trans-unit>
       <trans-unit id="Minute" xml:space="preserve">
         <source>Minute</source>
@@ -8783,6 +8875,14 @@
         <source>Note that in small-sized widgets the whole widget is just one Tap Action.</source>
         <note>Tap Actions</note>
       </trans-unit>
+      <trans-unit id="Note that password protected Widgys won't get exported" xml:space="preserve">
+        <source>Note that password protected Widgys won't get exported</source>
+        <note>Create Tab</note>
+      </trans-unit>
+      <trans-unit id="Note that this widget is password protected." xml:space="preserve">
+        <source>Note that this widget is password protected.</source>
+        <note>Warnings Drawer</note>
+      </trans-unit>
       <trans-unit id="Note that tipping DOESN'T unlock Widgy slots!" xml:space="preserve">
         <source>Note that tipping DOESN'T unlock Widgy slots!</source>
         <note>Tip Jar</note>
@@ -8802,8 +8902,8 @@
       <trans-unit id="Notification Badge" xml:space="preserve">
         <source>Notification Badge</source>
         <note>Popup Title
-   Widget Slot Name
-   Window Title</note>
+Widget Slot Name
+Window Title</note>
       </trans-unit>
       <trans-unit id="Notification Permissions" xml:space="preserve">
         <source>Notification Permissions</source>
@@ -8854,6 +8954,10 @@
         <source>NumberAPI - Year</source>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="ONCE AGAIN, due to internal changes, you'll need to remove all Widgy Widgets from your Home Screen and re-add them again." xml:space="preserve">
+        <source>ONCE AGAIN, due to internal changes, you'll need to remove all Widgy Widgets from your Home Screen and re-add them again.</source>
+        <note>Onboarding</note>
+      </trans-unit>
       <trans-unit id="Object Alpha" xml:space="preserve">
         <source>Object Alpha</source>
         <note>Effects Drawer</note>
@@ -8891,6 +8995,10 @@
    Unicode Remapping
    Widget Default Messages</note>
       </trans-unit>
+      <trans-unit id="Off [Will Disable All Child Animations]" xml:space="preserve">
+        <source>Off [Will Disable All Child Animations]</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
       <trans-unit id="Official Joke API - Punchline" xml:space="preserve">
         <source>Official Joke API - Punchline</source>
         <note>Data Sources</note>
@@ -8909,10 +9017,6 @@
         <target>Päällä</target>
         <note>Widget Default Messages</note>
       </trans-unit>
-      <trans-unit id="On iPad, Apple choose to hide all widget names. As there's no option to hide the name on the iPhone, there's no option to display it on the iPad." xml:space="preserve">
-        <source>On iPad, Apple choose to hide all widget names. As there's no option to hide the name on the iPhone, there's no option to display it on the iPad.</source>
-        <note>Widgy Help Message</note>
-      </trans-unit>
       <trans-unit id="On/Off Switch Labels" xml:space="preserve">
         <source>On/Off Switch Labels</source>
         <note>Data Sources</note>
@@ -8920,6 +9024,14 @@
       <trans-unit id="Onboarding tutorials will be shown again." xml:space="preserve">
         <source>Onboarding tutorials will be shown again.</source>
         <note>Popup Text</note>
+      </trans-unit>
+      <trans-unit id="Only In Non-Tinted Mode" xml:space="preserve">
+        <source>Only In Non-Tinted Mode</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
+      <trans-unit id="Only In Tinted Mode" xml:space="preserve">
+        <source>Only In Tinted Mode</source>
+        <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Only Primary" xml:space="preserve">
         <source>Only Primary</source>
@@ -8931,6 +9043,10 @@
       </trans-unit>
       <trans-unit id="Opacity" xml:space="preserve">
         <source>Opacity</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
+      <trans-unit id="Opacity / Control Transitions Via Children" xml:space="preserve">
+        <source>Opacity / Control Transitions Via Children</source>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Opaque" xml:space="preserve">
@@ -8961,8 +9077,8 @@
         <source>Operating system prevents widgets from updating less than every 15 minutes. This is not something we can change.</source>
         <note>Help Message</note>
       </trans-unit>
-      <trans-unit id="Optimizing Stash..." xml:space="preserve">
-        <source>Optimizing Stash...</source>
+      <trans-unit id="Optimizing..." xml:space="preserve">
+        <source>Optimizing...</source>
         <note>System Message</note>
       </trans-unit>
       <trans-unit id="Optional" xml:space="preserve">
@@ -8992,12 +9108,16 @@
       <trans-unit id="Ordinal" xml:space="preserve">
         <source>Ordinal</source>
         <note>Apple Gauge Drawer
-   Bar Chart Drawer
-   Circle Chart Drawer
-   Curved Text Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Text Drawer</note>
+Bar Chart Drawer
+Circle Chart Drawer
+Curved Text Drawer
+Gauge Drawer
+Line Chart Drawer
+Text Drawer</note>
+      </trans-unit>
+      <trans-unit id="Origin" xml:space="preserve">
+        <source>Origin</source>
+        <note>Popup Title</note>
       </trans-unit>
       <trans-unit id="Original" xml:space="preserve">
         <source>Original</source>
@@ -9049,6 +9169,10 @@
       </trans-unit>
       <trans-unit id="PPI" xml:space="preserve">
         <source>PPI</source>
+        <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Paddle Sports Speed" xml:space="preserve">
+        <source>Paddle Sports Speed</source>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Paid Item Reposted For Free" xml:space="preserve">
@@ -9129,6 +9253,10 @@
         <note>Data Sources
    Explore Filters
    Pick View</note>
+      </trans-unit>
+      <trans-unit id="Pedometer permissions missing." xml:space="preserve">
+        <source>Pedometer permissions missing.</source>
+        <note>Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Pedometer/Altimeter" xml:space="preserve">
         <source>Pedometer/Altimeter</source>
@@ -9273,9 +9401,9 @@
       <trans-unit id="Prefix" xml:space="preserve">
         <source>Prefix</source>
         <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Gauge Drawer
-   Line Chart Drawer</note>
+Circle Chart Drawer
+Gauge Drawer
+Line Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Pregnancy" xml:space="preserve">
         <source>Pregnancy</source>
@@ -9406,22 +9534,6 @@
         <source>Punctuation</source>
         <note>Data Sources</note>
       </trans-unit>
-      <trans-unit id="Punk API - Random Beer Description" xml:space="preserve">
-        <source>Punk API - Random Beer Description</source>
-        <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="Punk API - Random Beer Image" xml:space="preserve">
-        <source>Punk API - Random Beer Image</source>
-        <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="Punk API - Random Beer Name" xml:space="preserve">
-        <source>Punk API - Random Beer Name</source>
-        <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="Punk API - Random Beer Tagline" xml:space="preserve">
-        <source>Punk API - Random Beer Tagline</source>
-        <note>Data Sources</note>
-      </trans-unit>
       <trans-unit id="Purchase failed" xml:space="preserve">
         <source>Purchase failed</source>
         <note>In-App Purchase Messages</note>
@@ -9529,7 +9641,7 @@
       <trans-unit id="Random Number" xml:space="preserve">
         <source>Random Number</source>
         <note>Data Sources
-   Popup Title</note>
+Popup Title</note>
       </trans-unit>
       <trans-unit id="Random Values" xml:space="preserve">
         <source>Random Values</source>
@@ -9550,7 +9662,7 @@
       <trans-unit id="Rectangular" xml:space="preserve">
         <source>Rectangular</source>
         <note>Create Filters
-   Widget Size</note>
+Widget Size</note>
       </trans-unit>
       <trans-unit id="Rectangular Watch Slots" xml:space="preserve">
         <source>Rectangular Watch Slots</source>
@@ -9567,11 +9679,7 @@
       <trans-unit id="Redacted During Image/Video Export" xml:space="preserve">
         <source>Redacted During Image/Video Export</source>
         <note>Document Drawer
-   Effects Drawer</note>
-      </trans-unit>
-      <trans-unit id="Reddit" xml:space="preserve">
-        <source>Reddit</source>
-        <note>Main Tabbar</note>
+Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Reduce Motion" xml:space="preserve">
         <source>Reduce Motion</source>
@@ -9675,6 +9783,10 @@
         <source>Reminder Tomorrow Completed</source>
         <note>No comment provided by engineer.</note>
       </trans-unit>
+      <trans-unit id="Reminder permissions missing." xml:space="preserve">
+        <source>Reminder permissions missing.</source>
+        <note>Warnings Drawer</note>
+      </trans-unit>
       <trans-unit id="Reminders" xml:space="preserve">
         <source>Reminders</source>
         <note>Agenda Sources Sections
@@ -9704,6 +9816,10 @@
       <trans-unit id="Rename" xml:space="preserve">
         <source>Rename</source>
         <note>Layer Drawer</note>
+      </trans-unit>
+      <trans-unit id="Rendering time" xml:space="preserve">
+        <source>Rendering time</source>
+        <note>Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Reorder" xml:space="preserve">
         <source>Reorder</source>
@@ -9763,6 +9879,14 @@
         <source>Reset To Default</source>
         <note>Button Title</note>
       </trans-unit>
+      <trans-unit id="Resizable" xml:space="preserve">
+        <source>Resizable</source>
+        <note>Widget Size Name</note>
+      </trans-unit>
+      <trans-unit id="Resizable widgets load all sizes at once, increasing the chance they won’t load properly." xml:space="preserve">
+        <source>Resizable widgets load all sizes at once, increasing the chance they won’t load properly.</source>
+        <note>Popup Text</note>
+      </trans-unit>
       <trans-unit id="Respiratory Rate" xml:space="preserve">
         <source>Respiratory Rate</source>
         <note>Data Sources</note>
@@ -9819,6 +9943,14 @@
         <source>Reverse Order</source>
         <note>CSV Picker Drawer</note>
       </trans-unit>
+      <trans-unit id="Reversed 'In' Transition" xml:space="preserve">
+        <source>Reversed 'In' Transition</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
+      <trans-unit id="Reversed 'In' Transition / Control Transitions Via Children" xml:space="preserve">
+        <source>Reversed 'In' Transition / Control Transitions Via Children</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
       <trans-unit id="Right" xml:space="preserve">
         <source>Right</source>
         <note>Text Data Drawer</note>
@@ -9831,9 +9963,17 @@
         <source>Roman</source>
         <note>Gauge Drawer</note>
       </trans-unit>
+      <trans-unit id="Rotate your device!" xml:space="preserve">
+        <source>Rotate your device!</source>
+        <note>Transparency Cropper Message</note>
+      </trans-unit>
       <trans-unit id="Rotation" xml:space="preserve">
         <source>Rotation</source>
         <note>Effects Drawer</note>
+      </trans-unit>
+      <trans-unit id="Rowing Speed" xml:space="preserve">
+        <source>Rowing Speed</source>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Run" xml:space="preserve">
         <source>Run</source>
@@ -9957,14 +10097,6 @@
         <source>Search Symbols</source>
         <note>Symbols Drawer</note>
       </trans-unit>
-      <trans-unit id="Search for Widgy on the App Store and download it away." xml:space="preserve">
-        <source>Search for Widgy on the App Store and download it away.</source>
-        <note>Create Tab</note>
-      </trans-unit>
-      <trans-unit id="Search for Widgy on the Mac App Store and download it away." xml:space="preserve">
-        <source>Search for Widgy on the Mac App Store and download it away.</source>
-        <note>Create Tab</note>
-      </trans-unit>
       <trans-unit id="Search limit reached." xml:space="preserve">
         <source>Search limit reached.</source>
         <note>Web Search</note>
@@ -10005,10 +10137,10 @@
       <trans-unit id="Segment" xml:space="preserve">
         <source>Segment</source>
         <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Ring Chart Drawer</note>
+Circle Chart Drawer
+Gauge Drawer
+Line Chart Drawer
+Ring Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Segment Color Mode" xml:space="preserve">
         <source>Segment Color Mode</source>
@@ -10189,6 +10321,10 @@
         <source>Should Differentiate Without Color</source>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Show Backups Of Edited Widgets" xml:space="preserve">
+        <source>Show Backups Of Edited Widgets</source>
+        <note>Popup Title</note>
+      </trans-unit>
       <trans-unit id="Show Documentation" xml:space="preserve">
         <source>Show Documentation</source>
         <note>Text Data Drawer</note>
@@ -10207,8 +10343,8 @@
       </trans-unit>
       <trans-unit id="Show Unit" xml:space="preserve">
         <source>Show Unit</source>
-        <note>Bar Chart Drawer
-   Text Drawer</note>
+        <note>Chart Drawer
+Text Drawer</note>
       </trans-unit>
       <trans-unit id="Show Values" xml:space="preserve">
         <source>Show Values</source>
@@ -10293,6 +10429,14 @@
         <source>Small Step</source>
         <note>Frame Drawer</note>
       </trans-unit>
+      <trans-unit id="Small Widgets can be used on Apple Watch. Make sure they look good there as well." xml:space="preserve">
+        <source>Small Widgets can be used on Apple Watch. Make sure they look good there as well.</source>
+        <note>Warnings Drawer</note>
+      </trans-unit>
+      <trans-unit id="Small Widgets can be used on iPad Lock Screen. Make sure they look good there as well." xml:space="preserve">
+        <source>Small Widgets can be used on iPad Lock Screen. Make sure they look good there as well.</source>
+        <note>Warnings Drawer</note>
+      </trans-unit>
       <trans-unit id="Small Widgy" xml:space="preserve">
         <source>Small Widgy</source>
         <note>Widget Size Name</note>
@@ -10300,10 +10444,6 @@
       <trans-unit id="Small Widgy Slots" xml:space="preserve">
         <source>Small Widgy Slots</source>
         <note>Widget Slot Name</note>
-      </trans-unit>
-      <trans-unit id="Small widgets can have just one Tap Action. Having more than one on a Small widget will result in unexpected behavior. This is a system limitation, and there's no workaround for this." xml:space="preserve">
-        <source>Small widgets can have just one Tap Action. Having more than one on a Small widget will result in unexpected behavior. This is a system limitation, and there's no workaround for this.</source>
-        <note>Widgy Help Message</note>
       </trans-unit>
       <trans-unit id="Smart Symbols" xml:space="preserve">
         <source>Smart Symbols</source>
@@ -10342,10 +10482,6 @@
         <source>Some Live Activities Failed To Start.</source>
         <note>Live Activities</note>
       </trans-unit>
-      <trans-unit id="Some apps replace their name with a special Unicode character, but those apps usually have problems with getting their updates out, since there's a fair chance to get app update rejected due to the app hiding its name." xml:space="preserve">
-        <source>Some apps replace their name with a special Unicode character, but those apps usually have problems with getting their updates out, since there's a fair chance to get app update rejected due to the app hiding its name.</source>
-        <note>Widgy Help Message</note>
-      </trans-unit>
       <trans-unit id="Some data isn't being displayed on the Watch Face" xml:space="preserve">
         <source>Some data isn't being displayed on the Watch Face</source>
         <note>Watchy Help Title</note>
@@ -10369,6 +10505,10 @@
       <trans-unit id="Sore Throat" xml:space="preserve">
         <source>Sore Throat</source>
         <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Sorry for any trouble caused." xml:space="preserve">
+        <source>Sorry for any trouble caused.</source>
+        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Sort" xml:space="preserve">
         <source>Sort</source>
@@ -10398,7 +10538,8 @@
       </trans-unit>
       <trans-unit id="Sounds won't play if your ringer is set to silent. Also, volume is always played at maximum, so plan accordingly." xml:space="preserve">
         <source>Sounds won't play if your ringer is set to silent. Also, volume is always played at maximum, so plan accordingly.</source>
-        <note>Tap Actions</note>
+        <note>Tap Actions
+Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Source" xml:space="preserve">
         <source>Source</source>
@@ -10432,12 +10573,12 @@
       <trans-unit id="Spelled Out" xml:space="preserve">
         <source>Spelled Out</source>
         <note>Apple Gauge Drawer
-   Bar Chart Drawer
-   Circle Chart Drawer
-   Curved Text Drawer
-   Gauge Drawer
-   Line Chart Drawer
-   Text Drawer</note>
+Bar Chart Drawer
+Circle Chart Drawer
+Curved Text Drawer
+Gauge Drawer
+Line Chart Drawer
+Text Drawer</note>
       </trans-unit>
       <trans-unit id="Square" xml:space="preserve">
         <source>Square</source>
@@ -10488,9 +10629,14 @@
         <source>Starting from version 3.0 and onward, Watchy Complications slots will be unlocked as well.</source>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
+      <trans-unit id="Starting with iOS 18 it's possible to hide all app and widget titles by choosing the new Large Icon mode." xml:space="preserve">
+        <source>Starting with iOS 18 it's possible to hide all app and widget titles by choosing the new Large Icon mode.</source>
+        <note>Widgy Help Message</note>
+      </trans-unit>
       <trans-unit id="Starting with v3.2, the transparency layer is locked from editing, to avoid incorrect frame positions and unwanted effects. If you wish to fine-tune the transparency layer, go to the Documents drawer tab and unlock it from there." xml:space="preserve">
         <source>Starting with v3.2, the transparency layer is locked from editing, to avoid incorrect frame positions and unwanted effects. If you wish to fine-tune the transparency layer, go to the Documents drawer tab and unlock it from there.</source>
-        <note>Transparency Layer</note>
+        <note>Transparency Layer
+Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Stash" xml:space="preserve">
         <source>Stash</source>
@@ -10593,9 +10739,9 @@
       <trans-unit id="Suffix" xml:space="preserve">
         <source>Suffix</source>
         <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Gauge Drawer
-   Line Chart Drawer</note>
+Circle Chart Drawer
+Gauge Drawer
+Line Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Sum" xml:space="preserve">
         <source>Sum</source>
@@ -10766,7 +10912,8 @@
       </trans-unit>
       <trans-unit id="Sync To Watch" xml:space="preserve">
         <source>Sync To Watch</source>
-        <note>Editor</note>
+        <note>Editor
+Watchy Manage View</note>
       </trans-unit>
       <trans-unit id="Syncing to Watch doesn't finish (the popup never dismisses)" xml:space="preserve">
         <source>Syncing to Watch doesn't finish (the popup never dismisses)</source>
@@ -10856,7 +11003,8 @@
       </trans-unit>
       <trans-unit id="Tap To Customize" xml:space="preserve">
         <source>Tap To Customize</source>
-        <note>Manage View</note>
+        <note>Manage View
+Watchy Manage View</note>
       </trans-unit>
       <trans-unit id="Tap To Edit" xml:space="preserve">
         <source>Tap To Edit</source>
@@ -10865,10 +11013,6 @@
       <trans-unit id="Tap To Select" xml:space="preserve">
         <source>Tap To Select</source>
         <note>Crop Tool</note>
-      </trans-unit>
-      <trans-unit id="Tap actions aren't working properly" xml:space="preserve">
-        <source>Tap actions aren't working properly</source>
-        <note>Widgy Help Title</note>
       </trans-unit>
       <trans-unit id="Tap and hold your finger on the large text section and then move your finger left or right to select different tabs. You can also slide your finger down to see the text of the selected tab." xml:space="preserve">
         <source>Tap and hold your finger on the large text section and then move your finger left or right to select different tabs. You can also slide your finger down to see the text of the selected tab.</source>
@@ -11032,6 +11176,10 @@
         <source>The most powerful way to craft your own unique Widgets.</source>
         <note>Onboarding</note>
       </trans-unit>
+      <trans-unit id="The transparency frame isn't aligned to the full widget size. This will result in out-of-place transparency unless this is intentional." xml:space="preserve">
+        <source>The transparency frame isn't aligned to the full widget size. This will result in out-of-place transparency unless this is intentional.</source>
+        <note>Warnings Drawer</note>
+      </trans-unit>
       <trans-unit id="The whole process should last a couple of seconds." xml:space="preserve">
         <source>The whole process should last a couple of seconds.</source>
         <note>Watchy Sync View</note>
@@ -11096,6 +11244,11 @@
         <source>Third-Party Apps</source>
         <note>Tap Actions</note>
       </trans-unit>
+      <trans-unit id="This Widget uses High Quality Transparency. If the widget won't load properly, edit the widget and change the quality of transparency." xml:space="preserve">
+        <source>This Widget uses High Quality Transparency. If the widget won't load properly, edit the widget and change the quality of transparency.</source>
+        <note>Popup Text
+Warnings Drawer</note>
+      </trans-unit>
       <trans-unit id="This Widgy is currently in use. To change the size of this Widgy, first go to the Manage tab and unassign it." xml:space="preserve">
         <source>This Widgy is currently in use. To change the size of this Widgy, first go to the Manage tab and unassign it.</source>
         <note>Document Drawer</note>
@@ -11154,11 +11307,12 @@
       </trans-unit>
       <trans-unit id="This type of widget can use just one 'legacy' Tap Action." xml:space="preserve">
         <source>This type of widget can use just one 'legacy' Tap Action.</source>
-        <note>Tap Actions</note>
+        <note>Tap Actions
+Warnings Drawer</note>
       </trans-unit>
-      <trans-unit id="This widgets uses High Quality Transparency. If the widget won't load properly, edit the widget and change the quality of transparency." xml:space="preserve">
-        <source>This widgets uses High Quality Transparency. If the widget won't load properly, edit the widget and change the quality of transparency.</source>
-        <note>Popup Text</note>
+      <trans-unit id="This widget uses a timer or automation feature, so during reload, 15 instances will be created, which increases the memory usage and reload times." xml:space="preserve">
+        <source>This widget uses a timer or automation feature, so during reload, 15 instances will be created, which increases the memory usage and reload times.</source>
+        <note>Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Thumbnail Generation Failed" xml:space="preserve">
         <source>Thumbnail Generation Failed</source>
@@ -11245,6 +11399,30 @@
         <source>Tint Custom Needle</source>
         <note>Gauge Drawer</note>
       </trans-unit>
+      <trans-unit id="Tint Mode Color" xml:space="preserve">
+        <source>Tint Mode Color</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
+      <trans-unit id="Tint Mode Visibility" xml:space="preserve">
+        <source>Tint Mode Visibility</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
+      <trans-unit id="Tinted" xml:space="preserve">
+        <source>Tinted</source>
+        <note>Effects Drawer</note>
+      </trans-unit>
+      <trans-unit id="Tinted Mode Brightness Multiplier" xml:space="preserve">
+        <source>Tinted Mode Brightness Multiplier</source>
+        <note>Document Drawer</note>
+      </trans-unit>
+      <trans-unit id="Tinted Mode Cast Shadow" xml:space="preserve">
+        <source>Tinted Mode Cast Shadow</source>
+        <note>Document Drawer</note>
+      </trans-unit>
+      <trans-unit id="Tinted Mode Darkness Threshold" xml:space="preserve">
+        <source>Tinted Mode Darkness Threshold</source>
+        <note>Document Drawer</note>
+      </trans-unit>
       <trans-unit id="Tip Jar" xml:space="preserve">
         <source>Tip Jar</source>
         <note>Settings
@@ -11273,6 +11451,11 @@
       <trans-unit id="To make returning to Watchy simpler, Watchy offers complications (Apple Watch Face 'Widgets') of all sizes, that just lead you back to Watchy app. So after adding those complications to your stock Watch Face, in the worst case you're a tap away from Watchy and custom 'Watch Faces'." xml:space="preserve">
         <source>To make returning to Watchy simpler, Watchy offers complications (Apple Watch Face 'Widgets') of all sizes, that just lead you back to Watchy app. So after adding those complications to your stock Watch Face, in the worst case you're a tap away from Watchy and custom 'Watch Faces'.</source>
         <note>Watchy Help Message</note>
+      </trans-unit>
+      <trans-unit id="To prevent spam in Explore, this Widget isn't shareable. If you plan to use this Widget as a starting point, consider starting with an empty Widget instead." xml:space="preserve">
+        <source>To prevent spam in Explore, this Widget isn't shareable. If you plan to use this Widget as a starting point, consider starting with an empty Widget instead.</source>
+        <note>Popup Title
+Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="To reload all complications, open the Watchy app, long press on the screen and tap on 'Reload Complications' button." xml:space="preserve">
         <source>To reload all complications, open the Watchy app, long press on the screen and tap on 'Reload Complications' button.</source>
@@ -11398,10 +11581,6 @@
       </trans-unit>
       <trans-unit id="Transparent Background (With Inverted Blur)" xml:space="preserve">
         <source>Transparent Background (With Inverted Blur)</source>
-        <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="Transport" xml:space="preserve">
-        <source>Transport</source>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Transportation" xml:space="preserve">
@@ -11545,18 +11724,18 @@
       <trans-unit id="Unlock All Home Screen Slots" xml:space="preserve">
         <source>Unlock All Home Screen Slots</source>
         <note>Full Version Purchase Screen
-   Manage View</note>
+Manage View</note>
       </trans-unit>
       <trans-unit id="Unlock All Lock Screen Features" xml:space="preserve">
         <source>Unlock All Lock Screen Features</source>
         <note>Full Version Purchase Screen
-   Manage View
-   Watchy Manage View</note>
+Manage View
+Watchy Manage View</note>
       </trans-unit>
       <trans-unit id="Unlock All Watchy Slots" xml:space="preserve">
         <source>Unlock All Watchy Slots</source>
         <note>Full Version Purchase Screen
-   Watchy Manage View</note>
+Watchy Manage View</note>
       </trans-unit>
       <trans-unit id="Unlock Right Away" xml:space="preserve">
         <source>Unlock Right Away</source>
@@ -11677,7 +11856,7 @@
       <trans-unit id="Value" xml:space="preserve">
         <source>Value</source>
         <note>Automation View
-   Notification Badge Message</note>
+Notification Badge Message</note>
       </trans-unit>
       <trans-unit id="Value Column" xml:space="preserve">
         <source>Value Column</source>
@@ -11694,7 +11873,7 @@
       <trans-unit id="Vertical" xml:space="preserve">
         <source>Vertical</source>
         <note>Effects Drawer
-   Group Aligment Drawer</note>
+Group Aligment Drawer</note>
       </trans-unit>
       <trans-unit id="Vertical Alignment" xml:space="preserve">
         <source>Vertical Alignment</source>
@@ -11748,10 +11927,6 @@
       <trans-unit id="Video Memory Percentage" xml:space="preserve">
         <source>Video Memory Percentage</source>
         <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="Video Tutorials" xml:space="preserve">
-        <source>Video Tutorials</source>
-        <note>Settings View</note>
       </trans-unit>
       <trans-unit id="Virgo" xml:space="preserve">
         <source>Virgo</source>
@@ -11810,6 +11985,10 @@
         <source>Wallpaper</source>
         <note>Editor</note>
       </trans-unit>
+      <trans-unit id="Wallpapers" xml:space="preserve">
+        <source>Wallpapers</source>
+        <note>Main Tabbar</note>
+      </trans-unit>
       <trans-unit id="Waning Crescent" xml:space="preserve">
         <source>Waning Crescent</source>
         <note>Widget Default Messages</note>
@@ -11827,6 +12006,10 @@
         <source>Warning!</source>
         <note>Tap Action Drawer</note>
       </trans-unit>
+      <trans-unit id="Warnings" xml:space="preserve">
+        <source>Warnings</source>
+        <note>Editor Tab Names</note>
+      </trans-unit>
       <trans-unit id="Watch" xml:space="preserve">
         <source>Watch</source>
         <note>Tap Actions</note>
@@ -11842,7 +12025,7 @@
       <trans-unit id="Watchy" xml:space="preserve">
         <source>Watchy</source>
         <note>Create Filters
-   Widget Size</note>
+Widget Size</note>
       </trans-unit>
       <trans-unit id="Watchy Slot" xml:space="preserve">
         <source>Watchy Slot</source>
@@ -11850,7 +12033,8 @@
       </trans-unit>
       <trans-unit id="Watchy Slots" xml:space="preserve">
         <source>Watchy Slots</source>
-        <note>In-App Purchase Messages</note>
+        <note>In-App Purchase Messages
+Widget Slot Name</note>
       </trans-unit>
       <trans-unit id="Watchy has everything you love about Widgy" xml:space="preserve">
         <source>Watchy has everything you love about Widgy</source>
@@ -12083,7 +12267,8 @@
       </trans-unit>
       <trans-unit id="What's New" xml:space="preserve">
         <source>What's New</source>
-        <note>Settings View</note>
+        <note>Create Tab Top Actions
+Settings View</note>
       </trans-unit>
       <trans-unit id="Wheelchair Use" xml:space="preserve">
         <source>Wheelchair Use</source>
@@ -12112,6 +12297,10 @@
       <trans-unit id="While widgets can't be natively transparent, you can place an image on the bottom layer of your widget that is a cropped version of your wallpaper. Widgy has an crop tool that can help you with this." xml:space="preserve">
         <source>While widgets can't be natively transparent, you can place an image on the bottom layer of your widget that is a cropped version of your wallpaper. Widgy has an crop tool that can help you with this.</source>
         <note>Help Message</note>
+      </trans-unit>
+      <trans-unit id="White" xml:space="preserve">
+        <source>White</source>
+        <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Why aren't the Watch Faces on my Series 3 full screen?" xml:space="preserve">
         <source>Why aren't the Watch Faces on my Series 3 full screen?</source>
@@ -12180,11 +12369,15 @@
       <trans-unit id="Widget / Watchy Language" xml:space="preserve">
         <source>Widget / Watchy Language</source>
         <note>Widget Settings View
-   Window Title</note>
+Window Title</note>
       </trans-unit>
       <trans-unit id="Widget Action" xml:space="preserve">
         <source>Widget Action</source>
         <note>Tap Action Drawer</note>
+      </trans-unit>
+      <trans-unit id="Widget Backups" xml:space="preserve">
+        <source>Widget Backups</source>
+        <note>Create Tab Top Actions</note>
       </trans-unit>
       <trans-unit id="Widget Description" xml:space="preserve">
         <source>Widget Description</source>
@@ -12247,19 +12440,11 @@
       <trans-unit id="Widgy / Watchy Settings" xml:space="preserve">
         <source>Widgy / Watchy Settings</source>
         <note>Settings View
-   Widget Settings View</note>
+Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Widgy Debug" xml:space="preserve">
         <source>Widgy Debug</source>
         <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="Widgy For iOS" xml:space="preserve">
-        <source>Widgy For iOS</source>
-        <note>Create Tab Top Actions</note>
-      </trans-unit>
-      <trans-unit id="Widgy For macOS" xml:space="preserve">
-        <source>Widgy For macOS</source>
-        <note>Create Tab Top Actions</note>
       </trans-unit>
       <trans-unit id="Widgy JSON copied to Pasteboard" xml:space="preserve">
         <source>Widgy JSON copied to Pasteboard</source>
@@ -12268,14 +12453,6 @@
       <trans-unit id="Widgy Language" xml:space="preserve">
         <source>Widgy Language</source>
         <note>Widget Settings View</note>
-      </trans-unit>
-      <trans-unit id="Widgy On iOS" xml:space="preserve">
-        <source>Widgy On iOS</source>
-        <note>Create Tab</note>
-      </trans-unit>
-      <trans-unit id="Widgy On macOS" xml:space="preserve">
-        <source>Widgy On macOS</source>
-        <note>Create Tab</note>
       </trans-unit>
       <trans-unit id="Widgy Publish Failed" xml:space="preserve">
         <source>Widgy Publish Failed</source>
@@ -12288,16 +12465,12 @@
       <trans-unit id="Widgy Settings" xml:space="preserve">
         <source>Widgy Settings</source>
         <note>Settings View
-   Widget Settings View</note>
+Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Widgy Sizes" xml:space="preserve">
         <source>Widgy Sizes</source>
         <note>Create Filters Browser Sections
    Explore Filters Browser Sections</note>
-      </trans-unit>
-      <trans-unit id="Widgy app name is hidden!" xml:space="preserve">
-        <source>Widgy app name is hidden!</source>
-        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Widgy doesn't support any third-party apps and doesn't integrate with their APIs." xml:space="preserve">
         <source>Widgy doesn't support any third-party apps and doesn't integrate with their APIs.</source>
@@ -12325,7 +12498,8 @@
       </trans-unit>
       <trans-unit id="Widgy will automatically reload all live activities when switching to the app. You can also add a reload tap action to the live activity to make it reloadable on a simple tap. Thanks to iOS 17, the widget will reload in place." xml:space="preserve">
         <source>Widgy will automatically reload all live activities when switching to the app. You can also add a reload tap action to the live activity to make it reloadable on a simple tap. Thanks to iOS 17, the widget will reload in place.</source>
-        <note>Live Activities Warning</note>
+        <note>Live Activities Warning
+Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Widgy will sort all Tap Actions alphabetically and use whatever comes up first." xml:space="preserve">
         <source>Widgy will sort all Tap Actions alphabetically and use whatever comes up first.</source>
@@ -12394,6 +12568,10 @@
       <trans-unit id="Woodsign may use third-party services to collect data about your device and your usage of Widgy and use it to improve the application experience and stability." xml:space="preserve">
         <source>Woodsign may use third-party services to collect data about your device and your usage of Widgy and use it to improve the application experience and stability.</source>
         <note>Privacy Compliance</note>
+      </trans-unit>
+      <trans-unit id="Workout Effort Score" xml:space="preserve">
+        <source>Workout Effort Score</source>
+        <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Wrong password!" xml:space="preserve">
         <source>Wrong password!</source>
@@ -12493,8 +12671,7 @@
       </trans-unit>
       <trans-unit id="Yours" xml:space="preserve">
         <source>Yours</source>
-        <note>Create Filters
-   Widget Browser Sections</note>
+        <note>Widget Browser Sections</note>
       </trans-unit>
       <trans-unit id="Zip Code" xml:space="preserve">
         <source>Zip Code</source>
@@ -12620,6 +12797,22 @@
         <source>[Night] Snow</source>
         <note>Customize Drawer</note>
       </trans-unit>
+      <trans-unit id="[Old] Crop Center X" xml:space="preserve">
+        <source>[Old] Crop Center X</source>
+        <note>Layer Properties</note>
+      </trans-unit>
+      <trans-unit id="[Old] Crop Center Y" xml:space="preserve">
+        <source>[Old] Crop Center Y</source>
+        <note>Layer Properties</note>
+      </trans-unit>
+      <trans-unit id="[Old] Crop Height" xml:space="preserve">
+        <source>[Old] Crop Height</source>
+        <note>Layer Properties</note>
+      </trans-unit>
+      <trans-unit id="[Old] Crop Width" xml:space="preserve">
+        <source>[Old] Crop Width</source>
+        <note>Layer Properties</note>
+      </trans-unit>
       <trans-unit id="and Gradients" xml:space="preserve">
         <source>and Gradients</source>
         <note>Onboarding</note>
@@ -12674,18 +12867,6 @@
       </trans-unit>
       <trans-unit id="s/m" xml:space="preserve">
         <source>s/m</source>
-        <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="shibe.online Birds" xml:space="preserve">
-        <source>shibe.online Birds</source>
-        <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="shibe.online Cats" xml:space="preserve">
-        <source>shibe.online Cats</source>
-        <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="shibe.online Dogs" xml:space="preserve">
-        <source>shibe.online Dogs</source>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="steps/m" xml:space="preserve">
