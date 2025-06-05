@@ -3982,90 +3982,90 @@ Edit Date Option</note>
       </trans-unit>
       <trans-unit id="Agenda" xml:space="preserve">
         <source>Agenda</source>
-        <target>议程</target>
+        <target>日程</target>
         <note>Calendar Drawer
    Data Sources</note>
       </trans-unit>
       <trans-unit id="Agenda (Chronological)" xml:space="preserve">
         <source>Agenda (Chronological)</source>
-        <target>议程（按时间顺序）</target>
+        <target>日程（按时间顺序）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Agenda (Today)" xml:space="preserve">
         <source>Agenda (Today)</source>
-        <target>议程（今日）</target>
+        <target>日程（今日）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Agenda (Tomorrow)" xml:space="preserve">
         <source>Agenda (Tomorrow)</source>
-        <target>议程（明日）</target>
+        <target>日程（明日）</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Agenda All-Day End" xml:space="preserve">
         <source>Agenda All-Day End</source>
-        <target>议程 全天结束</target>
+        <target>日程 全天结束</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda All-Day Start" xml:space="preserve">
         <source>Agenda All-Day Start</source>
-        <target>议程 全天开始</target>
+        <target>日程 全天开始</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Events" xml:space="preserve">
         <source>Agenda Events</source>
-        <target>议程活动</target>
+        <target>日程活动</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Agenda Now" xml:space="preserve">
         <source>Agenda Now</source>
-        <target>议程 现在</target>
+        <target>日程 现在</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Reminders" xml:space="preserve">
         <source>Agenda Reminders</source>
-        <target>议程提醒</target>
+        <target>日程提醒</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Agenda Sources" xml:space="preserve">
         <source>Agenda Sources</source>
-        <target>议程来源</target>
+        <target>日程来源</target>
         <note>Widget Settings View
    Window Title</note>
       </trans-unit>
       <trans-unit id="Agenda Symbol" xml:space="preserve">
         <source>Agenda Symbol</source>
-        <target>议程符号</target>
+        <target>日程符号</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Symbol Color" xml:space="preserve">
         <source>Agenda Symbol Color</source>
-        <target>议程符号颜色</target>
+        <target>日程符号颜色</target>
         <note>Calendar Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Agenda Symbol Offset X" xml:space="preserve">
         <source>Agenda Symbol Offset X</source>
-        <target>议程符号偏移X</target>
+        <target>日程符号偏移X</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Symbol Offset Y" xml:space="preserve">
         <source>Agenda Symbol Offset Y</source>
-        <target>议程符号偏移Y</target>
+        <target>日程符号偏移Y</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Symbol Scale" xml:space="preserve">
         <source>Agenda Symbol Scale</source>
-        <target>议程符号比例</target>
+        <target>日程符号比例</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Today" xml:space="preserve">
         <source>Agenda Today</source>
-        <target>议程 今日</target>
+        <target>日程 今日</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Agenda Tomorrow" xml:space="preserve">
         <source>Agenda Tomorrow</source>
-        <target>议程 明日</target>
+        <target>日程 明日</target>
         <note>Customize Drawer</note>
       </trans-unit>
       <trans-unit id="Air Pressure" xml:space="preserve">
@@ -4330,12 +4330,12 @@ HealthKit Data</note>
       </trans-unit>
       <trans-unit id="Apps By Friends" xml:space="preserve">
         <source>Apps By Friends</source>
-        <target>好友应用</target>
+        <target>好友的应用</target>
         <note>Settings Screen</note>
       </trans-unit>
       <trans-unit id="Apps not present on this list need to be opened via the Shortcuts app." xml:space="preserve">
         <source>Apps not present on this list need to be opened via the Shortcuts app.</source>
-        <target>未出现在此列表中的应用程序需要通过快捷方式应用程序打开。</target>
+        <target>未出现在此列表中的应用程序需要通过快捷指令应用程序打开。</target>
         <note>Tap Actions</note>
       </trans-unit>
       <trans-unit id="Aquarius" xml:space="preserve">
@@ -4345,7 +4345,7 @@ HealthKit Data</note>
       </trans-unit>
       <trans-unit id="Are You An Influencer?" xml:space="preserve">
         <source>Are You An Influencer?</source>
-        <target>您是大V吗？</target>
+        <target>您是网红吗？</target>
         <note>Create Tab Top Actions</note>
       </trans-unit>
       <trans-unit id="Are there any video tutorials?" xml:space="preserve">
@@ -4417,7 +4417,7 @@ Window Title</note>
       </trans-unit>
       <trans-unit id="Async + No main() uses 'sendToWidgy(VALUE)' to return value to Widgy. You can use fetch, async/await, or any other asynchronous method of fetching data." xml:space="preserve">
         <source>Async + No main() uses 'sendToWidgy(VALUE)' to return value to Widgy. You can use fetch, async/await, or any other asynchronous method of fetching data.</source>
-        <target>ASYNC + NO MAIN（）使用“sendTowidgy（value）”将值返回到Widgy。 您可以使用获取，ASYNC / AWAIT或获取数据的任何其他异步方法。</target>
+        <target>Async + No main()使用“sendToWidgy(VALUE)”将值返回到Widgy。 您可以使用fetch、async/await或任何其他获取数据的异步方法。</target>
         <note>Javascript Help Screen</note>
       </trans-unit>
       <trans-unit id="At least one Live Activity needs to be active for Dynamic Island to work." xml:space="preserve">
@@ -4591,11 +4591,12 @@ Text Drawer</note>
       </trans-unit>
       <trans-unit id="Battery mAh" xml:space="preserve">
         <source>Battery mAh</source>
-        <target>电池mah</target>
+        <target>电池mAh</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="Be sure to check out Help section for a better understanding of those limitations." xml:space="preserve">
         <source>Be sure to check out Help section for a better understanding of those limitations.</source>
+        <target>为了更好地理解这些限制，请务必查看帮助部分。</source>
         <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Be sure to check out Help tab for a better understanding of those limitations." xml:space="preserve">
@@ -4856,7 +4857,7 @@ Image Drawer</note>
       </trans-unit>
       <trans-unit id="Buddhist" xml:space="preserve">
         <source>Buddhist</source>
-        <target>佛教</target>
+        <target>佛历</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Bullets And Stars" xml:space="preserve">
@@ -5515,7 +5516,7 @@ Text Drawer</note>
       </trans-unit>
       <trans-unit id="Coptic" xml:space="preserve">
         <source>Coptic</source>
-        <target>埃及古语</target>
+        <target>科普特历</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Copy" xml:space="preserve">
@@ -6130,17 +6131,17 @@ Data Sources</note>
       </trans-unit>
       <trans-unit id="Data Source Symbol Heatmap Minimum Alpha" xml:space="preserve">
         <source>Data Source Symbol Heatmap Minimum Alpha</source>
-        <target>Data Source Symbol Heatmap Minimum Alpha</target>
+        <target>数据源符号热力图最小透明度</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Data Source Symbol Offset X" xml:space="preserve">
         <source>Data Source Symbol Offset X</source>
-        <target>Data Source Symbol Offset X</target>
+        <target>数据源符号偏移X</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Data Source Symbol Offset Y" xml:space="preserve">
         <source>Data Source Symbol Offset Y</source>
-        <target>Data Source Symbol Offset Y</target>
+        <target>数据源符号偏移Y</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Data Source Symbol Scale" xml:space="preserve">
@@ -6160,7 +6161,7 @@ Data Sources</note>
       </trans-unit>
       <trans-unit id="Data source not available on" xml:space="preserve">
         <source>Data source not available on</source>
-        <target>Data source not available on</target>
+        <target>数据源不可用于</target>
         <note>Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Date" xml:space="preserve">
@@ -6360,7 +6361,7 @@ Window Title</note>
       </trans-unit>
       <trans-unit id="Desaturate When In 'Always On' Mode" xml:space="preserve">
         <source>Desaturate When In 'Always On' Mode</source>
-        <target>在“始终开启”模式下变暗</target>
+        <target>在“始终显示”模式下变暗</target>
         <note>Document Drawer</note>
       </trans-unit>
       <trans-unit id="Description" xml:space="preserve">
@@ -7085,12 +7086,12 @@ Window Title</note>
       </trans-unit>
       <trans-unit id="Ethiopic Amete Alem" xml:space="preserve">
         <source>Ethiopic Amete Alem</source>
-        <target>埃塞俄比亚文Amete Alem</target>
+        <target>埃塞俄比亚历Amete Alem</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Ethiopic Amete Mihret" xml:space="preserve">
         <source>Ethiopic Amete Mihret</source>
-        <target>埃塞俄比亚文Amete Mihret</target>
+        <target>埃塞俄比亚历Amete Mihret</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Even" xml:space="preserve">
@@ -7871,7 +7872,7 @@ Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Group transitions set to 'Off' will disable all child transitions as well." xml:space="preserve">
         <source>Group transitions set to 'Off' will disable all child transitions as well.</source>
-        <target>Group transitions set to 'Off' will disable all child transitions as well.</target>
+        <target>把组过渡设置为“关闭”将同时禁用所有子过渡。</target>
         <note>Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Grouping Separator" xml:space="preserve">
@@ -8122,7 +8123,7 @@ Window Title</note>
       </trans-unit>
       <trans-unit id="Hebrew" xml:space="preserve">
         <source>Hebrew</source>
-        <target>希伯来语</target>
+        <target>希伯来历</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Height" xml:space="preserve">
@@ -8534,7 +8535,7 @@ Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Ignore Reminders Without Date" xml:space="preserve">
         <source>Ignore Reminders Without Date</source>
-        <target>忽略没有日期的提醒</target>
+        <target>忽略没有日期的提醒事项</target>
         <note>Agenda Sources</note>
       </trans-unit>
       <trans-unit id="Image" xml:space="preserve">
@@ -8744,7 +8745,7 @@ Widget Browser Sections</note>
       </trans-unit>
       <trans-unit id="Include Completed Reminders" xml:space="preserve">
         <source>Include Completed Reminders</source>
-        <target>包括已完成的提醒</target>
+        <target>包括已完成的提醒事项</target>
         <note>Agenda Sources</note>
       </trans-unit>
       <trans-unit id="Increased" xml:space="preserve">
@@ -8759,7 +8760,7 @@ Widget Browser Sections</note>
       </trans-unit>
       <trans-unit id="Indian" xml:space="preserve">
         <source>Indian</source>
-        <target>印度人</target>
+        <target>印度历</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Indices" xml:space="preserve">
@@ -8943,22 +8944,22 @@ Widget Size</note>
       </trans-unit>
       <trans-unit id="Islamic" xml:space="preserve">
         <source>Islamic</source>
-        <target>伊斯兰教</target>
+        <target>伊斯兰历</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Islamic Civil" xml:space="preserve">
         <source>Islamic Civil</source>
-        <target>伊斯兰民用</target>
+        <target>伊斯兰希吉来历</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Islamic Tabular" xml:space="preserve">
         <source>Islamic Tabular</source>
-        <target>伊斯兰表格</target>
+        <target>伊斯兰天文历</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Islamic Umm al-Qura" xml:space="preserve">
         <source>Islamic Umm al-Qura</source>
-        <target>伊斯兰乌姆古拉</target>
+        <target>伊斯兰历（乌姆库拉）</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="It looks like you are trying to combine portrait and landscape images." xml:space="preserve">
@@ -8997,7 +8998,7 @@ Widget Size</note>
       </trans-unit>
       <trans-unit id="Japanese" xml:space="preserve">
         <source>Japanese</source>
-        <target>日本</target>
+        <target>日本历</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Javascript" xml:space="preserve">
@@ -9082,7 +9083,7 @@ Widget Size</note>
       </trans-unit>
       <trans-unit id="Large Step" xml:space="preserve">
         <source>Large Step</source>
-        <target>大幅度</target>
+        <target>大幅</target>
         <note>Frame Drawer</note>
       </trans-unit>
       <trans-unit id="Large Widgy" xml:space="preserve">
@@ -9177,7 +9178,7 @@ Widget Size</note>
       </trans-unit>
       <trans-unit id="Layer Appeared Transition" xml:space="preserve">
         <source>Layer Appeared Transition</source>
-        <target>Layer Appeared Transition</target>
+        <target>图层出现过渡</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Layer Contents Updated Animation" xml:space="preserve">
@@ -9187,7 +9188,7 @@ Widget Size</note>
       </trans-unit>
       <trans-unit id="Layer Disappeared Transition" xml:space="preserve">
         <source>Layer Disappeared Transition</source>
-        <target>Layer Disappeared Transition</target>
+        <target>图层消失过渡</target>
         <note>Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Layer Name" xml:space="preserve">
@@ -9606,7 +9607,7 @@ Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Lunar" xml:space="preserve">
         <source>Lunar</source>
-        <target>月球</target>
+        <target>阴历</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Luteinizing Hormone Surge" xml:space="preserve">
@@ -9879,7 +9880,7 @@ Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Medium Step" xml:space="preserve">
         <source>Medium Step</source>
-        <target>中幅度</target>
+        <target>中幅</target>
         <note>Frame Drawer</note>
       </trans-unit>
       <trans-unit id="Medium Widgy" xml:space="preserve">
@@ -9979,7 +9980,7 @@ Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Micro Step" xml:space="preserve">
         <source>Micro Step</source>
-        <target>小幅度</target>
+        <target>微幅</target>
         <note>Frame Drawer</note>
       </trans-unit>
       <trans-unit id="Mild" xml:space="preserve">
@@ -10459,7 +10460,7 @@ Widget Size Name</note>
       </trans-unit>
       <trans-unit id="Name Day Country" xml:space="preserve">
         <source>Name Day Country</source>
-        <target>姓名日期国家</target>
+        <target>姓名、日期、国家</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Name Days" xml:space="preserve">
@@ -11001,7 +11002,7 @@ Text Drawer</note>
       </trans-unit>
       <trans-unit id="P!XLZ TECH has some useful iOS customization videos, mostly focusing on Widgy and Shortcuts. Just tap on this text to open his Youtube channel." xml:space="preserve">
         <source>P!XLZ TECH has some useful iOS customization videos, mostly focusing on Widgy and Shortcuts. Just tap on this text to open his Youtube channel.</source>
-        <target>P!XLZ TECH 有一些有用的 iOS 定制视频，主要集中在 Widgy 和 Shortcuts 上。 单击此文本即可打开他的 YouTube 频道。</target>
+        <target>P!XLZ TECH 有一些有用的 iOS 定制视频，主要集中在 Widgy 和快捷指令上。 单击此文本即可打开他的 YouTube 频道。</target>
         <note>Help Message</note>
       </trans-unit>
       <trans-unit id="PPI" xml:space="preserve">
@@ -11149,7 +11150,7 @@ Text Drawer</note>
       </trans-unit>
       <trans-unit id="Persian" xml:space="preserve">
         <source>Persian</source>
-        <target>波斯语</target>
+        <target>波斯历</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Persistent Intermenstrual Bleeding" xml:space="preserve">
@@ -11770,7 +11771,7 @@ Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Reminders" xml:space="preserve">
         <source>Reminders</source>
-        <target>提醒</target>
+        <target>提醒事项</target>
         <note>Agenda Sources Sections
    Misc
    Tap Actions</note>
@@ -11864,7 +11865,7 @@ Effects Drawer</note>
       </trans-unit>
       <trans-unit id="Republic Of China" xml:space="preserve">
         <source>Republic Of China</source>
-        <target>中国台湾</target>
+        <target>民国纪年</target>
         <note>Calendar Drawer</note>
       </trans-unit>
       <trans-unit id="Reset Onboarding" xml:space="preserve">
@@ -12277,7 +12278,7 @@ Ring Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Set Your Name" xml:space="preserve">
         <source>Set Your Name</source>
-        <target>设置您的名称！</target>
+        <target>设置您的名称</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Set the same language to Widgets too?" xml:space="preserve">
@@ -12552,7 +12553,7 @@ Text Drawer</note>
       </trans-unit>
       <trans-unit id="Small Step" xml:space="preserve">
         <source>Small Step</source>
-        <target>小幅度</target>
+        <target>小幅</target>
         <note>Frame Drawer</note>
       </trans-unit>
       <trans-unit id="Small Widgets can be used on Apple Watch. Make sure they look good there as well." xml:space="preserve">
@@ -13435,7 +13436,7 @@ Watchy Manage View</note>
       </trans-unit>
       <trans-unit id="The Widgy you're trying to import is from a newer version of the app. Please update your app and try again." xml:space="preserve">
         <source>The Widgy you're trying to import is from a newer version of the app. Please update your app and try again.</source>
-        <target>您正在尝试导入的Widgy来自应用程序的较新版本。 请更新您的应用程序，然后重试。</target>
+        <target>您正在尝试导入的Widgy来自较新版本的应用程序。 请更新您的应用程序，然后重试。</target>
         <note>Import Screen</note>
       </trans-unit>
       <trans-unit id="The app isn't visible on my Watch" xml:space="preserve">
@@ -13450,7 +13451,7 @@ Watchy Manage View</note>
       </trans-unit>
       <trans-unit id="The crop tool has moved to the Manage Tab. It now works universally, so it's easier to change the background for multiple widgets at once. All you have to do is use the new 'Transparent Background' image data source." xml:space="preserve">
         <source>The crop tool has moved to the Manage Tab. It now works universally, so it's easier to change the background for multiple widgets at once. All you have to do is use the new 'Transparent Background' image data source.</source>
-        <target>裁剪工具已移动到“管理”选项卡。 现在现在普遍工作，所以更容易更改多个小组件的背景。 所有你必须做的是使用新的“透明背景”图像数据源。</target>
+        <target>裁剪工具已移动到“管理”选项卡。 现在普遍工作，所以更容易更改多个小组件的背景。 你只需使用新的“透明背景”图像数据源。</target>
         <note>Image Drawer</note>
       </trans-unit>
       <trans-unit id="The editor provides you with 'Line Mode' options for the text layer, that are designed to help you control your text size." xml:space="preserve">
@@ -13460,7 +13461,7 @@ Watchy Manage View</note>
       </trans-unit>
       <trans-unit id="The free version is limited to only one Widgy slot" xml:space="preserve">
         <source>The free version is limited to only one Widgy slot</source>
-        <target>免费版本仅限于一个Widgy插槽</target>
+        <target>免费版本限用一个Widgy插槽</target>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="The live timer can only be used on this layer when no other text data sources are present." xml:space="preserve">
@@ -13490,7 +13491,7 @@ Watchy Manage View</note>
       </trans-unit>
       <trans-unit id="TheCatApi" xml:space="preserve">
         <source>TheCatApi</source>
-        <target>Cat API</target>
+        <target>ThaCatApi</target>
         <note>Data Sources</note>
       </trans-unit>
       <trans-unit id="TheCocktailDB" xml:space="preserve">
@@ -13636,7 +13637,7 @@ Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="This type of Tap Action isn't compatible with Widgy anymore. Please edit the widget and run the desired app via custom Shortcut." xml:space="preserve">
         <source>This type of Tap Action isn't compatible with Widgy anymore. Please edit the widget and run the desired app via custom Shortcut.</source>
-        <target>这种类型的轻点操作已不再与 Widgy 兼容。请编辑小组件并通过自定义快捷方式运行所需应用程序。</target>
+        <target>这种类型的轻点操作已不再与 Widgy 兼容。请编辑小组件并通过自定义快捷指令运行所需应用程序。</target>
         <note>Tap Action Popup</note>
       </trans-unit>
       <trans-unit id="This type of widget can use just one 'legacy' Tap Action." xml:space="preserve">
@@ -14051,12 +14052,12 @@ Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="U.K." xml:space="preserve">
         <source>U.K.</source>
-        <target>U.K</target>
+        <target>英制</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="U.S." xml:space="preserve">
         <source>U.S.</source>
-        <target>美国</target>
+        <target>美制</target>
         <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="UNLOCK ALL SLOTS" xml:space="preserve">
@@ -14082,7 +14083,7 @@ Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="URL/RSS/Shortcut" xml:space="preserve">
         <source>URL/RSS/Shortcut</source>
-        <target>URL/RSS/Shortcut</target>
+        <target>URL/RSS/快捷指令</target>
         <note>Tap Action Drawer</note>
       </trans-unit>
       <trans-unit id="UV Exposure" xml:space="preserve">
@@ -14840,7 +14841,7 @@ Settings View</note>
       </trans-unit>
       <trans-unit id="When designing your Watch Face, use the dual light/dark mode colors. On Watchy dark mode colors are being used when Always On Display is enabled." xml:space="preserve">
         <source>When designing your Watch Face, use the dual light/dark mode colors. On Watchy dark mode colors are being used when Always On Display is enabled.</source>
-        <target>设计表盘时，请使用浅色/深色双模式颜色。启用待机显示时，Watchy 会使用深色模式颜色。</target>
+        <target>设计表盘时，请使用浅色/深色双模式颜色。启用始终显示时，Watchy 会使用深色模式颜色。</target>
         <note>Watchy Help Message</note>
       </trans-unit>
       <trans-unit id="When editing a widget, how do I choose the font size?" xml:space="preserve">
@@ -14960,8 +14961,7 @@ Window Title</note>
       </trans-unit>
       <trans-unit id="Widget Backups" xml:space="preserve">
         <source>Widget Backups</source>
-        <target>小组件备份
-</target>
+        <target>小组件备份</target>
         <note>Create Tab Top Actions</note>
       </trans-unit>
       <trans-unit id="Widget Description" xml:space="preserve">
@@ -15257,7 +15257,7 @@ Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="You can disable Always On Display from the Watch Settings menu. Open the Settings app on your Apple Watch, go to Display &amp; Brightness, and toggle the 'Always On' option." xml:space="preserve">
         <source>You can disable Always On Display from the Watch Settings menu. Open the Settings app on your Apple Watch, go to Display &amp; Brightness, and toggle the 'Always On' option.</source>
-        <target>您可以从 Watch Settings 菜单禁用待机显示。打开 Apple Watch 上的“设置”应用，转到“显示与亮度”，然后切换“始终开启”选项。</target>
+        <target>您可以从 Watch Settings 菜单禁用待机显示。打开 Apple Watch 上的“设置”应用，转到“显示与亮度”，然后切换“始终显示”选项。</target>
         <note>Watchy Help Message</note>
       </trans-unit>
       <trans-unit id="You can easily customize the font and colors of the assigned Widgy." xml:space="preserve">
