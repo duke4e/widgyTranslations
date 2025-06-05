@@ -4596,7 +4596,7 @@ Text Drawer</note>
       </trans-unit>
       <trans-unit id="Be sure to check out Help section for a better understanding of those limitations." xml:space="preserve">
         <source>Be sure to check out Help section for a better understanding of those limitations.</source>
-        <target>为了更好地理解这些限制，请务必查看帮助部分。</source>
+        <target>为了更好地理解这些限制，请务必查看帮助部分。</target>
         <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Be sure to check out Help tab for a better understanding of those limitations." xml:space="preserve">
