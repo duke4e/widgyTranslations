@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Home Widget/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -29,6 +29,10 @@
         <source>Widgy is requesting access to your Bluetooth to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy正在请求访问您的蓝牙以将其用作数据源。与Widgy中的其他所有权限一样，这是可选的。</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSCalendarsFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Calendars Full Access Usage Description</note>
       </trans-unit>
       <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
@@ -70,6 +74,10 @@
         <target>Widgy正在请求访问您的蓝牙以将其用作数据源。与Widgy中的其他所有权限一样，这是可选的。</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
+      <trans-unit id="NSRemindersFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Reminders Full Access Usage Description</note>
+      </trans-unit>
       <trans-unit id="NSRemindersUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy正在请求访问您的提醒以将其用作数据源。与widge中的其他所有权限一样，这是可选的。</target>
@@ -79,7 +87,7 @@
   </file>
   <file original="Home Widget/en.lproj/Localizable.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="%@" xml:space="preserve">
@@ -441,6 +449,10 @@ Widget Size Name</note>
         <source>Egg White</source>
         <target>蛋白</target>
         <note>HealthKit Data</note>
+      </trans-unit>
+      <trans-unit id="Empty result" xml:space="preserve">
+        <source>Empty result</source>
+        <note>Popup Text</note>
       </trans-unit>
       <trans-unit id="Estrogen Surge" xml:space="preserve">
         <source>Estrogen Surge</source>
@@ -1013,11 +1025,6 @@ Widget Slot</note>
         <target>无法获取。</target>
         <note>Notification Badge Message</note>
       </trans-unit>
-      <trans-unit id="Unknown error" xml:space="preserve">
-        <source>Unknown error</source>
-        <target>未知错误</target>
-        <note>Popup Text</note>
-      </trans-unit>
       <trans-unit id="Unspecified" xml:space="preserve">
         <source>Unspecified</source>
         <target>未指定的</target>
@@ -1152,7 +1159,7 @@ Widget Slot</note>
   </file>
   <file original="Watchy WatchKit Extension/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1179,6 +1186,10 @@ Widget Slot</note>
         <source>Widgy is requesting access to your Bluetooth to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy正在请求访问您的蓝牙以将其用作数据源。与Widgy中的其他所有权限一样，这是可选的。</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSCalendarsFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Calendars Full Access Usage Description</note>
       </trans-unit>
       <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
@@ -1229,6 +1240,10 @@ Widget Slot</note>
         <target>Widgy正在请求访问您的蓝牙以将其用作数据源。与Widgy中的其他所有权限一样，这是可选的。</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
+      <trans-unit id="NSRemindersFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Reminders Full Access Usage Description</note>
+      </trans-unit>
       <trans-unit id="NSRemindersUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy正在请求访问您的提醒以将其用作数据源。与widge中的其他所有权限一样，这是可选的。</target>
@@ -1238,7 +1253,7 @@ Widget Slot</note>
   </file>
   <file original="Watchy WatchKit Extension/en.lproj/Localizable.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="+1d" xml:space="preserve">
@@ -2296,7 +2311,7 @@ Widget Slot</note>
   </file>
   <file original="WatchyComplications/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2344,11 +2359,6 @@ Widget Slot</note>
         <target>Widgy正在请求对您的健康数据进行读取访问，以将其用作数据源。不会写入任何数据！与Widgy中的所有其他权限一样，这是可选的。</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2023 Woodsign. All rights reserved.</source>
-        <target>Copyright © 2023 Woodsign. All rights reserved.</target>
-        <note>Copyright (human-readable)</note>
-      </trans-unit>
       <trans-unit id="NSLocationUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Location since it's a requirement for accessing the name of WiFi network. Earthquakes, Altitude and Sunrise/Sunset also need your location. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy请求访问您的位置，因为这是访问WiFi网络名称的要求。地震、海拔和日出/日落同样也需要你的位置。与Widgy中的其他所有权限一样，这是可选的。</target>
@@ -2383,7 +2393,7 @@ Widget Slot</note>
   </file>
   <file original="WatchyComplications/en.lproj/Localizable.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="%lld" xml:space="preserve">
@@ -3420,7 +3430,7 @@ Widget Slot</note>
   </file>
   <file original="Widgy/en.lproj/InfoPlist.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -3446,6 +3456,10 @@ Widget Slot</note>
         <source>Widgy is requesting access to your Bluetooth to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy正在请求访问您的蓝牙以将其用作数据源。与Widgy中的其他所有权限一样，这是可选的。</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSCalendarsFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Calendars Full Access Usage Description</note>
       </trans-unit>
       <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
@@ -3492,6 +3506,10 @@ Widget Slot</note>
         <target>Widgy正在请求访问您的蓝牙以将其用作数据源。与Widgy中的其他所有权限一样，这是可选的。</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
+      <trans-unit id="NSRemindersFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Reminders Full Access Usage Description</note>
+      </trans-unit>
       <trans-unit id="NSRemindersUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy正在请求访问您的提醒以将其用作数据源。与widge中的其他所有权限一样，这是可选的。</target>
@@ -3506,7 +3524,7 @@ Widget Slot</note>
   </file>
   <file original="Widgy/en.lproj/Localizable.strings" source-language="en" target-language="zh-CN" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="%@" xml:space="preserve">
@@ -3697,7 +3715,7 @@ Widget Slot</note>
       <trans-unit id="1-Segment Background Color" xml:space="preserve">
         <source>1-Segment Background Color</source>
         <target>1段背景色</target>
-        <note>Circle Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="1-Segment Info" xml:space="preserve">
         <source>1-Segment Info</source>
@@ -4194,7 +4212,7 @@ Edit Date Option</note>
       <trans-unit id="Alignment" xml:space="preserve">
         <source>Alignment</source>
         <target>对齐</target>
-        <note>Bar Chart Drawer
+        <note>Chart Drawer
 Drawer Tab Name</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -4246,8 +4264,8 @@ Drawer Tab Name</note>
       <trans-unit id="Alternate" xml:space="preserve">
         <source>Alternate</source>
         <target>替代</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Altitude" xml:space="preserve">
         <source>Altitude</source>
@@ -4257,12 +4275,10 @@ Drawer Tab Name</note>
       <trans-unit id="Always" xml:space="preserve">
         <source>Always</source>
         <target>总是</target>
-        <note>Bar Chart Drawer
-Circle Chart Drawer
+        <note>Chart Drawer
 Curved Text Drawer
 Effects Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Amber" xml:space="preserve">
@@ -4284,7 +4300,7 @@ Text Drawer</note>
       <trans-unit id="Angle Range" xml:space="preserve">
         <source>Angle Range</source>
         <target>角度范围</target>
-        <note>Circle Chart Drawer
+        <note>Chart Drawer
    Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Angular" xml:space="preserve">
@@ -4576,13 +4592,10 @@ Window Title</note>
         <source>Auto</source>
         <target>自动</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Effects Drawer
 Gauge Drawer
-Line Chart Drawer
-Ring Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Auto Lines" xml:space="preserve">
@@ -4667,7 +4680,7 @@ Text Drawer</note>
       <trans-unit id="Bar Edges Rounding" xml:space="preserve">
         <source>Bar Edges Rounding</source>
         <target>圆角</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Basal Body Temperature" xml:space="preserve">
         <source>Basal Body Temperature</source>
@@ -4927,7 +4940,7 @@ Image Drawer</note>
       <trans-unit id="Bottom Left Bar Edge Rounding" xml:space="preserve">
         <source>Bottom Left Bar Edge Rounding</source>
         <target>左下条形边缘圆角</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Left Corner Deformation X" xml:space="preserve">
         <source>Bottom Left Corner Deformation X</source>
@@ -4947,7 +4960,7 @@ Image Drawer</note>
       <trans-unit id="Bottom Right Bar Edge Rounding" xml:space="preserve">
         <source>Bottom Right Bar Edge Rounding</source>
         <target>右下条形边缘圆角</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Right Corner Deformation X" xml:space="preserve">
         <source>Bottom Right Corner Deformation X</source>
@@ -5260,11 +5273,6 @@ Misc</note>
         <target>颈粘膜质量</target>
         <note>Data Sources</note>
       </trans-unit>
-      <trans-unit id="Change Editor Background" xml:space="preserve">
-        <source>Change Editor Background</source>
-        <target>更改编辑器背景</target>
-        <note>Editor</note>
-      </trans-unit>
       <trans-unit id="Change Theme" xml:space="preserve">
         <source>Change Theme</source>
         <target>改变颜色和字体</target>
@@ -5295,7 +5303,7 @@ Misc</note>
       <trans-unit id="Chart Smoothing" xml:space="preserve">
         <source>Chart Smoothing</source>
         <target>图表平滑</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Charts" xml:space="preserve">
         <source>Charts</source>
@@ -5413,7 +5421,7 @@ Effects Drawer</note>
       <trans-unit id="Clockwise" xml:space="preserve">
         <source>Clockwise</source>
         <target>顺时针</target>
-        <note>Circle Chart Drawer
+        <note>Chart Drawer
    Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -5503,33 +5511,27 @@ Warnings Drawer</note>
         <source>Compact (Always 1 Decimal)</source>
         <target>Compact (Always 1 Decimal)</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Compact (Max 1 Decimal)" xml:space="preserve">
         <source>Compact (Max 1 Decimal)</source>
         <target>Compact (Max 1 Decimal)</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Compact (No Decimals)" xml:space="preserve">
         <source>Compact (No Decimals)</source>
         <target>Compact (No Decimals)</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Compact Leading" xml:space="preserve">
@@ -6049,12 +6051,12 @@ Window Title</note>
       <trans-unit id="Custom Max" xml:space="preserve">
         <source>Custom Max</source>
         <target>自定义最大值</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Custom Min" xml:space="preserve">
         <source>Custom Min</source>
         <target>自定义最小值</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Custom Stocks" xml:space="preserve">
         <source>Custom Stocks</source>
@@ -6075,7 +6077,7 @@ Data Sources</note>
       <trans-unit id="Custom Values For Min/Max" xml:space="preserve">
         <source>Custom Values For Min/Max</source>
         <target>自定义最小/最大值</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Customize" xml:space="preserve">
         <source>Customize</source>
@@ -6337,9 +6339,9 @@ Data Sources</note>
       <trans-unit id="Date Format" xml:space="preserve">
         <source>Date Format</source>
         <target>日期格式</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Date Formatter Documentation" xml:space="preserve">
@@ -7072,16 +7074,6 @@ Window Title</note>
         <target>编辑</target>
         <note>Data Sources</note>
       </trans-unit>
-      <trans-unit id="Editor" xml:space="preserve">
-        <source>Editor</source>
-        <target>编辑</target>
-        <note>Onboarding</note>
-      </trans-unit>
-      <trans-unit id="Editor Background" xml:space="preserve">
-        <source>Editor Background</source>
-        <target>编辑背景</target>
-        <note>Editor</note>
-      </trans-unit>
       <trans-unit id="Effects" xml:space="preserve">
         <source>Effects</source>
         <target>效果</target>
@@ -7130,6 +7122,10 @@ Window Title</note>
         <source>Empty Bin</source>
         <note>Create Filters</note>
       </trans-unit>
+      <trans-unit id="Empty result" xml:space="preserve">
+        <source>Empty result</source>
+        <note>Popup Text</note>
+      </trans-unit>
       <trans-unit id="Enclosed Symbols" xml:space="preserve">
         <source>Enclosed Symbols</source>
         <target>封闭符号</target>
@@ -7143,7 +7139,7 @@ Window Title</note>
       <trans-unit id="End Scale" xml:space="preserve">
         <source>End Scale</source>
         <target>结束尺度</target>
-        <note>Ring Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="End Time" xml:space="preserve">
         <source>End Time</source>
@@ -7313,21 +7309,15 @@ Password Protected Widgets</note>
         <source>Exclusive Segment Max</source>
         <target>独占段最大值</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
-Gauge Drawer
-Line Chart Drawer
-Ring Chart Drawer</note>
+Chart Drawer
+Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Exclusive Segment Min" xml:space="preserve">
         <source>Exclusive Segment Min</source>
         <target>独占段最小值</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
-Gauge Drawer
-Line Chart Drawer
-Ring Chart Drawer</note>
+Chart Drawer
+Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Exclusive Segment Mode" xml:space="preserve">
         <source>Exclusive Segment Mode</source>
@@ -7349,6 +7339,10 @@ Ring Chart Drawer</note>
         <target>展开</target>
         <note>Widget Size Name</note>
       </trans-unit>
+      <trans-unit id="Expired:" xml:space="preserve">
+        <source>Expired:</source>
+        <note>In-App Purchase Messages</note>
+      </trans-unit>
       <trans-unit id="Explore" xml:space="preserve">
         <source>Explore</source>
         <target>探索</target>
@@ -7368,9 +7362,8 @@ Ring Chart Drawer</note>
         <source>Export Everything To Zip</source>
         <note>Popup Title</note>
       </trans-unit>
-      <trans-unit id="Export Transparency Cutouts" xml:space="preserve">
-        <source>Export Transparency Cutouts</source>
-        <target>Export Transparency Cutouts</target>
+      <trans-unit id="Export Transparency" xml:space="preserve">
+        <source>Export Transparency</source>
         <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="External Action" xml:space="preserve">
@@ -7499,16 +7492,11 @@ Widget Size</note>
         <source>Fill</source>
         <target>填充</target>
         <note>Image Drawer
-   Line Chart Drawer</note>
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Fill Missing Values With Zeroes" xml:space="preserve">
         <source>Fill Missing Values With Zeroes</source>
         <note>Agenda Sources</note>
-      </trans-unit>
-      <trans-unit id="Filter" xml:space="preserve">
-        <source>Filter</source>
-        <target>筛选</target>
-        <note>Explore Tab</note>
       </trans-unit>
       <trans-unit id="Filter Layers" xml:space="preserve">
         <source>Filter Layers</source>
@@ -7621,12 +7609,12 @@ Widget Size</note>
       <trans-unit id="Font" xml:space="preserve">
         <source>Font</source>
         <target>字体</target>
-        <note>Bar Chart Drawer
+        <note>Chart Drawer
    Calendar Drawer
-   Circle Chart Drawer
+   Chart Drawer
    Drawer Tab Name
    Gauge Drawer
-   Line Chart Drawer
+   Chart Drawer
    Text Drawer
    Window Title</note>
       </trans-unit>
@@ -7653,11 +7641,11 @@ Widget Size</note>
       <trans-unit id="Font Color" xml:space="preserve">
         <source>Font Color</source>
         <target>字体颜色</target>
-        <note>Bar Chart Drawer
+        <note>Chart Drawer
    Calendar Drawer
-   Circle Chart Drawer
+   Chart Drawer
    Gauge Drawer
-   Line Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Font Format" xml:space="preserve">
@@ -7678,14 +7666,14 @@ Widget Size</note>
       <trans-unit id="Font Offset X" xml:space="preserve">
         <source>Font Offset X</source>
         <target>字体偏移X</target>
-        <note>Bar Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Offset Y" xml:space="preserve">
         <source>Font Offset Y</source>
         <target>字体偏移Y</target>
-        <note>Bar Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Rotation" xml:space="preserve">
         <source>Font Rotation</source>
@@ -7695,11 +7683,11 @@ Widget Size</note>
       <trans-unit id="Font Scale" xml:space="preserve">
         <source>Font Scale</source>
         <target>字体比例(%)</target>
-        <note>Bar Chart Drawer
+        <note>Chart Drawer
    Calendar Drawer
-   Circle Chart Drawer
+   Chart Drawer
    Gauge Drawer
-   Line Chart Drawer</note>
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Segments" xml:space="preserve">
         <source>Font Segments</source>
@@ -7709,31 +7697,31 @@ Widget Size</note>
       <trans-unit id="Font Shadow Color" xml:space="preserve">
         <source>Font Shadow Color</source>
         <target>字体阴影颜色</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Font Shadow Offset X" xml:space="preserve">
         <source>Font Shadow Offset X</source>
         <target>字体阴影偏移X</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Shadow Offset Y" xml:space="preserve">
         <source>Font Shadow Offset Y</source>
         <target>字体阴影偏移Y</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Shadow Radius" xml:space="preserve">
         <source>Font Shadow Radius</source>
         <target>字体阴影半径</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Spacing" xml:space="preserve">
         <source>Font Spacing</source>
@@ -7774,11 +7762,9 @@ Widget Size</note>
         <source>Fraction</source>
         <target>分数</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Frame" xml:space="preserve">
@@ -7832,11 +7818,6 @@ Text Drawer</note>
         <target>来自隐藏</target>
         <note>Needle Picker</note>
       </trans-unit>
-      <trans-unit id="From Symbols" xml:space="preserve">
-        <source>From Symbols</source>
-        <target>从符号</target>
-        <note>Needle Picker</note>
-      </trans-unit>
       <trans-unit id="From URL" xml:space="preserve">
         <source>From URL</source>
         <target>来自网址</target>
@@ -7860,7 +7841,7 @@ Text Drawer</note>
       <trans-unit id="Full Gradient" xml:space="preserve">
         <source>Full Gradient</source>
         <target>全梯度</target>
-        <note>Ring Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Full Moon" xml:space="preserve">
         <source>Full Moon</source>
@@ -7870,7 +7851,7 @@ Text Drawer</note>
       <trans-unit id="Full Scale" xml:space="preserve">
         <source>Full Scale</source>
         <target>全尺度</target>
-        <note>Ring Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Fully Charged" xml:space="preserve">
         <source>Fully Charged</source>
@@ -7946,11 +7927,6 @@ Text Drawer</note>
         <source>Get URL</source>
         <target>获取URL</target>
         <note>Sharing</note>
-      </trans-unit>
-      <trans-unit id="Get the most out of Widgy!" xml:space="preserve">
-        <source>Get the most out of Widgy!</source>
-        <target>充分利用 Widgy！</target>
-        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Getting You Started" xml:space="preserve">
         <source>Getting You Started</source>
@@ -8365,7 +8341,7 @@ Layer Properties</note>
       <trans-unit id="Hole Width" xml:space="preserve">
         <source>Hole Width</source>
         <target>孔宽</target>
-        <note>Circle Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
@@ -8385,7 +8361,7 @@ Layer Properties</note>
       <trans-unit id="Horizontal" xml:space="preserve">
         <source>Horizontal</source>
         <target>水平</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Horizontal Alignment" xml:space="preserve">
         <source>Horizontal Alignment</source>
@@ -8400,23 +8376,23 @@ Layer Properties</note>
       <trans-unit id="Horizontal Line Color" xml:space="preserve">
         <source>Horizontal Line Color</source>
         <target>水平线颜色</target>
-        <note>Line Chart Drawer
+        <note>Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Horizontal Line Count" xml:space="preserve">
         <source>Horizontal Line Count</source>
         <target>水平线计数</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Horizontal Line Dash" xml:space="preserve">
         <source>Horizontal Line Dash</source>
         <target>水平划线</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Horizontal Line Thickness" xml:space="preserve">
         <source>Horizontal Line Thickness</source>
         <target>水平线厚度</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Horoscope" xml:space="preserve">
         <source>Horoscope</source>
@@ -8782,11 +8758,6 @@ Layer Properties</note>
         <note>Button Title
    Widget Preview Button</note>
       </trans-unit>
-      <trans-unit id="Import &amp; Export" xml:space="preserve">
-        <source>Import &amp; Export</source>
-        <target>导入 &amp; 导出</target>
-        <note>Button Title</note>
-      </trans-unit>
       <trans-unit id="Import .widgy File From Files" xml:space="preserve">
         <source>Import .widgy File From Files</source>
         <target>从文件导入 .widgy 文件</target>
@@ -8806,6 +8777,7 @@ Layer Properties</note>
         <source>Import From Photos</source>
         <target>从照片导入</target>
         <note>Button Title
+Needle Picker
 Stash View</note>
       </trans-unit>
       <trans-unit id="Import From Photos (With PNG Transparency)" xml:space="preserve">
@@ -8816,7 +8788,16 @@ Stash View</note>
       <trans-unit id="Import From Stash" xml:space="preserve">
         <source>Import From Stash</source>
         <target>从收藏夹导入</target>
-        <note>Button Title</note>
+        <note>Button Title
+Needle Picker</note>
+      </trans-unit>
+      <trans-unit id="Import From Symbols" xml:space="preserve">
+        <source>Import From Symbols</source>
+        <note>Needle Picker</note>
+      </trans-unit>
+      <trans-unit id="Import From URL" xml:space="preserve">
+        <source>Import From URL</source>
+        <note>Needle Picker</note>
       </trans-unit>
       <trans-unit id="Import From URL Or JSON" xml:space="preserve">
         <source>Import From URL Or JSON</source>
@@ -8862,6 +8843,18 @@ Stash View</note>
         <source>Import Widgy</source>
         <target>导入Widgy</target>
         <note>Create Tab Top Actions</note>
+      </trans-unit>
+      <trans-unit id="Important Note: This purchase unlocks the features above, but it does not include Home Screen Slots, Lock Screen Slots or Live Activities — those are separate purchases." xml:space="preserve">
+        <source>Important Note: This purchase unlocks the features above, but it does not include Home Screen Slots, Lock Screen Slots or Live Activities — those are separate purchases.</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="Important Note: This purchase unlocks the features above, but it does not include Home Screen Slots, Watchy, or Apple Watch slots — those are separate purchases." xml:space="preserve">
+        <source>Important Note: This purchase unlocks the features above, but it does not include Home Screen Slots, Watchy, or Apple Watch slots — those are separate purchases.</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="Important Note: This purchase unlocks the features above, but it does not include Lock Screen Slots, Live Activities, Watchy, or Apple Watch slots — those are separate purchases." xml:space="preserve">
+        <source>Important Note: This purchase unlocks the features above, but it does not include Lock Screen Slots, Live Activities, Watchy, or Apple Watch slots — those are separate purchases.</source>
+        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Imported" xml:space="preserve">
         <source>Imported</source>
@@ -9030,7 +9023,7 @@ Widget Size</note>
       <trans-unit id="Inset Symbols And Text" xml:space="preserve">
         <source>Inset Symbols And Text</source>
         <target>插入符号和文本</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Inset Width" xml:space="preserve">
         <source>Inset Width</source>
@@ -9065,8 +9058,8 @@ Widget Size</note>
       <trans-unit id="Interpolate" xml:space="preserve">
         <source>Interpolate</source>
         <target>插值</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Interpolation" xml:space="preserve">
         <source>Interpolation</source>
@@ -9088,11 +9081,6 @@ Widget Size</note>
         <target>阴道内环</target>
         <note>HealthKit Data</note>
       </trans-unit>
-      <trans-unit id="Introducing Watchy" xml:space="preserve">
-        <source>Introducing Watchy</source>
-        <target>介绍 Watchy</target>
-        <note>Onboarding</note>
-      </trans-unit>
       <trans-unit id="Invert Colors" xml:space="preserve">
         <source>Invert Colors</source>
         <target>反转颜色</target>
@@ -9101,7 +9089,7 @@ Widget Size</note>
       <trans-unit id="Invert Values" xml:space="preserve">
         <source>Invert Values</source>
         <target>反转值</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Ionicons" xml:space="preserve">
         <source>Ionicons</source>
@@ -9226,6 +9214,10 @@ Widget Size</note>
         <source>Keep Button Configuration</source>
         <target>保持按钮配置</target>
         <note>Popup Button</note>
+      </trans-unit>
+      <trans-unit id="Keep in mind that a single widget failure can sometimes cause the others to fail as well." xml:space="preserve">
+        <source>Keep in mind that a single widget failure can sometimes cause the others to fail as well.</source>
+        <note>Popup Message</note>
       </trans-unit>
       <trans-unit id="Kerning" xml:space="preserve">
         <source>Kerning</source>
@@ -9400,7 +9392,7 @@ Widget Size</note>
       <trans-unit id="Leading" xml:space="preserve">
         <source>Leading</source>
         <target>左对齐</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Lean Body Mass" xml:space="preserve">
         <source>Lean Body Mass</source>
@@ -9542,7 +9534,15 @@ Effects Drawer</note>
       <trans-unit id="Lines In Front" xml:space="preserve">
         <source>Lines In Front</source>
         <target>前面的线</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
+      </trans-unit>
+      <trans-unit id="Liquid Glass: Off" xml:space="preserve">
+        <source>Liquid Glass: Off</source>
+        <note>Transparent Background</note>
+      </trans-unit>
+      <trans-unit id="Liquid Glass: On" xml:space="preserve">
+        <source>Liquid Glass: On</source>
+        <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="List Separator" xml:space="preserve">
         <source>List Separator</source>
@@ -9687,10 +9687,6 @@ Warnings Drawer</note>
         <target>锁屏小组件也可以作为手表上的小组件使用。在编辑锁屏小组件时，打开文档选项卡来调整一些手表特有的选项。</target>
         <note>Watchy Help Message</note>
       </trans-unit>
-      <trans-unit id="Login" xml:space="preserve">
-        <source>Login</source>
-        <note>Spotify API Setup</note>
-      </trans-unit>
       <trans-unit id="Long press on any custom color or gradient to show additional options." xml:space="preserve">
         <source>Long press on any custom color or gradient to show additional options.</source>
         <target>长按任何自定义颜色或渐变以显示其他选项。</target>
@@ -9756,11 +9752,6 @@ Warnings Drawer</note>
         <source>Loss Of Taste</source>
         <target>味觉损失</target>
         <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="Lots Of Data" xml:space="preserve">
-        <source>Lots Of Data</source>
-        <target>大量数据</target>
-        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Low Cardio Fitness Event" xml:space="preserve">
         <source>Low Cardio Fitness Event</source>
@@ -9863,10 +9854,6 @@ Warnings Drawer</note>
         <source>Make sure that your Widget looks good both in Light and Dark mode.</source>
         <target>确保你的小组件在浅色和深色模式下都很美观。</target>
         <note>Warnings Drawer</note>
-      </trans-unit>
-      <trans-unit id="Make sure to check out the Help section for a better understanding of how Watchy works." xml:space="preserve">
-        <source>Make sure to check out the Help section for a better understanding of how Watchy works.</source>
-        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Make sure to have the 'Widgy-Linker' Shortcut installed on your device. It can be found in Manage Tab/More Settings/Shortcuts/Siri Shortcuts For Extra Widgy Functionality." xml:space="preserve">
         <source>Make sure to have the 'Widgy-Linker' Shortcut installed on your device. It can be found in Manage Tab/More Settings/Shortcuts/Siri Shortcuts For Extra Widgy Functionality.</source>
@@ -9975,9 +9962,9 @@ Warnings Drawer</note>
       <trans-unit id="Max Segments" xml:space="preserve">
         <source>Max Segments</source>
         <target>最大分段数</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Temperature" xml:space="preserve">
         <source>Max. Temperature</source>
@@ -10670,21 +10657,6 @@ Widget Settings View</note>
         <target>东北</target>
         <note>Widget Default Messages</note>
       </trans-unit>
-      <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Lock Screen Slots or Live Activities!" xml:space="preserve">
-        <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Lock Screen Slots or Live Activities!</source>
-        <target>注意：Widgy还有其他购买！本购买不会解锁主屏幕插槽、锁屏插槽或实时活动！</target>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
-      <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Watchy or Apple Watch Slots!" xml:space="preserve">
-        <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Watchy or Apple Watch Slots!</source>
-        <target>注意：Widgy还有其他购买！本购买不会解锁主屏幕插槽、Watchy或Apple Watch插槽！</target>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
-      <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Lock Screen Slots, Live Activities, Watchy or Apple Watch Slots!" xml:space="preserve">
-        <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Lock Screen Slots, Live Activities, Watchy or Apple Watch Slots!</source>
-        <target>注意：Widgy还有其他购买！本购买不会解锁锁屏插槽、实时活动、Watchy或Apple Watch插槽！</target>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
       <trans-unit id="NW" xml:space="preserve">
         <source>NW</source>
         <target>西北</target>
@@ -10867,6 +10839,10 @@ Widget Settings View</note>
       <trans-unit id="No subscriptions or hidden fees, just a one-time purchase" xml:space="preserve">
         <source>No subscriptions or hidden fees, just a one-time purchase</source>
         <target>没有订阅或隐藏费用，只是一次性购买</target>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="No subscriptions. No hidden fees. Just more Widgy magic, forever." xml:space="preserve">
+        <source>No subscriptions. No hidden fees. Just more Widgy magic, forever.</source>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
@@ -11196,11 +11172,9 @@ Window Title</note>
         <source>Ordinal</source>
         <target>序号</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Origin" xml:space="preserve">
@@ -11232,19 +11206,19 @@ Text Drawer</note>
       <trans-unit id="Outline" xml:space="preserve">
         <source>Outline</source>
         <target>轮廓</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Outline Color" xml:space="preserve">
         <source>Outline Color</source>
         <target>边框颜色</target>
         <note>Effects Drawer
-   Line Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Outline Dash" xml:space="preserve">
         <source>Outline Dash</source>
         <target>轮廓破折号</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Outline Width" xml:space="preserve">
         <source>Outline Width</source>
@@ -11483,6 +11457,10 @@ Text Drawer</note>
         <target>请允许访问您的照片。</target>
         <note>Albums Drawer</note>
       </trans-unit>
+      <trans-unit id="Please apply transparency again" xml:space="preserve">
+        <source>Please apply transparency again</source>
+        <note>Create View</note>
+      </trans-unit>
       <trans-unit id="Please check the restriction settings in the Settings app and then try again." xml:space="preserve">
         <source>Please check the restriction settings in the Settings app and then try again.</source>
         <target>请在“设置”应用中检查限制设置，然后重试。</target>
@@ -11556,10 +11534,8 @@ Text Drawer</note>
       <trans-unit id="Prefix" xml:space="preserve">
         <source>Prefix</source>
         <target>前缀</target>
-        <note>Bar Chart Drawer
-Circle Chart Drawer
-Gauge Drawer
-Line Chart Drawer</note>
+        <note>Chart Drawer
+Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Pregnancy" xml:space="preserve">
         <source>Pregnancy</source>
@@ -11779,11 +11755,6 @@ Line Chart Drawer</note>
         <source>Push From Top</source>
         <target>Push From Top</target>
         <note>Effects Drawer</note>
-      </trans-unit>
-      <trans-unit id="QR Codes" xml:space="preserve">
-        <source>QR Codes</source>
-        <target>二维码</target>
-        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Quick Access" xml:space="preserve">
         <source>Quick Access</source>
@@ -12080,6 +12051,10 @@ Effects Drawer</note>
         <target>去掉</target>
         <note>Popup Title</note>
       </trans-unit>
+      <trans-unit id="Remove the 15-minute Watchy limit and unlock Complication slots — all with a single one-time purchase." xml:space="preserve">
+        <source>Remove the 15-minute Watchy limit and unlock Complication slots — all with a single one-time purchase.</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
       <trans-unit id="Rename" xml:space="preserve">
         <source>Rename</source>
         <target>重命名</target>
@@ -12199,6 +12174,10 @@ Effects Drawer</note>
         <source>Resting Heart Rate</source>
         <target>静息心率</target>
         <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Restore" xml:space="preserve">
+        <source>Restore</source>
+        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Restore Backup" xml:space="preserve">
         <source>Restore Backup</source>
@@ -12478,37 +12457,34 @@ Effects Drawer</note>
       <trans-unit id="Segment" xml:space="preserve">
         <source>Segment</source>
         <target>分割</target>
-        <note>Bar Chart Drawer
-Circle Chart Drawer
-Gauge Drawer
-Line Chart Drawer
-Ring Chart Drawer</note>
+        <note>Chart Drawer
+Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Segment Color Mode" xml:space="preserve">
         <source>Segment Color Mode</source>
         <target>段颜色模式</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Segment Colors" xml:space="preserve">
         <source>Segment Colors</source>
         <target>段颜色</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
+        <note>Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Segment Outline" xml:space="preserve">
         <source>Segment Outline</source>
         <target>线段轮廓</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
+        <note>Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Segment Outline Color" xml:space="preserve">
         <source>Segment Outline Color</source>
         <target>线段轮廓颜色</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Select Web API and NOT iOS API when creating your app." xml:space="preserve">
         <source>Select Web API and NOT iOS API when creating your app.</source>
@@ -12608,7 +12584,7 @@ Ring Chart Drawer</note>
       <trans-unit id="Shadow Offset" xml:space="preserve">
         <source>Shadow Offset</source>
         <target>阴影偏移</target>
-        <note>Ring Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Shadow Offset X" xml:space="preserve">
         <source>Shadow Offset X</source>
@@ -12721,16 +12697,16 @@ Ring Chart Drawer</note>
       <trans-unit id="Show Names" xml:space="preserve">
         <source>Show Names</source>
         <target>显示名称</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Show Percentages" xml:space="preserve">
         <source>Show Percentages</source>
         <target>显示百分比</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Show Unit" xml:space="preserve">
         <source>Show Unit</source>
@@ -12741,9 +12717,9 @@ Text Drawer</note>
       <trans-unit id="Show Values" xml:space="preserve">
         <source>Show Values</source>
         <target>显示值</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Show Week Number" xml:space="preserve">
         <source>Show Week Number</source>
@@ -12791,8 +12767,7 @@ Text Drawer</note>
       </trans-unit>
       <trans-unit id="Siri Shortcuts For Extra Widgy Functionality" xml:space="preserve">
         <source>Siri Shortcuts For Extra Widgy Functionality</source>
-        <note>Transparent Background
-Widget Settings View</note>
+        <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Six Minute Walk Test Distance" xml:space="preserve">
         <source>Six Minute Walk Test Distance</source>
@@ -12940,17 +12915,6 @@ Widget Settings View</note>
         <target>喉咙痛</target>
         <note>Data Sources</note>
       </trans-unit>
-      <trans-unit id="Sort" xml:space="preserve">
-        <source>Sort</source>
-        <target>种类</target>
-        <note>Create Tab
-Explore Tab</note>
-      </trans-unit>
-      <trans-unit id="Sort &amp; Filter" xml:space="preserve">
-        <source>Sort &amp; Filter</source>
-        <target>排序 &amp; 过滤</target>
-        <note>Create Tab</note>
-      </trans-unit>
       <trans-unit id="Sort And Filter" xml:space="preserve">
         <source>Sort And Filter</source>
         <target>排序和过滤</target>
@@ -13003,7 +12967,7 @@ Warnings Drawer</note>
       <trans-unit id="Spacing" xml:space="preserve">
         <source>Spacing</source>
         <target>间距</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Speak Screen" xml:space="preserve">
         <source>Speak Screen</source>
@@ -13019,11 +12983,9 @@ Warnings Drawer</note>
         <source>Spelled Out</source>
         <target>拼写出来</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Spotify" xml:space="preserve">
@@ -13058,7 +13020,7 @@ Window Title</note>
       <trans-unit id="Start Angle" xml:space="preserve">
         <source>Start Angle</source>
         <target>起始角度</target>
-        <note>Circle Chart Drawer
+        <note>Chart Drawer
    Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Start Date" xml:space="preserve">
@@ -13074,7 +13036,7 @@ Window Title</note>
       <trans-unit id="Start Scale" xml:space="preserve">
         <source>Start Scale</source>
         <target>开始刻度</target>
-        <note>Ring Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Start Time" xml:space="preserve">
         <source>Start Time</source>
@@ -13085,16 +13047,6 @@ Window Title</note>
         <source>Start Time (Optional, in minutes 0-1439)</source>
         <target>开始时间（可选，单位为分钟 0-1439）</target>
         <note>Automation View</note>
-      </trans-unit>
-      <trans-unit id="Starting from version 3.0 and onward, Live Activities and Dynamic Island slots will be unlocked as well." xml:space="preserve">
-        <source>Starting from version 3.0 and onward, Live Activities and Dynamic Island slots will be unlocked as well.</source>
-        <target>从版本 3.0 开始，实时活动和灵动岛插槽也将被解锁。</target>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
-      <trans-unit id="Starting from version 3.0 and onward, Watchy Complications slots will be unlocked as well." xml:space="preserve">
-        <source>Starting from version 3.0 and onward, Watchy Complications slots will be unlocked as well.</source>
-        <target>从版本 3.0 开始，Watchy 组件插槽也将被解锁。</target>
-        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Starting with iOS 18 it's possible to hide all app and widget titles by choosing the new Large Icon mode." xml:space="preserve">
         <source>Starting with iOS 18 it's possible to hide all app and widget titles by choosing the new Large Icon mode.</source>
@@ -13231,10 +13183,8 @@ Warnings Drawer</note>
       <trans-unit id="Suffix" xml:space="preserve">
         <source>Suffix</source>
         <target>后缀</target>
-        <note>Bar Chart Drawer
-Circle Chart Drawer
-Gauge Drawer
-Line Chart Drawer</note>
+        <note>Chart Drawer
+Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Sum" xml:space="preserve">
         <source>Sum</source>
@@ -13363,7 +13313,7 @@ Line Chart Drawer</note>
         <target>符号</target>
         <note>Drawer Tab Name
    Layer Component
-   Line Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Symbol + Text" xml:space="preserve">
@@ -13379,29 +13329,29 @@ Line Chart Drawer</note>
       <trans-unit id="Symbol Color" xml:space="preserve">
         <source>Symbol Color</source>
         <target>符号颜色</target>
-        <note>Line Chart Drawer
+        <note>Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Symbol Offset X" xml:space="preserve">
         <source>Symbol Offset X</source>
         <target>符号偏移X</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Offset Y" xml:space="preserve">
         <source>Symbol Offset Y</source>
         <target>符号偏移Y</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Rotation" xml:space="preserve">
         <source>Symbol Rotation</source>
         <target>符号旋转</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Scale" xml:space="preserve">
         <source>Symbol Scale</source>
         <target>符号比例</target>
         <note>Calendar Drawer
-   Line Chart Drawer</note>
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Segments" xml:space="preserve">
         <source>Symbol Segments</source>
@@ -13411,23 +13361,23 @@ Line Chart Drawer</note>
       <trans-unit id="Symbol Shadow Color" xml:space="preserve">
         <source>Symbol Shadow Color</source>
         <target>符号阴影颜色</target>
-        <note>Line Chart Drawer
+        <note>Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Symbol Shadow Offset X" xml:space="preserve">
         <source>Symbol Shadow Offset X</source>
         <target>符号阴影偏移X</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Shadow Offset Y" xml:space="preserve">
         <source>Symbol Shadow Offset Y</source>
         <target>符号阴影偏移Y</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Shadow Radius" xml:space="preserve">
         <source>Symbol Shadow Radius</source>
         <target>符号阴影半径</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Tangent Rotation" xml:space="preserve">
         <source>Symbol Tangent Rotation</source>
@@ -13694,11 +13644,6 @@ Watchy Manage View</note>
         <target>第十次</target>
         <note>Gauge Drawer</note>
       </trans-unit>
-      <trans-unit id="Test" xml:space="preserve">
-        <source>Test</source>
-        <target>测试</target>
-        <note>Button Title</note>
-      </trans-unit>
       <trans-unit id="Text" xml:space="preserve">
         <source>Text</source>
         <target>文本</target>
@@ -13719,7 +13664,7 @@ Watchy Manage View</note>
       <trans-unit id="Text On Top" xml:space="preserve">
         <source>Text On Top</source>
         <target>顶部文字</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Thank you for your report." xml:space="preserve">
         <source>Thank you for your report.</source>
@@ -13769,6 +13714,10 @@ Watchy Manage View</note>
         <source>The editor provides you with 'Line Mode' options for the text layer, that are designed to help you control your text size.</source>
         <target>编辑器为您提供文本层的“线条模式”选项，旨在帮助您控制文本大小。</target>
         <note>Widgy Help Message</note>
+      </trans-unit>
+      <trans-unit id="The following widgets may have caused the issue:" xml:space="preserve">
+        <source>The following widgets may have caused the issue:</source>
+        <note>Popup Message</note>
       </trans-unit>
       <trans-unit id="The free version is limited to only one Widgy slot" xml:space="preserve">
         <source>The free version is limited to only one Widgy slot</source>
@@ -13839,16 +13788,6 @@ Watchy Manage View</note>
         <source>TheMealDB - Meal</source>
         <target>膳食数据库 - 膳食</target>
         <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="Themes" xml:space="preserve">
-        <source>Themes</source>
-        <target>主题</target>
-        <note>Onboarding</note>
-      </trans-unit>
-      <trans-unit id="There are no subscriptions or hidden fees, just a one-time purchase" xml:space="preserve">
-        <source>There are no subscriptions or hidden fees, just a one-time purchase</source>
-        <target>没有订阅或隐藏费用，只需一次性购买</target>
-        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="There's no need to tap on those tiny icons" xml:space="preserve">
         <source>There's no need to tap on those tiny icons</source>
@@ -13938,16 +13877,6 @@ Warnings Drawer</note>
       <trans-unit id="This process requires setting up a Spotify developer app." xml:space="preserve">
         <source>This process requires setting up a Spotify developer app.</source>
         <note>Spotify API Setup</note>
-      </trans-unit>
-      <trans-unit id="This purchase will unlock all Circular, Rectangular, and Inline Widgy slots and will help fund the upcoming updates." xml:space="preserve">
-        <source>This purchase will unlock all Circular, Rectangular, and Inline Widgy slots and will help fund the upcoming updates.</source>
-        <target>此次购买将解锁所有圆形、矩形及内联式 Widgy 插槽，并助力即将到来的更新开发。</target>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
-      <trans-unit id="This purchase will unlock all Small, Medium, Large and XL Widgy slots and will help fund the upcoming updates." xml:space="preserve">
-        <source>This purchase will unlock all Small, Medium, Large and XL Widgy slots and will help fund the upcoming updates.</source>
-        <target>此次购买将解锁所有小、中、大及特大号 Widgy 插槽，并助力即将到来的更新开发。</target>
-        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="This tap action will use the new iOS 17 widget reload, which doesn't open the Widgy app." xml:space="preserve">
         <source>This tap action will use the new iOS 17 widget reload, which doesn't open the Widgy app.</source>
@@ -14220,7 +14149,7 @@ Warnings Drawer</note>
       <trans-unit id="Top Left Bar Edge Rounding" xml:space="preserve">
         <source>Top Left Bar Edge Rounding</source>
         <target>左上条形边缘圆角</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Top Left Corner Deformation X" xml:space="preserve">
         <source>Top Left Corner Deformation X</source>
@@ -14240,7 +14169,7 @@ Warnings Drawer</note>
       <trans-unit id="Top Right Bar Edge Rounding" xml:space="preserve">
         <source>Top Right Bar Edge Rounding</source>
         <target>右上条形边缘圆角</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Top Right Corner Deformation X" xml:space="preserve">
         <source>Top Right Corner Deformation X</source>
@@ -14265,7 +14194,7 @@ Warnings Drawer</note>
       <trans-unit id="Trailing" xml:space="preserve">
         <source>Trailing</source>
         <target>右对齐</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Translations" xml:space="preserve">
         <source>Translations</source>
@@ -14478,6 +14407,10 @@ Warnings Drawer</note>
         <target>Unicode 符号</target>
         <note>Symbol List</note>
       </trans-unit>
+      <trans-unit id="Unknown Id:" xml:space="preserve">
+        <source>Unknown Id:</source>
+        <note>In-App Purchase Messages</note>
+      </trans-unit>
       <trans-unit id="Unknown error" xml:space="preserve">
         <source>Unknown error</source>
         <target>未知错误</target>
@@ -14502,6 +14435,14 @@ Watchy Manage View</note>
         <note>Full Version Purchase Screen
 Watchy Manage View</note>
       </trans-unit>
+      <trans-unit id="Unlock Circular, Rectangular &amp; Inline slots, plus Live Activities and Dynamic Island — all with a single one-time purchase." xml:space="preserve">
+        <source>Unlock Circular, Rectangular &amp; Inline slots, plus Live Activities and Dynamic Island — all with a single one-time purchase.</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="Unlock Even More Widgy Power" xml:space="preserve">
+        <source>Unlock Even More Widgy Power</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
       <trans-unit id="Unlock Password Protected Widgets" xml:space="preserve">
         <source>Unlock Password Protected Widgets</source>
         <note>Password Protected Widgets</note>
@@ -14510,6 +14451,10 @@ Watchy Manage View</note>
         <source>Unlock Right Away</source>
         <target>立即解锁</target>
         <note>Popup Button</note>
+      </trans-unit>
+      <trans-unit id="Unlock Small, Medium, Large &amp; XL slots — all with a single one-time purchase that also supports future updates." xml:space="preserve">
+        <source>Unlock Small, Medium, Large &amp; XL slots — all with a single one-time purchase that also supports future updates.</source>
+        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Unspecified" xml:space="preserve">
         <source>Unspecified</source>
@@ -14607,6 +14552,10 @@ Widget Settings View</note>
         <target>已用内存百分比</target>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Useful Siri Shortcuts" xml:space="preserve">
+        <source>Useful Siri Shortcuts</source>
+        <note>Transparent Background</note>
+      </trans-unit>
       <trans-unit id="User Info" xml:space="preserve">
         <source>User Info</source>
         <target>用户信息</target>
@@ -14697,23 +14646,23 @@ Group Aligment Drawer</note>
       <trans-unit id="Vertical Line Color" xml:space="preserve">
         <source>Vertical Line Color</source>
         <target>垂直线颜色</target>
-        <note>Line Chart Drawer
+        <note>Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Vertical Line Count" xml:space="preserve">
         <source>Vertical Line Count</source>
         <target>垂直线计数</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Vertical Line Dash" xml:space="preserve">
         <source>Vertical Line Dash</source>
         <target>垂直线虚线</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Vertical Line Thickness" xml:space="preserve">
         <source>Vertical Line Thickness</source>
         <target>垂直线厚度</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Vertical Text" xml:space="preserve">
         <source>Vertical Text</source>
@@ -14894,16 +14843,6 @@ Widget Size</note>
         <target>Watchy插槽</target>
         <note>In-App Purchase Messages
 Widget Slot Name</note>
-      </trans-unit>
-      <trans-unit id="Watchy has everything you love about Widgy" xml:space="preserve">
-        <source>Watchy has everything you love about Widgy</source>
-        <target>Watchy 拥有您喜爱的关于 Widgy 的一切</target>
-        <note>Onboarding</note>
-      </trans-unit>
-      <trans-unit id="Watchy is Widgy for your Watch!" xml:space="preserve">
-        <source>Watchy is Widgy for your Watch!</source>
-        <target>Watchy 是您手表的 Widgy！</target>
-        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Watchy is only available on the latest major watchOS version, so be sure you're up to date with system updates." xml:space="preserve">
         <source>Watchy is only available on the latest major watchOS version, so be sure you're up to date with system updates.</source>
@@ -15209,8 +15148,8 @@ Settings View</note>
         <target>编辑小组件时，如何选择字体大小？</target>
         <note>Widgy Help Title</note>
       </trans-unit>
-      <trans-unit id="When everything is filled in correctly, tap the &quot;Login&quot; in the top right to finish." xml:space="preserve">
-        <source>When everything is filled in correctly, tap the "Login" in the top right to finish.</source>
+      <trans-unit id="When everything is filled in correctly, tap the ✓ in the top right to finish." xml:space="preserve">
+        <source>When everything is filled in correctly, tap the ✓ in the top right to finish.</source>
         <note>Spotify API Setup</note>
       </trans-unit>
       <trans-unit id="While in low power mode, Widgets refresh less frequent." xml:space="preserve">
@@ -15377,6 +15316,10 @@ Window Title</note>
         <source>Widget won't display all data properly.</source>
         <target>小组件无法正确显示所有数据。</target>
         <note>Pick View</note>
+      </trans-unit>
+      <trans-unit id="Widgets Failed to Load" xml:space="preserve">
+        <source>Widgets Failed to Load</source>
+        <note>Popup Title</note>
       </trans-unit>
       <trans-unit id="Widgets are limited to a budget of just 30 MB of system memory. Adding a Dark Mode variant of the image increases the chances of overflowing that memory budget." xml:space="preserve">
         <source>Widgets are limited to a budget of just 30 MB of system memory. Adding a Dark Mode variant of the image increases the chances of overflowing that memory budget.</source>
@@ -15625,20 +15568,10 @@ Warnings Drawer</note>
         <target>您可以导入任何在Widgy中创建的文件。导入程序不会将文件转换为任何其他格式（例如Widgy到Watchy）。</target>
         <note>Import Screen</note>
       </trans-unit>
-      <trans-unit id="You can re-sync Watchys as many times as you want, or you can remove the time and slot limits with just a one-time purchase" xml:space="preserve">
-        <source>You can re-sync Watchys as many times as you want, or you can remove the time and slot limits with just a one-time purchase</source>
-        <target>您可以多次重新同步Watchy，或者只需一次购买即可删除时间和插槽限制。</target>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
       <trans-unit id="You can resize the drawer to any size." xml:space="preserve">
         <source>You can resize the drawer to any size.</source>
         <target>你可以调整抽屉的大小到任何大小。</target>
         <note>Onboarding</note>
-      </trans-unit>
-      <trans-unit id="You can test Watchy for free, but after 15 minutes, all your Watchy slots will be unassigned from your Watch." xml:space="preserve">
-        <source>You can test Watchy for free, but after 15 minutes, all your Watchy slots will be unassigned from your Watch.</source>
-        <target>您可以免费测试Watchy，但在15分钟后，所有您的Watchy插槽都将从您的手表上取消分配。</target>
-        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="You can use the || delimiter both in source and target to replace multiple strings at the same time." xml:space="preserve">
         <source>You can use the || delimiter both in source and target to replace multiple strings at the same time.</source>

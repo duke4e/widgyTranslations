@@ -2,7 +2,7 @@
 <xliff xmlns="urn:oasis:names:tc:xliff:document:1.2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.2" xsi:schemaLocation="urn:oasis:names:tc:xliff:document:1.2 http://docs.oasis-open.org/xliff/v1.2/os/xliff-core-1.2-strict.xsd">
   <file original="Home Widget/en.lproj/InfoPlist.strings" source-language="en" target-language="ko-KR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -29,6 +29,10 @@
         <source>Widgy is requesting access to your Bluetooth to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy는 위젯에 이용할 데이터를 가져오기 위해서 사용자의 Bluetooth 상태에 접근합니다. Widgy의 다른 모든 접근 권한과 마찬가지로, 이는 선택 사항입니다. Widgy가 이 정보에 접근하는 것에 동의하십니까?</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSCalendarsFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Calendars Full Access Usage Description</note>
       </trans-unit>
       <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
@@ -70,6 +74,10 @@
         <target>Widgy는 위젯에 이용할 데이터를 가져오기 위해서 사용자의 Bluetooth 상태에 접근합니다. Widgy의 다른 모든 접근 권한과 마찬가지로, 이는 선택 사항입니다. Widgy가 이 정보에 접근하는 것에 동의하십니까?</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
+      <trans-unit id="NSRemindersFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Reminders Full Access Usage Description</note>
+      </trans-unit>
       <trans-unit id="NSRemindersUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy 는 데이터 소스로 사용하기 위해 미리 알림에 대한 액세스를 요청하고 있습니다. Widgy 의 다른 모든 권한과 마찬가지로,이것은 선택 사항입니다.</target>
@@ -79,7 +87,7 @@
   </file>
   <file original="Home Widget/en.lproj/Localizable.strings" source-language="en" target-language="ko-KR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="%@" xml:space="preserve">
@@ -436,6 +444,10 @@ Widget Size Name</note>
         <source>Egg White</source>
         <target>달걀 흰자위</target>
         <note>HealthKit Data</note>
+      </trans-unit>
+      <trans-unit id="Empty result" xml:space="preserve">
+        <source>Empty result</source>
+        <note>Popup Text</note>
       </trans-unit>
       <trans-unit id="Estrogen Surge" xml:space="preserve">
         <source>Estrogen Surge</source>
@@ -995,11 +1007,6 @@ Widget Slot</note>
         <source>Unable to fetch.</source>
         <note>Notification Badge Message</note>
       </trans-unit>
-      <trans-unit id="Unknown error" xml:space="preserve">
-        <source>Unknown error</source>
-        <target>알 수없는 오류</target>
-        <note>Popup Text</note>
-      </trans-unit>
       <trans-unit id="Unspecified" xml:space="preserve">
         <source>Unspecified</source>
         <target>불특정</target>
@@ -1131,7 +1138,7 @@ Widget Slot</note>
   </file>
   <file original="Watchy WatchKit Extension/en.lproj/InfoPlist.strings" source-language="en" target-language="ko-KR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -1158,6 +1165,10 @@ Widget Slot</note>
         <source>Widgy is requesting access to your Bluetooth to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy는 위젯에 이용할 데이터를 가져오기 위해서 사용자의 Bluetooth 상태에 접근합니다. Widgy의 다른 모든 접근 권한과 마찬가지로, 이는 선택 사항입니다. Widgy가 이 정보에 접근하는 것에 동의하십니까?</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSCalendarsFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Calendars Full Access Usage Description</note>
       </trans-unit>
       <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
@@ -1207,6 +1218,10 @@ Widget Slot</note>
         <target>Widgy는 위젯에 이용할 데이터를 가져오기 위해서 사용자의 Bluetooth 상태에 접근합니다. Widgy의 다른 모든 접근 권한과 마찬가지로, 이는 선택 사항입니다. Widgy가 이 정보에 접근하는 것에 동의하십니까?</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
+      <trans-unit id="NSRemindersFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Reminders Full Access Usage Description</note>
+      </trans-unit>
       <trans-unit id="NSRemindersUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy 는 데이터 소스로 사용하기 위해 미리 알림에 대한 액세스를 요청하고 있습니다. Widgy 의 다른 모든 권한과 마찬가지로,이것은 선택 사항입니다.</target>
@@ -1216,7 +1231,7 @@ Widget Slot</note>
   </file>
   <file original="Watchy WatchKit Extension/en.lproj/Localizable.strings" source-language="en" target-language="ko-KR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="+1d" xml:space="preserve">
@@ -2258,7 +2273,7 @@ Widget Slot</note>
   </file>
   <file original="WatchyComplications/en.lproj/InfoPlist.strings" source-language="en" target-language="ko-KR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -2306,10 +2321,6 @@ Widget Slot</note>
         <target>Widgy는 위젯에 건강 데이터를 활용하기 위해서 접근 권한을 요청합니다. 데이터는 기록되지 않습니다. Widgy의 다른 모든 접근 권한과 마찬가지로, 이는 선택 사항입니다. Widgy가 이 정보에 접근하는 것에 동의하십니까?</target>
         <note>Privacy - Health Update Usage Description</note>
       </trans-unit>
-      <trans-unit id="NSHumanReadableCopyright" xml:space="preserve">
-        <source>Copyright © 2023 Woodsign. All rights reserved.</source>
-        <note>Copyright (human-readable)</note>
-      </trans-unit>
       <trans-unit id="NSLocationUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Location since it's a requirement for accessing the name of WiFi network. Earthquakes, Altitude and Sunrise/Sunset also need your location. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy는 위젯에 위치 서비스가 필요한 정보 (일몰/일출/Wi-Fi 이름 등)을 이용하기 위해서 접근 권한을 요청합니다. Widgy의 다른 모든 접근 권한과 마찬가지로, 이는 선택 사항입니다. Widgy가 이 정보에 접근하는 것에 동의하십니까?</target>
@@ -2344,7 +2355,7 @@ Widget Slot</note>
   </file>
   <file original="WatchyComplications/en.lproj/Localizable.strings" source-language="en" target-language="ko-KR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="%lld" xml:space="preserve">
@@ -3369,7 +3380,7 @@ Widget Slot</note>
   </file>
   <file original="Widgy/en.lproj/InfoPlist.strings" source-language="en" target-language="ko-KR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="CFBundleDisplayName" xml:space="preserve">
@@ -3395,6 +3406,10 @@ Widget Slot</note>
         <source>Widgy is requesting access to your Bluetooth to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy는 위젯에 이용할 데이터를 가져오기 위해서 사용자의 Bluetooth 상태에 접근합니다. Widgy의 다른 모든 접근 권한과 마찬가지로, 이는 선택 사항입니다. Widgy가 이 정보에 접근하는 것에 동의하십니까?</target>
         <note>Privacy - Bluetooth Peripheral Usage Description</note>
+      </trans-unit>
+      <trans-unit id="NSCalendarsFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Calendars Full Access Usage Description</note>
       </trans-unit>
       <trans-unit id="NSCalendarsUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Calendar to use it as a data source. As with every other permission in Widgy, this is optional.</source>
@@ -3441,6 +3456,10 @@ Widget Slot</note>
         <target>Widgy는 위젯에 이용할 데이터를 가져오기 위해서 사용자의 Bluetooth 상태에 접근합니다. Widgy의 다른 모든 접근 권한과 마찬가지로, 이는 선택 사항입니다. Widgy가 이 정보에 접근하는 것에 동의하십니까?</target>
         <note>Privacy - Photo Library Usage Description</note>
       </trans-unit>
+      <trans-unit id="NSRemindersFullAccessUsageDescription" xml:space="preserve">
+        <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
+        <note>Privacy - Reminders Full Access Usage Description</note>
+      </trans-unit>
       <trans-unit id="NSRemindersUsageDescription" xml:space="preserve">
         <source>Widgy is requesting access to your Reminders to use it as a data source. As with every other permission in Widgy, this is optional.</source>
         <target>Widgy 는 데이터 소스로 사용하기 위해 미리 알림에 대한 액세스를 요청하고 있습니다. Widgy 의 다른 모든 권한과 마찬가지로,이것은 선택 사항입니다.</target>
@@ -3455,7 +3474,7 @@ Widget Slot</note>
   </file>
   <file original="Widgy/en.lproj/Localizable.strings" source-language="en" target-language="ko-KR" datatype="plaintext">
     <header>
-      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="16.4" build-num="16F6"/>
+      <tool tool-id="com.apple.dt.xcode" tool-name="Xcode" tool-version="26.0" build-num="17A321"/>
     </header>
     <body>
       <trans-unit id="%@" xml:space="preserve">
@@ -3645,7 +3664,7 @@ Widget Slot</note>
       <trans-unit id="1-Segment Background Color" xml:space="preserve">
         <source>1-Segment Background Color</source>
         <target>1-세그먼트 배경색</target>
-        <note>Circle Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="1-Segment Info" xml:space="preserve">
         <source>1-Segment Info</source>
@@ -4128,7 +4147,7 @@ Edit Date Option</note>
       <trans-unit id="Alignment" xml:space="preserve">
         <source>Alignment</source>
         <target>정렬</target>
-        <note>Bar Chart Drawer
+        <note>Chart Drawer
 Drawer Tab Name</note>
       </trans-unit>
       <trans-unit id="All" xml:space="preserve">
@@ -4178,8 +4197,8 @@ Drawer Tab Name</note>
       <trans-unit id="Alternate" xml:space="preserve">
         <source>Alternate</source>
         <target>대체</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Altitude" xml:space="preserve">
         <source>Altitude</source>
@@ -4189,12 +4208,10 @@ Drawer Tab Name</note>
       <trans-unit id="Always" xml:space="preserve">
         <source>Always</source>
         <target>항상</target>
-        <note>Bar Chart Drawer
-Circle Chart Drawer
+        <note>Chart Drawer
 Curved Text Drawer
 Effects Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Amber" xml:space="preserve">
@@ -4216,7 +4233,7 @@ Text Drawer</note>
       <trans-unit id="Angle Range" xml:space="preserve">
         <source>Angle Range</source>
         <target>각도 범위</target>
-        <note>Circle Chart Drawer
+        <note>Chart Drawer
    Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Angular" xml:space="preserve">
@@ -4505,13 +4522,10 @@ Window Title</note>
         <source>Auto</source>
         <target>자동</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Effects Drawer
 Gauge Drawer
-Line Chart Drawer
-Ring Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Auto Lines" xml:space="preserve">
@@ -4596,7 +4610,7 @@ Text Drawer</note>
       <trans-unit id="Bar Edges Rounding" xml:space="preserve">
         <source>Bar Edges Rounding</source>
         <target>차트 모서리 라운딩</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Basal Body Temperature" xml:space="preserve">
         <source>Basal Body Temperature</source>
@@ -4852,7 +4866,7 @@ Image Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Left Bar Edge Rounding" xml:space="preserve">
         <source>Bottom Left Bar Edge Rounding</source>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Left Corner Deformation X" xml:space="preserve">
         <source>Bottom Left Corner Deformation X</source>
@@ -4868,7 +4882,7 @@ Image Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Right Bar Edge Rounding" xml:space="preserve">
         <source>Bottom Right Bar Edge Rounding</source>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Bottom Right Corner Deformation X" xml:space="preserve">
         <source>Bottom Right Corner Deformation X</source>
@@ -5170,11 +5184,6 @@ Misc</note>
         <target>자궁 경부 점액 질</target>
         <note>Data Sources</note>
       </trans-unit>
-      <trans-unit id="Change Editor Background" xml:space="preserve">
-        <source>Change Editor Background</source>
-        <target>편집기 배경 변경</target>
-        <note>Editor</note>
-      </trans-unit>
       <trans-unit id="Change Theme" xml:space="preserve">
         <source>Change Theme</source>
         <target>Change Theme</target>
@@ -5205,7 +5214,7 @@ Misc</note>
       <trans-unit id="Chart Smoothing" xml:space="preserve">
         <source>Chart Smoothing</source>
         <target>차트 다듬기</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Charts" xml:space="preserve">
         <source>Charts</source>
@@ -5319,7 +5328,7 @@ Effects Drawer</note>
       <trans-unit id="Clockwise" xml:space="preserve">
         <source>Clockwise</source>
         <target>시계 방향</target>
-        <note>Circle Chart Drawer
+        <note>Chart Drawer
    Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Close" xml:space="preserve">
@@ -5403,31 +5412,25 @@ Warnings Drawer</note>
       <trans-unit id="Compact (Always 1 Decimal)" xml:space="preserve">
         <source>Compact (Always 1 Decimal)</source>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Compact (Max 1 Decimal)" xml:space="preserve">
         <source>Compact (Max 1 Decimal)</source>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Compact (No Decimals)" xml:space="preserve">
         <source>Compact (No Decimals)</source>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Compact Leading" xml:space="preserve">
@@ -5913,11 +5916,11 @@ Window Title</note>
       </trans-unit>
       <trans-unit id="Custom Max" xml:space="preserve">
         <source>Custom Max</source>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Custom Min" xml:space="preserve">
         <source>Custom Min</source>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Custom Stocks" xml:space="preserve">
         <source>Custom Stocks</source>
@@ -5936,7 +5939,7 @@ Data Sources</note>
       </trans-unit>
       <trans-unit id="Custom Values For Min/Max" xml:space="preserve">
         <source>Custom Values For Min/Max</source>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Customize" xml:space="preserve">
         <source>Customize</source>
@@ -6171,9 +6174,9 @@ Data Sources</note>
       <trans-unit id="Date Format" xml:space="preserve">
         <source>Date Format</source>
         <target>데이터 형식</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Date Formatter Documentation" xml:space="preserve">
@@ -6885,16 +6888,6 @@ Window Title</note>
         <target>수정 중</target>
         <note>Data Sources</note>
       </trans-unit>
-      <trans-unit id="Editor" xml:space="preserve">
-        <source>Editor</source>
-        <target>편집자</target>
-        <note>Onboarding</note>
-      </trans-unit>
-      <trans-unit id="Editor Background" xml:space="preserve">
-        <source>Editor Background</source>
-        <target>편집기 배경</target>
-        <note>Editor</note>
-      </trans-unit>
       <trans-unit id="Effects" xml:space="preserve">
         <source>Effects</source>
         <target>효과</target>
@@ -6938,6 +6931,10 @@ Window Title</note>
         <source>Empty Bin</source>
         <note>Create Filters</note>
       </trans-unit>
+      <trans-unit id="Empty result" xml:space="preserve">
+        <source>Empty result</source>
+        <note>Popup Text</note>
+      </trans-unit>
       <trans-unit id="Enclosed Symbols" xml:space="preserve">
         <source>Enclosed Symbols</source>
         <target>동봉 된 기호</target>
@@ -6951,7 +6948,7 @@ Window Title</note>
       <trans-unit id="End Scale" xml:space="preserve">
         <source>End Scale</source>
         <target>엔드 스케일</target>
-        <note>Ring Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="End Time" xml:space="preserve">
         <source>End Time</source>
@@ -7119,21 +7116,15 @@ Password Protected Widgets</note>
         <source>Exclusive Segment Max</source>
         <target>독점 세그먼트 최대</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
-Gauge Drawer
-Line Chart Drawer
-Ring Chart Drawer</note>
+Chart Drawer
+Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Exclusive Segment Min" xml:space="preserve">
         <source>Exclusive Segment Min</source>
         <target>독점 세그먼트 최소</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
-Gauge Drawer
-Line Chart Drawer
-Ring Chart Drawer</note>
+Chart Drawer
+Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Exclusive Segment Mode" xml:space="preserve">
         <source>Exclusive Segment Mode</source>
@@ -7153,6 +7144,10 @@ Ring Chart Drawer</note>
         <source>Expanded</source>
         <note>Widget Size Name</note>
       </trans-unit>
+      <trans-unit id="Expired:" xml:space="preserve">
+        <source>Expired:</source>
+        <note>In-App Purchase Messages</note>
+      </trans-unit>
       <trans-unit id="Explore" xml:space="preserve">
         <source>Explore</source>
         <target>둘러보기</target>
@@ -7171,8 +7166,8 @@ Ring Chart Drawer</note>
         <source>Export Everything To Zip</source>
         <note>Popup Title</note>
       </trans-unit>
-      <trans-unit id="Export Transparency Cutouts" xml:space="preserve">
-        <source>Export Transparency Cutouts</source>
+      <trans-unit id="Export Transparency" xml:space="preserve">
+        <source>Export Transparency</source>
         <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="External Action" xml:space="preserve">
@@ -7297,16 +7292,11 @@ Widget Size</note>
         <source>Fill</source>
         <target>채우기</target>
         <note>Image Drawer
-   Line Chart Drawer</note>
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Fill Missing Values With Zeroes" xml:space="preserve">
         <source>Fill Missing Values With Zeroes</source>
         <note>Agenda Sources</note>
-      </trans-unit>
-      <trans-unit id="Filter" xml:space="preserve">
-        <source>Filter</source>
-        <target>필터</target>
-        <note>Explore Tab</note>
       </trans-unit>
       <trans-unit id="Filter Layers" xml:space="preserve">
         <source>Filter Layers</source>
@@ -7418,12 +7408,12 @@ Widget Size</note>
       <trans-unit id="Font" xml:space="preserve">
         <source>Font</source>
         <target>폰트</target>
-        <note>Bar Chart Drawer
+        <note>Chart Drawer
    Calendar Drawer
-   Circle Chart Drawer
+   Chart Drawer
    Drawer Tab Name
    Gauge Drawer
-   Line Chart Drawer
+   Chart Drawer
    Text Drawer
    Window Title</note>
       </trans-unit>
@@ -7449,11 +7439,11 @@ Widget Size</note>
       <trans-unit id="Font Color" xml:space="preserve">
         <source>Font Color</source>
         <target>폰트 색상</target>
-        <note>Bar Chart Drawer
+        <note>Chart Drawer
    Calendar Drawer
-   Circle Chart Drawer
+   Chart Drawer
    Gauge Drawer
-   Line Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Font Format" xml:space="preserve">
@@ -7474,14 +7464,14 @@ Widget Size</note>
       <trans-unit id="Font Offset X" xml:space="preserve">
         <source>Font Offset X</source>
         <target>글꼴 오프셋 X</target>
-        <note>Bar Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Offset Y" xml:space="preserve">
         <source>Font Offset Y</source>
         <target>글꼴 오프셋 Y</target>
-        <note>Bar Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Rotation" xml:space="preserve">
         <source>Font Rotation</source>
@@ -7491,11 +7481,11 @@ Widget Size</note>
       <trans-unit id="Font Scale" xml:space="preserve">
         <source>Font Scale</source>
         <target>글꼴 크기</target>
-        <note>Bar Chart Drawer
+        <note>Chart Drawer
    Calendar Drawer
-   Circle Chart Drawer
+   Chart Drawer
    Gauge Drawer
-   Line Chart Drawer</note>
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Segments" xml:space="preserve">
         <source>Font Segments</source>
@@ -7505,31 +7495,31 @@ Widget Size</note>
       <trans-unit id="Font Shadow Color" xml:space="preserve">
         <source>Font Shadow Color</source>
         <target>그림자 색상</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Font Shadow Offset X" xml:space="preserve">
         <source>Font Shadow Offset X</source>
         <target>글꼴 그림자 오프셋 X</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Shadow Offset Y" xml:space="preserve">
         <source>Font Shadow Offset Y</source>
         <target>글꼴 그림자 오프셋 Y</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Shadow Radius" xml:space="preserve">
         <source>Font Shadow Radius</source>
         <target>글꼴 그림자 반경</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Font Spacing" xml:space="preserve">
         <source>Font Spacing</source>
@@ -7570,11 +7560,9 @@ Widget Size</note>
         <source>Fraction</source>
         <target>분수</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Frame" xml:space="preserve">
@@ -7628,11 +7616,6 @@ Text Drawer</note>
         <target>은닉에서</target>
         <note>Needle Picker</note>
       </trans-unit>
-      <trans-unit id="From Symbols" xml:space="preserve">
-        <source>From Symbols</source>
-        <target>기호에서</target>
-        <note>Needle Picker</note>
-      </trans-unit>
       <trans-unit id="From URL" xml:space="preserve">
         <source>From URL</source>
         <target>URL에서</target>
@@ -7656,7 +7639,7 @@ Text Drawer</note>
       <trans-unit id="Full Gradient" xml:space="preserve">
         <source>Full Gradient</source>
         <target>전체 그라데이션</target>
-        <note>Ring Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Full Moon" xml:space="preserve">
         <source>Full Moon</source>
@@ -7666,7 +7649,7 @@ Text Drawer</note>
       <trans-unit id="Full Scale" xml:space="preserve">
         <source>Full Scale</source>
         <target>풀 스케일</target>
-        <note>Ring Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Fully Charged" xml:space="preserve">
         <source>Fully Charged</source>
@@ -7742,11 +7725,6 @@ Text Drawer</note>
         <source>Get URL</source>
         <target>URL 가져 오기</target>
         <note>Sharing</note>
-      </trans-unit>
-      <trans-unit id="Get the most out of Widgy!" xml:space="preserve">
-        <source>Get the most out of Widgy!</source>
-        <target>Widgy를 최대한 활용하세요!</target>
-        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Getting You Started" xml:space="preserve">
         <source>Getting You Started</source>
@@ -8148,7 +8126,7 @@ Layer Properties</note>
       <trans-unit id="Hole Width" xml:space="preserve">
         <source>Hole Width</source>
         <target>구멍 폭</target>
-        <note>Circle Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Home" xml:space="preserve">
         <source>Home</source>
@@ -8166,7 +8144,7 @@ Layer Properties</note>
       <trans-unit id="Horizontal" xml:space="preserve">
         <source>Horizontal</source>
         <target>수평</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Horizontal Alignment" xml:space="preserve">
         <source>Horizontal Alignment</source>
@@ -8180,23 +8158,23 @@ Layer Properties</note>
       <trans-unit id="Horizontal Line Color" xml:space="preserve">
         <source>Horizontal Line Color</source>
         <target>수평 라인 색상</target>
-        <note>Line Chart Drawer
+        <note>Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Horizontal Line Count" xml:space="preserve">
         <source>Horizontal Line Count</source>
         <target>수평 라인 수</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Horizontal Line Dash" xml:space="preserve">
         <source>Horizontal Line Dash</source>
         <target>수평 라인 대시</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Horizontal Line Thickness" xml:space="preserve">
         <source>Horizontal Line Thickness</source>
         <target>수평 라인 두께</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Horoscope" xml:space="preserve">
         <source>Horoscope</source>
@@ -8548,10 +8526,6 @@ Layer Properties</note>
         <note>Button Title
    Widget Preview Button</note>
       </trans-unit>
-      <trans-unit id="Import &amp; Export" xml:space="preserve">
-        <source>Import &amp; Export</source>
-        <note>Button Title</note>
-      </trans-unit>
       <trans-unit id="Import .widgy File From Files" xml:space="preserve">
         <source>Import .widgy File From Files</source>
         <note>Import Screen</note>
@@ -8569,6 +8543,7 @@ Layer Properties</note>
       <trans-unit id="Import From Photos" xml:space="preserve">
         <source>Import From Photos</source>
         <note>Button Title
+Needle Picker
 Stash View</note>
       </trans-unit>
       <trans-unit id="Import From Photos (With PNG Transparency)" xml:space="preserve">
@@ -8577,7 +8552,16 @@ Stash View</note>
       </trans-unit>
       <trans-unit id="Import From Stash" xml:space="preserve">
         <source>Import From Stash</source>
-        <note>Button Title</note>
+        <note>Button Title
+Needle Picker</note>
+      </trans-unit>
+      <trans-unit id="Import From Symbols" xml:space="preserve">
+        <source>Import From Symbols</source>
+        <note>Needle Picker</note>
+      </trans-unit>
+      <trans-unit id="Import From URL" xml:space="preserve">
+        <source>Import From URL</source>
+        <note>Needle Picker</note>
       </trans-unit>
       <trans-unit id="Import From URL Or JSON" xml:space="preserve">
         <source>Import From URL Or JSON</source>
@@ -8620,6 +8604,18 @@ Stash View</note>
         <source>Import Widgy</source>
         <target>Widgy 가져오기</target>
         <note>Create Tab Top Actions</note>
+      </trans-unit>
+      <trans-unit id="Important Note: This purchase unlocks the features above, but it does not include Home Screen Slots, Lock Screen Slots or Live Activities — those are separate purchases." xml:space="preserve">
+        <source>Important Note: This purchase unlocks the features above, but it does not include Home Screen Slots, Lock Screen Slots or Live Activities — those are separate purchases.</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="Important Note: This purchase unlocks the features above, but it does not include Home Screen Slots, Watchy, or Apple Watch slots — those are separate purchases." xml:space="preserve">
+        <source>Important Note: This purchase unlocks the features above, but it does not include Home Screen Slots, Watchy, or Apple Watch slots — those are separate purchases.</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="Important Note: This purchase unlocks the features above, but it does not include Lock Screen Slots, Live Activities, Watchy, or Apple Watch slots — those are separate purchases." xml:space="preserve">
+        <source>Important Note: This purchase unlocks the features above, but it does not include Lock Screen Slots, Live Activities, Watchy, or Apple Watch slots — those are separate purchases.</source>
+        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Imported" xml:space="preserve">
         <source>Imported</source>
@@ -8785,7 +8781,7 @@ Widget Size</note>
       <trans-unit id="Inset Symbols And Text" xml:space="preserve">
         <source>Inset Symbols And Text</source>
         <target>삽입 기호 및 텍스트</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Inset Width" xml:space="preserve">
         <source>Inset Width</source>
@@ -8819,8 +8815,8 @@ Widget Size</note>
       <trans-unit id="Interpolate" xml:space="preserve">
         <source>Interpolate</source>
         <target>보간법</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Interpolation" xml:space="preserve">
         <source>Interpolation</source>
@@ -8842,11 +8838,6 @@ Widget Size</note>
         <target>질내 링</target>
         <note>HealthKit Data</note>
       </trans-unit>
-      <trans-unit id="Introducing Watchy" xml:space="preserve">
-        <source>Introducing Watchy</source>
-        <target>Watchy를 소개합니다</target>
-        <note>Onboarding</note>
-      </trans-unit>
       <trans-unit id="Invert Colors" xml:space="preserve">
         <source>Invert Colors</source>
         <target>색상 반전</target>
@@ -8854,7 +8845,7 @@ Widget Size</note>
       </trans-unit>
       <trans-unit id="Invert Values" xml:space="preserve">
         <source>Invert Values</source>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Ionicons" xml:space="preserve">
         <source>Ionicons</source>
@@ -8978,6 +8969,10 @@ Widget Size</note>
       <trans-unit id="Keep Button Configuration" xml:space="preserve">
         <source>Keep Button Configuration</source>
         <note>Popup Button</note>
+      </trans-unit>
+      <trans-unit id="Keep in mind that a single widget failure can sometimes cause the others to fail as well." xml:space="preserve">
+        <source>Keep in mind that a single widget failure can sometimes cause the others to fail as well.</source>
+        <note>Popup Message</note>
       </trans-unit>
       <trans-unit id="Kerning" xml:space="preserve">
         <source>Kerning</source>
@@ -9149,7 +9144,7 @@ Widget Size</note>
       <trans-unit id="Leading" xml:space="preserve">
         <source>Leading</source>
         <target>선도</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Lean Body Mass" xml:space="preserve">
         <source>Lean Body Mass</source>
@@ -9290,7 +9285,15 @@ Effects Drawer</note>
       <trans-unit id="Lines In Front" xml:space="preserve">
         <source>Lines In Front</source>
         <target>앞에 선</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
+      </trans-unit>
+      <trans-unit id="Liquid Glass: Off" xml:space="preserve">
+        <source>Liquid Glass: Off</source>
+        <note>Transparent Background</note>
+      </trans-unit>
+      <trans-unit id="Liquid Glass: On" xml:space="preserve">
+        <source>Liquid Glass: On</source>
+        <note>Transparent Background</note>
       </trans-unit>
       <trans-unit id="List Separator" xml:space="preserve">
         <source>List Separator</source>
@@ -9418,10 +9421,6 @@ Warnings Drawer</note>
         <source>Lock screen widgets can also be used as Watch complications. While editing the lock screen widgets, open the documents tab to tweak some Watch-specific options.</source>
         <note>Watchy Help Message</note>
       </trans-unit>
-      <trans-unit id="Login" xml:space="preserve">
-        <source>Login</source>
-        <note>Spotify API Setup</note>
-      </trans-unit>
       <trans-unit id="Long press on any custom color or gradient to show additional options." xml:space="preserve">
         <source>Long press on any custom color or gradient to show additional options.</source>
         <target>추가 옵션을 표시하려면 사용자 정의 색상 또는 그라디언트를 길게 누릅니다.</target>
@@ -9486,11 +9485,6 @@ Warnings Drawer</note>
         <source>Loss Of Taste</source>
         <target>맛의 상실</target>
         <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="Lots Of Data" xml:space="preserve">
-        <source>Lots Of Data</source>
-        <target>많은 데이터</target>
-        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Low Cardio Fitness Event" xml:space="preserve">
         <source>Low Cardio Fitness Event</source>
@@ -9594,10 +9588,6 @@ Warnings Drawer</note>
         <source>Make sure that your Widget looks good both in Light and Dark mode.</source>
         <note>Warnings Drawer</note>
       </trans-unit>
-      <trans-unit id="Make sure to check out the Help section for a better understanding of how Watchy works." xml:space="preserve">
-        <source>Make sure to check out the Help section for a better understanding of how Watchy works.</source>
-        <note>Onboarding</note>
-      </trans-unit>
       <trans-unit id="Make sure to have the 'Widgy-Linker' Shortcut installed on your device. It can be found in Manage Tab/More Settings/Shortcuts/Siri Shortcuts For Extra Widgy Functionality." xml:space="preserve">
         <source>Make sure to have the 'Widgy-Linker' Shortcut installed on your device. It can be found in Manage Tab/More Settings/Shortcuts/Siri Shortcuts For Extra Widgy Functionality.</source>
         <note>Pick View
@@ -9700,9 +9690,9 @@ Warnings Drawer</note>
       <trans-unit id="Max Segments" xml:space="preserve">
         <source>Max Segments</source>
         <target>최대 세그먼트</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Max. Temperature" xml:space="preserve">
         <source>Max. Temperature</source>
@@ -10357,18 +10347,6 @@ Widget Settings View</note>
         <target>NE</target>
         <note>Widget Default Messages</note>
       </trans-unit>
-      <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Lock Screen Slots or Live Activities!" xml:space="preserve">
-        <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Lock Screen Slots or Live Activities!</source>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
-      <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Watchy or Apple Watch Slots!" xml:space="preserve">
-        <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Home Screen Slots, Watchy or Apple Watch Slots!</source>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
-      <trans-unit id="NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Lock Screen Slots, Live Activities, Watchy or Apple Watch Slots!" xml:space="preserve">
-        <source>NOTE: Widgy has other purchases as well! This purchase WILL NOT UNLOCK Lock Screen Slots, Live Activities, Watchy or Apple Watch Slots!</source>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
       <trans-unit id="NW" xml:space="preserve">
         <source>NW</source>
         <target>NW</target>
@@ -10547,6 +10525,10 @@ Widget Settings View</note>
       <trans-unit id="No subscriptions or hidden fees, just a one-time purchase" xml:space="preserve">
         <source>No subscriptions or hidden fees, just a one-time purchase</source>
         <target>구독 또는 숨겨진 수수료가 없으며, 일회성 구매입니다.</target>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="No subscriptions. No hidden fees. Just more Widgy magic, forever." xml:space="preserve">
+        <source>No subscriptions. No hidden fees. Just more Widgy magic, forever.</source>
         <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="None" xml:space="preserve">
@@ -10864,11 +10846,9 @@ Window Title</note>
         <source>Ordinal</source>
         <target>서수</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Origin" xml:space="preserve">
@@ -10898,19 +10878,19 @@ Text Drawer</note>
       <trans-unit id="Outline" xml:space="preserve">
         <source>Outline</source>
         <target>개요</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Outline Color" xml:space="preserve">
         <source>Outline Color</source>
         <target>테두리색</target>
         <note>Effects Drawer
-   Line Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Outline Dash" xml:space="preserve">
         <source>Outline Dash</source>
         <target>개요 대시</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Outline Width" xml:space="preserve">
         <source>Outline Width</source>
@@ -11145,6 +11125,10 @@ Text Drawer</note>
         <target>사진에 대한 액세스를 허용하십시오.</target>
         <note>Albums Drawer</note>
       </trans-unit>
+      <trans-unit id="Please apply transparency again" xml:space="preserve">
+        <source>Please apply transparency again</source>
+        <note>Create View</note>
+      </trans-unit>
       <trans-unit id="Please check the restriction settings in the Settings app and then try again." xml:space="preserve">
         <source>Please check the restriction settings in the Settings app and then try again.</source>
         <target>설정 앱에서 제한 설정을 확인한 후 다시 시도하십시오.</target>
@@ -11218,10 +11202,8 @@ Text Drawer</note>
       <trans-unit id="Prefix" xml:space="preserve">
         <source>Prefix</source>
         <target>접두사</target>
-        <note>Bar Chart Drawer
-Circle Chart Drawer
-Gauge Drawer
-Line Chart Drawer</note>
+        <note>Chart Drawer
+Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Pregnancy" xml:space="preserve">
         <source>Pregnancy</source>
@@ -11435,11 +11417,6 @@ Line Chart Drawer</note>
       <trans-unit id="Push From Top" xml:space="preserve">
         <source>Push From Top</source>
         <note>Effects Drawer</note>
-      </trans-unit>
-      <trans-unit id="QR Codes" xml:space="preserve">
-        <source>QR Codes</source>
-        <target>QR 코드</target>
-        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Quick Access" xml:space="preserve">
         <source>Quick Access</source>
@@ -11726,6 +11703,10 @@ Effects Drawer</note>
         <target>제거하다</target>
         <note>Popup Title</note>
       </trans-unit>
+      <trans-unit id="Remove the 15-minute Watchy limit and unlock Complication slots — all with a single one-time purchase." xml:space="preserve">
+        <source>Remove the 15-minute Watchy limit and unlock Complication slots — all with a single one-time purchase.</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
       <trans-unit id="Rename" xml:space="preserve">
         <source>Rename</source>
         <target>이름 변경</target>
@@ -11841,6 +11822,10 @@ Effects Drawer</note>
         <source>Resting Heart Rate</source>
         <target>평시 심박수</target>
         <note>Data Sources</note>
+      </trans-unit>
+      <trans-unit id="Restore" xml:space="preserve">
+        <source>Restore</source>
+        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Restore Backup" xml:space="preserve">
         <source>Restore Backup</source>
@@ -12112,37 +12097,34 @@ Effects Drawer</note>
       <trans-unit id="Segment" xml:space="preserve">
         <source>Segment</source>
         <target>세그먼트</target>
-        <note>Bar Chart Drawer
-Circle Chart Drawer
-Gauge Drawer
-Line Chart Drawer
-Ring Chart Drawer</note>
+        <note>Chart Drawer
+Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Segment Color Mode" xml:space="preserve">
         <source>Segment Color Mode</source>
         <target>세그먼트 색상 모드</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Segment Colors" xml:space="preserve">
         <source>Segment Colors</source>
         <target>세그먼트 색상</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
+        <note>Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Segment Outline" xml:space="preserve">
         <source>Segment Outline</source>
         <target>세그먼트 개요</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
+        <note>Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Segment Outline Color" xml:space="preserve">
         <source>Segment Outline Color</source>
         <target>세그먼트 외곽선 색상</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Select Web API and NOT iOS API when creating your app." xml:space="preserve">
         <source>Select Web API and NOT iOS API when creating your app.</source>
@@ -12241,7 +12223,7 @@ Ring Chart Drawer</note>
       <trans-unit id="Shadow Offset" xml:space="preserve">
         <source>Shadow Offset</source>
         <target>그림자 오프셋</target>
-        <note>Ring Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Shadow Offset X" xml:space="preserve">
         <source>Shadow Offset X</source>
@@ -12352,16 +12334,16 @@ Ring Chart Drawer</note>
       <trans-unit id="Show Names" xml:space="preserve">
         <source>Show Names</source>
         <target>이름 보이기</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Show Percentages" xml:space="preserve">
         <source>Show Percentages</source>
         <target>백분율 표시</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Show Unit" xml:space="preserve">
         <source>Show Unit</source>
@@ -12372,9 +12354,9 @@ Text Drawer</note>
       <trans-unit id="Show Values" xml:space="preserve">
         <source>Show Values</source>
         <target>값 표시</target>
-        <note>Bar Chart Drawer
-   Circle Chart Drawer
-   Line Chart Drawer</note>
+        <note>Chart Drawer
+   Chart Drawer
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Show Week Number" xml:space="preserve">
         <source>Show Week Number</source>
@@ -12422,8 +12404,7 @@ Text Drawer</note>
       </trans-unit>
       <trans-unit id="Siri Shortcuts For Extra Widgy Functionality" xml:space="preserve">
         <source>Siri Shortcuts For Extra Widgy Functionality</source>
-        <note>Transparent Background
-Widget Settings View</note>
+        <note>Widget Settings View</note>
       </trans-unit>
       <trans-unit id="Six Minute Walk Test Distance" xml:space="preserve">
         <source>Six Minute Walk Test Distance</source>
@@ -12568,16 +12549,6 @@ Widget Settings View</note>
         <target>인후염</target>
         <note>Data Sources</note>
       </trans-unit>
-      <trans-unit id="Sort" xml:space="preserve">
-        <source>Sort</source>
-        <target>종류</target>
-        <note>Create Tab
-Explore Tab</note>
-      </trans-unit>
-      <trans-unit id="Sort &amp; Filter" xml:space="preserve">
-        <source>Sort &amp; Filter</source>
-        <note>Create Tab</note>
-      </trans-unit>
       <trans-unit id="Sort And Filter" xml:space="preserve">
         <source>Sort And Filter</source>
         <target>정렬 및 필터</target>
@@ -12628,7 +12599,7 @@ Warnings Drawer</note>
       <trans-unit id="Spacing" xml:space="preserve">
         <source>Spacing</source>
         <target>공백</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Speak Screen" xml:space="preserve">
         <source>Speak Screen</source>
@@ -12644,11 +12615,9 @@ Warnings Drawer</note>
         <source>Spelled Out</source>
         <target>철자</target>
         <note>Apple Gauge Drawer
-Bar Chart Drawer
-Circle Chart Drawer
+Chart Drawer
 Curved Text Drawer
 Gauge Drawer
-Line Chart Drawer
 Text Drawer</note>
       </trans-unit>
       <trans-unit id="Spotify" xml:space="preserve">
@@ -12682,7 +12651,7 @@ Window Title</note>
       <trans-unit id="Start Angle" xml:space="preserve">
         <source>Start Angle</source>
         <target>시작 각도</target>
-        <note>Circle Chart Drawer
+        <note>Chart Drawer
    Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Start Date" xml:space="preserve">
@@ -12697,7 +12666,7 @@ Window Title</note>
       <trans-unit id="Start Scale" xml:space="preserve">
         <source>Start Scale</source>
         <target>시작 규모</target>
-        <note>Ring Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Start Time" xml:space="preserve">
         <source>Start Time</source>
@@ -12708,14 +12677,6 @@ Window Title</note>
         <source>Start Time (Optional, in minutes 0-1439)</source>
         <target>Start Time (Optional, in minutes 0-1439)</target>
         <note>Automation View</note>
-      </trans-unit>
-      <trans-unit id="Starting from version 3.0 and onward, Live Activities and Dynamic Island slots will be unlocked as well." xml:space="preserve">
-        <source>Starting from version 3.0 and onward, Live Activities and Dynamic Island slots will be unlocked as well.</source>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
-      <trans-unit id="Starting from version 3.0 and onward, Watchy Complications slots will be unlocked as well." xml:space="preserve">
-        <source>Starting from version 3.0 and onward, Watchy Complications slots will be unlocked as well.</source>
-        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Starting with iOS 18 it's possible to hide all app and widget titles by choosing the new Large Icon mode." xml:space="preserve">
         <source>Starting with iOS 18 it's possible to hide all app and widget titles by choosing the new Large Icon mode.</source>
@@ -12845,10 +12806,8 @@ Warnings Drawer</note>
       <trans-unit id="Suffix" xml:space="preserve">
         <source>Suffix</source>
         <target>접미사</target>
-        <note>Bar Chart Drawer
-Circle Chart Drawer
-Gauge Drawer
-Line Chart Drawer</note>
+        <note>Chart Drawer
+Gauge Drawer</note>
       </trans-unit>
       <trans-unit id="Sum" xml:space="preserve">
         <source>Sum</source>
@@ -12975,7 +12934,7 @@ Line Chart Drawer</note>
         <target>기호</target>
         <note>Drawer Tab Name
    Layer Component
-   Line Chart Drawer
+   Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Symbol + Text" xml:space="preserve">
@@ -12990,29 +12949,29 @@ Line Chart Drawer</note>
       <trans-unit id="Symbol Color" xml:space="preserve">
         <source>Symbol Color</source>
         <target>기호 색상</target>
-        <note>Line Chart Drawer
+        <note>Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Symbol Offset X" xml:space="preserve">
         <source>Symbol Offset X</source>
         <target>기호 오프셋 X</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Offset Y" xml:space="preserve">
         <source>Symbol Offset Y</source>
         <target>기호 오프셋 Y</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Rotation" xml:space="preserve">
         <source>Symbol Rotation</source>
         <target>기호 회전</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Scale" xml:space="preserve">
         <source>Symbol Scale</source>
         <target>심볼 스케일</target>
         <note>Calendar Drawer
-   Line Chart Drawer</note>
+   Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Segments" xml:space="preserve">
         <source>Symbol Segments</source>
@@ -13022,23 +12981,23 @@ Line Chart Drawer</note>
       <trans-unit id="Symbol Shadow Color" xml:space="preserve">
         <source>Symbol Shadow Color</source>
         <target>기호 그림자 색상</target>
-        <note>Line Chart Drawer
+        <note>Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Symbol Shadow Offset X" xml:space="preserve">
         <source>Symbol Shadow Offset X</source>
         <target>기호 그림자 오프셋 X</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Shadow Offset Y" xml:space="preserve">
         <source>Symbol Shadow Offset Y</source>
         <target>기호 그림자 오프셋 Y</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Shadow Radius" xml:space="preserve">
         <source>Symbol Shadow Radius</source>
         <target>기호 그림자 반경</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Symbol Tangent Rotation" xml:space="preserve">
         <source>Symbol Tangent Rotation</source>
@@ -13293,11 +13252,6 @@ Watchy Manage View</note>
         <target>열번째</target>
         <note>Gauge Drawer</note>
       </trans-unit>
-      <trans-unit id="Test" xml:space="preserve">
-        <source>Test</source>
-        <target>시험</target>
-        <note>Button Title</note>
-      </trans-unit>
       <trans-unit id="Text" xml:space="preserve">
         <source>Text</source>
         <target>텍스트</target>
@@ -13318,7 +13272,7 @@ Watchy Manage View</note>
       <trans-unit id="Text On Top" xml:space="preserve">
         <source>Text On Top</source>
         <target>상단에 텍스트</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Thank you for your report." xml:space="preserve">
         <source>Thank you for your report.</source>
@@ -13368,6 +13322,10 @@ Watchy Manage View</note>
         <source>The editor provides you with 'Line Mode' options for the text layer, that are designed to help you control your text size.</source>
         <target>편집기는 텍스트 크기를 제어하는 데 도움이 되도록 설계된 텍스트 레이어에 대한 '라인 모드' 옵션을 제공합니다.</target>
         <note>Widgy Help Message</note>
+      </trans-unit>
+      <trans-unit id="The following widgets may have caused the issue:" xml:space="preserve">
+        <source>The following widgets may have caused the issue:</source>
+        <note>Popup Message</note>
       </trans-unit>
       <trans-unit id="The free version is limited to only one Widgy slot" xml:space="preserve">
         <source>The free version is limited to only one Widgy slot</source>
@@ -13436,16 +13394,6 @@ Watchy Manage View</note>
         <source>TheMealDB - Meal</source>
         <target>TheMealDB-식사</target>
         <note>Data Sources</note>
-      </trans-unit>
-      <trans-unit id="Themes" xml:space="preserve">
-        <source>Themes</source>
-        <target>테마</target>
-        <note>Onboarding</note>
-      </trans-unit>
-      <trans-unit id="There are no subscriptions or hidden fees, just a one-time purchase" xml:space="preserve">
-        <source>There are no subscriptions or hidden fees, just a one-time purchase</source>
-        <target>구독이나 숨겨진 수수료가 없으며 한 번만 구매하면 됩니다.</target>
-        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="There's no need to tap on those tiny icons" xml:space="preserve">
         <source>There's no need to tap on those tiny icons</source>
@@ -13531,15 +13479,6 @@ Warnings Drawer</note>
       <trans-unit id="This process requires setting up a Spotify developer app." xml:space="preserve">
         <source>This process requires setting up a Spotify developer app.</source>
         <note>Spotify API Setup</note>
-      </trans-unit>
-      <trans-unit id="This purchase will unlock all Circular, Rectangular, and Inline Widgy slots and will help fund the upcoming updates." xml:space="preserve">
-        <source>This purchase will unlock all Circular, Rectangular, and Inline Widgy slots and will help fund the upcoming updates.</source>
-        <target>This purchase will unlock all Circular, Rectangular, and Inline Widgy slots and will help fund the upcoming updates.</target>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
-      <trans-unit id="This purchase will unlock all Small, Medium, Large and XL Widgy slots and will help fund the upcoming updates." xml:space="preserve">
-        <source>This purchase will unlock all Small, Medium, Large and XL Widgy slots and will help fund the upcoming updates.</source>
-        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="This tap action will use the new iOS 17 widget reload, which doesn't open the Widgy app." xml:space="preserve">
         <source>This tap action will use the new iOS 17 widget reload, which doesn't open the Widgy app.</source>
@@ -13800,7 +13739,7 @@ Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Top Left Bar Edge Rounding" xml:space="preserve">
         <source>Top Left Bar Edge Rounding</source>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Top Left Corner Deformation X" xml:space="preserve">
         <source>Top Left Corner Deformation X</source>
@@ -13816,7 +13755,7 @@ Warnings Drawer</note>
       </trans-unit>
       <trans-unit id="Top Right Bar Edge Rounding" xml:space="preserve">
         <source>Top Right Bar Edge Rounding</source>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Top Right Corner Deformation X" xml:space="preserve">
         <source>Top Right Corner Deformation X</source>
@@ -13838,7 +13777,7 @@ Warnings Drawer</note>
       <trans-unit id="Trailing" xml:space="preserve">
         <source>Trailing</source>
         <target>후행</target>
-        <note>Bar Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Translations" xml:space="preserve">
         <source>Translations</source>
@@ -14045,6 +13984,10 @@ Warnings Drawer</note>
         <target>유니 코드 기호</target>
         <note>Symbol List</note>
       </trans-unit>
+      <trans-unit id="Unknown Id:" xml:space="preserve">
+        <source>Unknown Id:</source>
+        <note>In-App Purchase Messages</note>
+      </trans-unit>
       <trans-unit id="Unknown error" xml:space="preserve">
         <source>Unknown error</source>
         <target>알 수없는 오류</target>
@@ -14066,6 +14009,14 @@ Watchy Manage View</note>
         <note>Full Version Purchase Screen
 Watchy Manage View</note>
       </trans-unit>
+      <trans-unit id="Unlock Circular, Rectangular &amp; Inline slots, plus Live Activities and Dynamic Island — all with a single one-time purchase." xml:space="preserve">
+        <source>Unlock Circular, Rectangular &amp; Inline slots, plus Live Activities and Dynamic Island — all with a single one-time purchase.</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
+      <trans-unit id="Unlock Even More Widgy Power" xml:space="preserve">
+        <source>Unlock Even More Widgy Power</source>
+        <note>Full Version Purchase Screen</note>
+      </trans-unit>
       <trans-unit id="Unlock Password Protected Widgets" xml:space="preserve">
         <source>Unlock Password Protected Widgets</source>
         <note>Password Protected Widgets</note>
@@ -14073,6 +14024,10 @@ Watchy Manage View</note>
       <trans-unit id="Unlock Right Away" xml:space="preserve">
         <source>Unlock Right Away</source>
         <note>Popup Button</note>
+      </trans-unit>
+      <trans-unit id="Unlock Small, Medium, Large &amp; XL slots — all with a single one-time purchase that also supports future updates." xml:space="preserve">
+        <source>Unlock Small, Medium, Large &amp; XL slots — all with a single one-time purchase that also supports future updates.</source>
+        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="Unspecified" xml:space="preserve">
         <source>Unspecified</source>
@@ -14168,6 +14123,10 @@ Widget Settings View</note>
         <target>사용 된 메모리 (퍼센트)</target>
         <note>Data Sources</note>
       </trans-unit>
+      <trans-unit id="Useful Siri Shortcuts" xml:space="preserve">
+        <source>Useful Siri Shortcuts</source>
+        <note>Transparent Background</note>
+      </trans-unit>
       <trans-unit id="User Info" xml:space="preserve">
         <source>User Info</source>
         <target>사용자 정보</target>
@@ -14254,23 +14213,23 @@ Group Aligment Drawer</note>
       <trans-unit id="Vertical Line Color" xml:space="preserve">
         <source>Vertical Line Color</source>
         <target>수직선 색상</target>
-        <note>Line Chart Drawer
+        <note>Chart Drawer
    Window Title</note>
       </trans-unit>
       <trans-unit id="Vertical Line Count" xml:space="preserve">
         <source>Vertical Line Count</source>
         <target>수직선 수</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Vertical Line Dash" xml:space="preserve">
         <source>Vertical Line Dash</source>
         <target>수직선 대시</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Vertical Line Thickness" xml:space="preserve">
         <source>Vertical Line Thickness</source>
         <target>수직선 두께</target>
-        <note>Line Chart Drawer</note>
+        <note>Chart Drawer</note>
       </trans-unit>
       <trans-unit id="Vertical Text" xml:space="preserve">
         <source>Vertical Text</source>
@@ -14444,16 +14403,6 @@ Widget Size</note>
         <target>감시 슬롯</target>
         <note>In-App Purchase Messages
 Widget Slot Name</note>
-      </trans-unit>
-      <trans-unit id="Watchy has everything you love about Widgy" xml:space="preserve">
-        <source>Watchy has everything you love about Widgy</source>
-        <target>Watchy에는 Widgy에 대해 좋아하는 모든 것이 있습니다.</target>
-        <note>Onboarding</note>
-      </trans-unit>
-      <trans-unit id="Watchy is Widgy for your Watch!" xml:space="preserve">
-        <source>Watchy is Widgy for your Watch!</source>
-        <target>Watchy는 당신의 시계를 위한 Widgy입니다!</target>
-        <note>Onboarding</note>
       </trans-unit>
       <trans-unit id="Watchy is only available on the latest major watchOS version, so be sure you're up to date with system updates." xml:space="preserve">
         <source>Watchy is only available on the latest major watchOS version, so be sure you're up to date with system updates.</source>
@@ -14753,8 +14702,8 @@ Settings View</note>
         <target>위젯을 편집할 때 글꼴 크기는 어떻게 선택합니까?</target>
         <note>Widgy Help Title</note>
       </trans-unit>
-      <trans-unit id="When everything is filled in correctly, tap the &quot;Login&quot; in the top right to finish." xml:space="preserve">
-        <source>When everything is filled in correctly, tap the "Login" in the top right to finish.</source>
+      <trans-unit id="When everything is filled in correctly, tap the ✓ in the top right to finish." xml:space="preserve">
+        <source>When everything is filled in correctly, tap the ✓ in the top right to finish.</source>
         <note>Spotify API Setup</note>
       </trans-unit>
       <trans-unit id="While in low power mode, Widgets refresh less frequent." xml:space="preserve">
@@ -14919,6 +14868,10 @@ Window Title</note>
         <source>Widget won't display all data properly.</source>
         <target>위젯은 모든 데이터를 제대로 표시하지 않습니다.</target>
         <note>Pick View</note>
+      </trans-unit>
+      <trans-unit id="Widgets Failed to Load" xml:space="preserve">
+        <source>Widgets Failed to Load</source>
+        <note>Popup Title</note>
       </trans-unit>
       <trans-unit id="Widgets are limited to a budget of just 30 MB of system memory. Adding a Dark Mode variant of the image increases the chances of overflowing that memory budget." xml:space="preserve">
         <source>Widgets are limited to a budget of just 30 MB of system memory. Adding a Dark Mode variant of the image increases the chances of overflowing that memory budget.</source>
@@ -15163,18 +15116,10 @@ Warnings Drawer</note>
         <source>You can import any file made in Widgy. The importer won't convert the file to any other format (for example Widgy to Watchy).</source>
         <note>Import Screen</note>
       </trans-unit>
-      <trans-unit id="You can re-sync Watchys as many times as you want, or you can remove the time and slot limits with just a one-time purchase" xml:space="preserve">
-        <source>You can re-sync Watchys as many times as you want, or you can remove the time and slot limits with just a one-time purchase</source>
-        <note>Full Version Purchase Screen</note>
-      </trans-unit>
       <trans-unit id="You can resize the drawer to any size." xml:space="preserve">
         <source>You can resize the drawer to any size.</source>
         <target>서랍의 크기를 원하는대로 조정할 수 있습니다.</target>
         <note>Onboarding</note>
-      </trans-unit>
-      <trans-unit id="You can test Watchy for free, but after 15 minutes, all your Watchy slots will be unassigned from your Watch." xml:space="preserve">
-        <source>You can test Watchy for free, but after 15 minutes, all your Watchy slots will be unassigned from your Watch.</source>
-        <note>Full Version Purchase Screen</note>
       </trans-unit>
       <trans-unit id="You can use the || delimiter both in source and target to replace multiple strings at the same time." xml:space="preserve">
         <source>You can use the || delimiter both in source and target to replace multiple strings at the same time.</source>
